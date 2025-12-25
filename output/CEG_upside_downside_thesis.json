@@ -1,0 +1,1230 @@
+{
+  "upside_thesis_summary": "• The company’s position as the nation’s largest producer of reliable, emissions-free energy with a nearly 90% carbon-free generation fleet and a broad customer base, including major corporations, provides a strong competitive advantage and foundation for growth in the clean energy transition.\n• The integrated business model selling electricity, natural gas, and sustainable solutions across multiple regions and customer types offers diversified revenue streams and cross-selling opportunities, enhancing growth potential.\n• The company’s disciplined risk management, including commodity price hedging and eligibility for the nuclear production tax credit (PTC), supports financial stability and earnings predictability.\n• Strong retail customer renewal rates and long-term contracts, such as the 20-year PPA with Meta Platforms, underpin durable revenue streams and effective pricing power.\n• The company maintains substantial liquidity and access to capital markets, with $9.5 billion in credit facilities and a disciplined capital allocation strategy including a significant share repurchase program, supporting funding for capital expenditures, acquisitions, dividends, and debt repayments.",
+  "downside_thesis_summary": "• The company’s reliance on carbon-free generation assets exposes it to regulatory, operational, and market risks, including complexities in nuclear fuel supply chains and geopolitical risks related to uranium contracts sourced from Russia.\n• Emerging technologies in distributed generation, energy storage, and energy efficiency could disrupt current business models and render portions of generation assets uneconomic before the end of their useful lives, potentially leading to impairments or accelerated costs.\n• The competitive retail environment with low barriers to entry and aggressive competitors during periods of low natural gas and power prices may pressure margins and limit volume growth.\n• The business’s capital-intensive nature and dependence on external financing expose it to risks from credit rating downgrades, capital market disruptions, and increased collateral requirements that could strain liquidity and increase borrowing costs.\n• Environmental liabilities, including significant remediation costs at legacy sites and uncertainties related to spent nuclear fuel storage timelines, pose substantial financial exposure and legal risks.",
+  "raw_dimensions": [
+    {
+      "facts": [
+        {
+          "statement": "We are the nation’s largest producer of reliable, emissions-free energy and a leading energy supplier to businesses, homes and public sector customers nationwide, including three-fourths of Fortune 100 companies. Our nuclear, hydro, wind, and solar generation facilities have the generating capacity to power the equivalent of 16 million homes, providing about 10 percent of the nation's clean energy in the United States. Our fleet is helping to accelerate the nation’s transition to a carbon-free future with more than 31,676 megawatts of capacity and an annual output that is nearly 90 percent carbon-free. We are committed to investing in innovative technologies to drive the transition to a reliable, sustainable and secure energy future. Our customer-facing business is one of the nation's largest competitive energy suppliers, offering innovative solutions to meet our customers' needs. We employ approximately 14,264 people, and do business in 48 states, the District of Columbia, Canada, and the United Kingdom.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Through our integrated business operations, we sell electricity, natural gas, and other energy-related products and sustainable solutions to various types of customers, including distribution utilities, municipalities, cooperatives, and commercial, industrial, public sector, and residential customers in markets across multiple geographic regions. We have five reportable segments: Mid-Atlantic, Midwest, New York, ERCOT and Other Power Regions.",
+          "source_section": "10-K Combined Notes to Consolidated Financial Statements Note 1 — Basis of Presentation"
+        },
+        {
+          "statement": "Our offerings provide scalable solutions to meet sustainability goals through investment across the life of the facility or operations and allow for greater budget certainty. The ongoing ability to optimize energy consumption for customers allows us to support customer demands with the right combination of technology and efficiency program options.",
+          "source_section": "10-K Page 25"
+        },
+        {
+          "statement": "We recently launched Constellation Navigator, which delivers customized paths and sustainable solutions for customers to set and meet their environmental and operational goals. Driven by advanced technology platforms and experienced advisors, it provides strategies to help organizations understand their baseline emissions and reduce their carbon footprints. Constellation Navigator helps businesses solve challenges across the energy lifecycle including utility bill management, carbon accounting, rebate administration and sustainability advisory services. These platforms and services provide new avenues for incremental growth by coupling the opportunities for customer usage optimization with accompanying products and sustainable solutions that we can provide to customers. These types of data and analytical services allow us to grow our customer base in previously inaccessible regulated markets by offering non-commodity energy-related products and services.",
+          "source_section": "10-K Page 25"
+        },
+        {
+          "statement": "Constellation Technology Ventures (CTV) is our venture investing business, focused on driving innovation and scaling breakthrough technologies. CTV invests in a broad range of hardware and software solutions that accelerate the transition to a sustainable, low-carbon economy. Our portfolio spans diverse areas, including, generation technologies, sustainability monitoring tools, distributed energy resources, financing solutions, and more. By collaborating closely with our portfolio companies, we help commercialize their products and technologies across our expansive customer base, creating value for both our partners and us.",
+          "source_section": "10-K Page 25"
+        },
+        {
+          "statement": "We operate the largest carbon-free generation fleet in the nation and are one of the largest competitive electric generation companies in the nation, as measured by owned and contracted MWs. Collectively, the combined fleet is the cleanest large generation portfolio in the country (nearly 90% carbon-free based on generation output of electricity) according to the 2024 Ceres Benchmarking Air Emissions of the 100 Largest Electric Power Producers in the United States.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "We leverage a combination of wholesale and retail customer load sales, federal and state programs, as well as non-derivative and derivative contracts, all with credit-approved counterparties, to hedge the commodity price risk of our generation portfolio.",
+          "source_section": "10-K Page 25"
+        },
+        {
+          "statement": "Beginning in 2024, our existing nuclear fleet is eligible for the nuclear PTC provided by the IRA, an important tool in managing commodity price risk for each nuclear unit not already receiving state support. The nuclear PTC provides increasing levels of support as unit revenues decline below levels established in the IRA and is further adjusted for inflation after 2024 through the duration of the program based on the GDP price deflator for the preceding calendar year.",
+          "source_section": "10-K Page 25"
+        },
+        {
+          "statement": "The cycle of production and utilization of nuclear fuel includes the mining and milling of uranium ore into uranium concentrates, the conversion of uranium concentrates to uranium hexafluoride, the enrichment of the uranium hexafluoride, and the fabrication of fuel assemblies. Nuclear fuel is obtained predominantly through long-term contracts for uranium concentrates, conversion services, enrichment services, (or a combination thereof) and fabrication services, including contracts sourced from Russia. We have inventory in various forms and engage a diverse set of domestic and international suppliers to secure the nuclear fuel needed to continue to operate our nuclear fleet long-term.",
+          "source_section": "10-K Page 25 and 42"
+        },
+        {
+          "statement": "Our business strategy demonstrates our commitment to a carbon-free future while maintaining a strong balance sheet, advancing our sustainability and community initiatives, and investing in clean energy solutions. We focus on optimizing cash returns through a disciplined approach to safe and efficient operations and cost management, underpinned by stable and durable margins from our customer-facing business and coupled with distinct payments to our generation plants for the clean energy attributes. We may pursue future growth opportunities that provide additional value building on our core businesses, or expanding our competitive advantages. We are committed to maintaining investment grade credit ratings. We continue to serve as a partner to businesses and public entities that are setting ambitious sustainability goals and seeking long-term solutions to ensure reliability and maintain affordability.",
+          "source_section": "10-K Page 27"
+        },
+        {
+          "statement": "Our retail operations compete for customers in a competitive environment, which affects the margins we can earn and the volumes we are able to serve. In periods of sustained low natural gas and power prices and low market volatility, retail competitors can aggressively pursue market share because the barriers to entry can be low and wholesale generators (including us) use their retail operations to hedge generation output.",
+          "source_section": "10-K Page 42"
+        },
+        {
+          "statement": "The wholesale markets vary from region to region with distinct rules, practices and procedures. Changes in these market rules, problems with rule implementation, or failure of any of these markets could adversely affect our business. In addition, a significant decrease in market participation could affect market liquidity and have a detrimental effect on market stability.",
+          "source_section": "10-K Page 42"
+        },
+        {
+          "statement": "Advancements in both distributed and utility-scale power generation technology could impact market prices and demand size and behaviors. For instance, commercial and residential solar generation installations, energy storage improvements that include batteries and fuel cells, and other emerging technologies are improving the cost-effectiveness of customer self-supply of electricity. Improvements in energy efficiency of lighting, appliances, equipment and building materials will also affect energy consumption by customers. Advancements in nuclear technology, carbon capture sequestration, storage and advanced geothermal may contribute to a substantial increase in the supply of clean, reliable baseload power, impacting market prices. Carbon sequestration technology may also allow for gas generation to continue to be a viable source of clean electricity and provide for future growth of clean gas-powered generation. These developments could affect the price of energy, levels of customer-owned generation, customer expectations and current business models and make portions of our generation facilities uneconomic prior to the end of their useful lives.",
+          "source_section": "10-K Page 42"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "An optimistic investor could view the company's position as the nation’s largest producer of reliable, emissions-free energy with a nearly 90% carbon-free generation fleet and a broad customer base including major corporations as a strong competitive advantage and a solid foundation for growth in the clean energy transition.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            5
+          ]
+        },
+        {
+          "interpretation": "The integrated business model selling electricity, natural gas, and sustainable solutions across multiple geographic regions and customer types provides diversified revenue streams and opportunities for cross-selling innovative products and services, enhancing growth potential.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            3
+          ]
+        },
+        {
+          "interpretation": "The launch of Constellation Navigator and the venture investing business (CTV) focused on breakthrough technologies demonstrate the company's commitment to innovation and expanding its value proposition through advanced technology platforms and partnerships, potentially driving incremental growth and market expansion.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            4
+          ]
+        },
+        {
+          "interpretation": "The company's disciplined approach to risk management, including hedging commodity price risk and eligibility for the nuclear PTC, supports financial stability and mitigates exposure to market volatility, which could enhance earnings predictability.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The company’s strategy to maintain investment grade credit ratings, optimize cash returns, and pursue growth opportunities aligned with sustainability goals positions it well to capitalize on the increasing demand for carbon-free energy and sustainable solutions.",
+          "intensity": "High",
+          "source_fact_index": [
+            9
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "A cautious investor could be concerned that the company's large scale and reliance on carbon-free generation assets may expose it to regulatory, operational, and market risks, especially given the complexity of nuclear fuel supply chains and geopolitical risks such as sanctions affecting Russian uranium imports.",
+          "intensity": "High",
+          "source_fact_index": [
+            8,
+            11
+          ]
+        },
+        {
+          "interpretation": "The competitive retail environment with low barriers to entry and aggressive competitors during periods of low natural gas and power prices could pressure margins and limit volume growth in the customer-facing business.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            10
+          ]
+        },
+        {
+          "interpretation": "Variability and changes in wholesale market rules and participation could reduce market liquidity and stability, potentially adversely affecting the company’s operations and financial results.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            11
+          ]
+        },
+        {
+          "interpretation": "Emerging technologies in distributed generation, energy storage, and energy efficiency could disrupt current business models and make portions of the company’s generation assets uneconomic before the end of their useful lives, potentially leading to asset impairments or accelerated costs.",
+          "intensity": "High",
+          "source_fact_index": [
+            12
+          ]
+        },
+        {
+          "interpretation": "The company’s reliance on long-term contracts and complex integrated operations across multiple regions may expose it to operational and execution risks, including the ability to effectively commercialize new technologies and solutions.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            4,
+            9
+          ]
+        }
+      ],
+      "dimension": "Business Model & Competitive Position"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We recently launched Constellation Navigator, which delivers customized paths and sustainable solutions for customers to set and meet their environmental and operational goals. Driven by advanced technology platforms and experienced advisors, it provides strategies to help organizations understand their baseline emissions and reduce their carbon footprints. Constellation Navigator helps businesses solve challenges across the energy lifecycle including utility bill management, carbon accounting, rebate administration and sustainability advisory services. These platforms and services provide new avenues for incremental growth by coupling the opportunities for customer usage optimization with accompanying products and sustainable solutions that we can provide to customers. These types of data and analytical services allow us to grow our customer base in previously inaccessible regulated markets by offering non-commodity energy-related products and services.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our CORe+ product serves C&I customers' sustainability needs by matching contracted, third-party new-build renewable generation with customer desire to add additional carbon-free generation to the grid with a preference to be located within the same region as their load. In 2024, we continued to see growing demand for our Hourly Carbon-Free Energy (CFE) product and platform, as we have closed a number of additional Hourly CFE transactions with a strong pipeline of interested prospects. Achieving 100% carbon-free power is a key sustainability goal for many organizations. As customers make the transition to 100% hourly carbon-free power, many are looking to bridge the gap between their real-time electricity demand and available sources of carbon-free power. Our Hourly CFE platform and associated products match carbon-free generation every hour with a customer’s load, along with appropriate tracking and retirement of hourly attributes in the applicable registry. Many existing CORe+ customers are converting to 100% Hourly CFE with existing nuclear filling in the gaps of the hours renewable generation is not producing.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We also partner with our customers to provide energy efficiency options to meet their carbon-free energy goals. Our energy efficiency products provide the ability to optimize performance and maximize efficiency across customer facilities and operations through contract structures that include implementation of energy efficiency upgrades and behind-the-meter solutions with no upfront capital requirements.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We continue to look for new and innovative products and solutions to bring to our customers. Constellation Technology Ventures (CTV) is our venture investing business, focused on driving innovation and scaling breakthrough technologies. CTV invests in a broad range of hardware and software solutions that accelerate the transition to a sustainable, low-carbon economy. Our portfolio spans diverse areas, including, generation technologies, sustainability monitoring tools, distributed energy resources, financing solutions, and more. By collaborating closely with our portfolio companies, we help commercialize their products and technologies across our expansive customer base, creating value for both our partners and us.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "In our wholesale gas business, we participate across all parts of the gas value chain, including trading, transport and storage, and physical supply.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "With increased customer demand for sustainability, our ability to source contracted generation has provided a capital-light way for us to provide customers with long-term sustainable solutions they are demanding to support a cleaner energy ecosystem. This creates durable customer relationships and repeatable business through the ability to respond to customer and marketplace trends.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Portfolio hedging activities are generally concentrated in the prompt three years, when customer demand and market liquidity enable effective price risk mitigation. During this prompt three-year period, we seek to mitigate price risk associated with our load serving contracts, non-nuclear generation, and any residual price risk for our nuclear generation that the nuclear PTC and state programs may not fully mitigate. We also enter transactions that further optimize the economic benefits of our overall portfolio.",
+          "source_section": "10-Q Page 87"
+        },
+        {
+          "statement": "Beginning in 2024, our existing nuclear fleet is eligible for a nuclear PTC, an important tool in managing commodity price risk for each nuclear unit not already receiving state support. The nuclear PTC provides increasing levels of support as unit revenues decline below levels established in the IRA and is further adjusted for inflation annually through the duration of the program based on the GDP price deflator for the preceding calendar year.",
+          "source_section": "10-Q Page 87"
+        },
+        {
+          "statement": "We procure natural gas through long-term and short-term contracts, and spot-market purchases. Nuclear fuel is obtained predominantly through long-term contracts for uranium concentrates, conversion services, enrichment services, (or a combination thereof) and fabrication services, including contracts sourced from Russia. The supply markets for uranium concentrates and certain nuclear fuel services are subject to price fluctuations and availability restrictions. Supply market conditions may make our procurement contracts subject to credit risk related to the potential non-performance of counterparties to deliver the contracted commodity or service at the contracted prices. We engage a diverse set of suppliers to secure the nuclear fuel needed to continue to operate our nuclear fleet long-term.",
+          "source_section": "10-Q Page 87"
+        },
+        {
+          "statement": "Approximately 35% of our uranium concentrate requirements for the remainder of 2025 through 2030 are supplied by three suppliers. To-date, we have not experienced any counterparty credit risk associated with these suppliers stemming from the Russia and Ukraine conflict. In the event of non-performance by these or other suppliers, we believe that replacement uranium concentrate can be obtained, although at prices that may be unfavorable when compared to the prices under the current supply agreements.",
+          "source_section": "10-Q Page 87"
+        },
+        {
+          "statement": "The forecasted market price risk exposure as of September 30, 2025 for our portfolio associated with a $5/MWh reduction in the annual average around-the-clock energy price results in an impact to earnings that is not material for 2025 and a decrease to earnings of approximately $219 million for 2026.",
+          "source_section": "10-Q Page 87"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The launch of Constellation Navigator and the expansion of data and analytical services provide new avenues for incremental growth by enabling customer usage optimization and expanding into previously inaccessible regulated markets with non-commodity energy-related products and services.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Growing demand for sustainability products such as CORe+ and Hourly Carbon-Free Energy (CFE) platforms, along with a strong pipeline of prospects, indicates robust customer interest and potential for expanding market share in clean energy solutions.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Partnerships with customers to provide energy efficiency options with no upfront capital requirements can enhance customer retention and support sustainability goals, potentially driving revenue growth through service offerings.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Constellation Technology Ventures' investments in innovative clean energy technologies and commercialization across a broad customer base create opportunities for market expansion and value creation through new products and solutions.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The ability to source contracted generation in response to increased customer demand for sustainability provides a capital-light method to offer long-term sustainable solutions, fostering durable customer relationships and repeatable business.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Portfolio hedging activities concentrated in the prompt three years, combined with the nuclear PTC support, help mitigate commodity price risk effectively, supporting stable earnings and financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "While Constellation Navigator and related services offer growth opportunities, reliance on new platforms and services in previously inaccessible markets may face adoption challenges and competitive pressures, limiting near-term impact.",
+          "intensity": "Low",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Although demand for CORe+ and Hourly CFE products is growing, the transition of customers to 100% hourly carbon-free power depends on the availability and reliability of renewable generation, which may be variable and could affect customer satisfaction and retention.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Energy efficiency products requiring implementation and operational changes may face customer resistance or delays, potentially limiting the pace of adoption and associated revenue growth.",
+          "intensity": "Low",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Investments through Constellation Technology Ventures in emerging technologies carry inherent risks of commercialization failure or slow market acceptance, which could limit expected value creation.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Dependence on contracted generation to meet sustainability demand exposes the company to counterparty risks and market fluctuations, which could impact the ability to deliver long-term solutions and affect customer relationships.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The nuclear PTC and hedging strategies mitigate price risk, but earnings could still be negatively impacted by significant market price declines, as indicated by the forecasted $219 million earnings decrease in 2026 from a $5/MWh price reduction.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7,
+            10
+          ]
+        },
+        {
+          "interpretation": "Supply chain risks related to nuclear fuel procurement, including concentration of uranium supply among few suppliers and geopolitical risks from contracts sourced from Russia, could lead to price volatility or supply disruptions, adversely affecting operations and costs.",
+          "intensity": "High",
+          "source_fact_index": [
+            8,
+            9
+          ]
+        }
+      ],
+      "dimension": "Revenue Growth Drivers & Demand Outlook"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Retail customer renewal rates have been strong over the last nine years across C&I power customer groups with average contract terms of approximately two years and customer duration of approximately five years, with many customers well beyond these metrics. Specifically, we enjoyed renewal rates of 78% for C&I power customers and 88% for C&I gas customers in 2024, owing to both our competitive pricing as well as our strong customer relationships.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our consistently high renewal rates are driven by our ability to provide customized solutions and deliver focused attention to our customers’ needs, resulting in an industry-leading C&I customer-service business ranking in the DNV 2024 Energy Blueprint: Sales Strategies report.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "In June 2025, we signed a 20-year PPA with Meta Platforms, Inc. (Meta) for the output of the Clinton Clean Energy Center to support Meta’s clean energy goals and operations in the region with emissions-free nuclear energy. The agreement, beginning in June 2027, supports the relicensing and continued operations of Clinton for another two decades after the state’s ZEC program expires.",
+          "source_section": "10-Q Item 1A"
+        },
+        {
+          "statement": "This deal will expand Clinton’s clean energy output by 30 megawatts through plant uprates, expected to be fully complete in 2029, and will enable the Clinton Clean Energy Center to continue to flow power onto the local grid, providing grid reliability and low-cost power to the region for decades to come.",
+          "source_section": "10-Q Item 1A"
+        },
+        {
+          "statement": "The uprates are expected to qualify for the technology-neutral clean electricity PTC (45Y) provided for by the IRA and preserved by the OBBBA for its first 10 years of operations.",
+          "source_section": "10-Q Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s strong retail customer renewal rates of 78% for C&I power and 88% for C&I gas customers, supported by competitive pricing and strong customer relationships, indicate durable revenue streams and effective pricing power in the retail market.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The ability to provide customized solutions and maintain an industry-leading customer-service ranking suggests strong pricing power and customer loyalty, which can support sustained revenue and market position.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The 20-year power purchase agreement with Meta Platforms for the Clinton Clean Energy Center ensures long-term revenue durability and contract stability, supporting the continued operation and expansion of clean energy output.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The planned 30 megawatt uprates at Clinton Clean Energy Center, qualifying for clean electricity production tax credits, enhance the company’s ability to offer low-cost power and improve revenue potential over the long term.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            4
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Although renewal rates are strong, the average contract term of approximately two years and customer duration of about five years may expose the company to periodic pricing pressure and customer churn, potentially impacting revenue stability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Reliance on customized solutions and customer service to maintain high renewal rates may require ongoing investment and operational focus, which could pressure margins and pricing power if competitive dynamics intensify.",
+          "intensity": "Low",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The 20-year PPA with Meta Platforms, while providing long-term contract revenue, is subject to regulatory and operational risks related to plant uprates and relicensing, which could affect the durability of revenue from this contract.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            3
+          ]
+        },
+        {
+          "interpretation": "The qualification of uprates for tax credits is contingent on regulatory frameworks, and any changes could reduce the expected financial benefits, impacting the cost competitiveness and revenue from the Clinton Clean Energy Center.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        }
+      ],
+      "dimension": "Pricing Power & Revenue Quality"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Operating revenues $ 23,568 $ 24,918 $ (1,350) Operating expenses Purchased power and fuel 11,419 16,001 (4,582) Operating and maintenance 6,159 5,685 474 Depreciation and amortization 1,123 1,096 27 Taxes other than income taxes 586 553 33 Total operating expenses 19,287 23,335 (4,048) Operating income (loss) 4,352 1,610 2,742",
+          "source_section": "10-K Item 7 Results of Operations (Page 86)"
+        },
+        {
+          "statement": "The variance in Net income (loss) attributable to common shareholders was favorable by $2,126 million primarily due to: Favorable net mark-to-market activity and other fair value adjustments; Favorable nuclear PTC activity related to the IRA beginning in 2024; and Favorable market and portfolio conditions primarily driven by higher realized margins on load contracts and generation-to-load optimization. The favorable items were partially offset by: Higher labor (inclusive of incentives), contracting, and materials; Lower unrealized gains resulting from an investment that became a publicly traded company in the second quarter of 2023; Unfavorable net realized and unrealized NDT activity; and Lower revenue recognized for ZECs delivered under the Illinois ZEC program in prior planning years.",
+          "source_section": "10-K Item 7 Results of Operations (Page 86)"
+        },
+        {
+          "statement": "Operating expenses Purchased power and fuel 3,567 3,119 448 Operating and maintenance 1,511 1,535 (24) Depreciation and amortization 241 266 (25) Taxes other than income taxes 165 165 — Total operating expenses 5,484 5,085 399 Operating income (loss) 1,086 1,467 (381)",
+          "source_section": "10-Q Item 2 Results of Operations (Page 72)"
+        },
+        {
+          "statement": "Cash flows from operating activities include the sale of energy, energy-related products, and sustainable solutions, as well as sales of nuclear PTCs. Our future cash flows from operating activities may be affected by future demand for, and market prices of, energy and our ability to continue to produce and supply power at competitive costs, as well as to obtain collections from customers.",
+          "source_section": "10-K Item 7 Liquidity and Capital Resources (Page 99)"
+        },
+        {
+          "statement": "Our business is capital intensive and requires considerable capital resources. We annually evaluate our financing plan and credit line sizing, focusing on maintaining our investment grade ratings while meeting our cash needs to fund capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and OPEB obligations, and invest in new and existing ventures.",
+          "source_section": "10-K Item 7 Liquidity and Capital Resources (Page 99)"
+        },
+        {
+          "statement": "Higher labor (inclusive of incentives), contracting, and materials were partially offsetting favorable items in net income variance.",
+          "source_section": "10-K Item 7 Results of Operations (Page 86)"
+        },
+        {
+          "statement": "Operating lease expense and variable lease payments are recorded to Purchased power and fuel expense for contracted generation or Operating and maintenance expense for all other lease agreements in the Consolidated Statements of Operations and Comprehensive Income.",
+          "source_section": "10-K Note 1 Basis of Presentation (Page 138)"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company achieved a significant increase in operating income in 2024 compared to 2023, driven by lower purchased power and fuel expenses and higher realized margins on load contracts and generation-to-load optimization, indicating improved operational efficiency and margin expansion.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1
+          ]
+        },
+        {
+          "interpretation": "Favorable nuclear PTC activity related to the IRA beginning in 2024 contributed positively to net income, supporting margin sustainability through government incentives.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The company’s capital intensive business model is supported by a proactive financing plan and credit line management, which helps maintain investment grade ratings and ensures sufficient cash flows to meet operating expenses and capital expenditure requirements, supporting operating leverage and margin sustainability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Operating lease expenses are systematically accounted for and included in operating expenses, reflecting a structured approach to cost management related to leased assets.",
+          "intensity": "Low",
+          "source_fact_index": [
+            6
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Despite the increase in operating income, the company experienced higher labor, contracting, and materials costs which partially offset favorable income items, indicating cost inflation pressures that could compress margins.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            5
+          ]
+        },
+        {
+          "interpretation": "Operating income decreased in the three months ended September 30, 2025 compared to the same period in 2024, suggesting potential volatility in margins and operational challenges in the short term.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Future cash flows from operating activities may be affected by demand and market prices for energy and the company’s ability to produce and supply power at competitive costs, indicating exposure to market risks that could impact margin sustainability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The capital intensive nature of the business requires considerable capital resources and ongoing financing, which could pressure margins if financing costs increase or access to capital deteriorates.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        }
+      ],
+      "dimension": "Margins & Cost Structure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Our operating and capital expenditures requirements are provided by internally generated cash flows from operations as well as funds from external sources in the capital markets and through bank borrowings. Our business is capital intensive and requires considerable capital resources. We annually evaluate our financing plan and credit line sizing, focusing on maintaining our investment grade ratings while meeting our cash needs to fund capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and OPEB obligations, and invest in new and existing ventures, such as our acquisition of Calpine. A broad spectrum of financing alternatives beyond the core financing options can be used to meet our needs and fund growth, including monetizing assets in the portfolio via project financing, asset sales, and the use of other financing structures (e.g., joint ventures, minority partners, etc.). Our access to external financing on reasonable terms depends on our credit ratings and current overall capital market business conditions. If these conditions deteriorate to the extent that we no longer have access to the capital markets at reasonable terms, we have access to credit facilities with aggregate bank commitments of $9.5 billion. We utilize our credit facilities to support our commercial paper programs, provide for other short-term borrowings and to issue letters of credit. See the “Credit Matters and Cash Requirements” section below for additional information. We expect cash flows to be sufficient to meet operating expenses, financing costs, and capital expenditure requirements.",
+          "source_section": "10-Q - Page 83 Liquidity and Capital Resources"
+        },
+        {
+          "statement": "Cash provided by operating activities was $3,432 million for the nine months ended September 30, 2025, compared to cash used in operating activities of ($1,448) million for the nine months ended September 30, 2024. Changes in our cash flows from operations were generally consistent with changes in results of operations, as adjusted for changes in working capital in the normal course of business. In December 2024, we amended our Accounts Receivable Facility whereby we now retain the rights to our receivables and any changes in our receivable balance flow through operating activities. This increase in cash flows from operating activities was partially offset by cash outflows associated with an increase in collateral postings.",
+          "source_section": "10-Q - Page 83 Cash Flow Activities"
+        },
+        {
+          "statement": "Cash used in investing activities was ($2,221) million for the nine months ended September 30, 2025, compared to cash provided by investing activities of $5,056 million for the nine months ended September 30, 2024. The change was primarily due to an amendment of our Accounts Receivable Facility. Prior to the amendment, the collection and reinvestment of proceeds associated with the sale of receivables were treated as cash flows from investing activities in the Consolidated Statements of Cash Flows. As a result of the amendment, cash collections of accounts receivable are now treated as Cash flows from operating activities in the Consolidated Statement of Cash Flows.",
+          "source_section": "10-Q - Page 84 Net Cash Provided By (Used In) Investing Activities"
+        },
+        {
+          "statement": "Cash used in financing activities was ($249) million for the nine months ended September 30, 2025, compared to cash used in financing activities of ($2,180) million for the nine months ended September 30, 2024. The change primarily relates to long-term debt and changes in short-term borrowings. Debt issuances and redemptions or repayments vary each year. The remaining change relates to repurchases of common stock during each period.",
+          "source_section": "10-Q - Page 84 Net Cash Provided By (Used In) Financing Activities"
+        },
+        {
+          "statement": "We fund liquidity needs for capital expenditures, working capital, energy hedging and other financial commitments through cash flows from operations, public debt offerings, commercial paper markets and large, diversified credit facilities. As of September 30, 2025, we have access to facilities with aggregate bank commitments of $9.5 billion. During the quarter, we amended one of our existing revolving credit facilities to both extend the term of the existing facility and to provide up to $2.5 billion in incremental revolving credit commitments upon the satisfaction of certain conditions following the consummation of our acquisition of Calpine. We had access to the commercial paper markets and had availability under our revolving credit facilities during the third quarter of 2025 to fund our short-term liquidity needs, when necessary. We routinely review the sufficiency of our liquidity position, including appropriate sizing of credit facility commitments, by performing various stress test scenarios, such as commodity price movements, increases in margin-related transactions, changes in hedging levels, and the impacts of hypothetical credit downgrades. We closely monitor events in the financial markets and the financial institutions associated with the credit facilities, including monitoring credit ratings and outlooks, credit default swap levels, capital raising, and merger activity.",
+          "source_section": "10-Q - Page 84 Credit Matters and Cash Requirements"
+        },
+        {
+          "statement": "Our operating and capital expenditures requirements are provided by internally generated cash flows from operations, the sale of certain receivables, as well as funds from external sources in the capital markets and through bank borrowings. Our business is capital intensive and requires considerable capital resources. We annually evaluate our financing plan and credit line sizing, focusing on maintaining our investment grade ratings while meeting our cash needs to fund capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and OPEB obligations, and invest in new and existing ventures. A broad spectrum of financing alternatives beyond the core financing options can be used to meet our needs and fund growth, including monetizing assets in the portfolio via project financing, asset sales, and the use of other financing structures (e.g., joint ventures, minority partners, etc.). Our access to external financing on reasonable terms depends on our credit ratings and current overall capital market business conditions. If these conditions deteriorate to the extent that we no longer have access to the capital markets at reasonable terms, we have access to credit facilities with aggregate bank commitments of $9 billion. We utilize our credit facilities to support our commercial paper programs, provide for other short-term borrowings and to issue letters of credit. We expect cash flows to be sufficient to meet operating expenses, financing costs, and capital expenditure requirements.",
+          "source_section": "10-K - Page 100 Liquidity and Capital Resources"
+        },
+        {
+          "statement": "Our cash flows from operating activities include the sale of energy, energy-related products, and sustainable solutions, as well as sales of nuclear PTCs. Our future cash flows from operating activities may be affected by future demand for, and market prices of, energy and our ability to continue to produce and supply power at competitive costs, as well as to obtain collections from customers.",
+          "source_section": "10-K - Page 100 Cash Flows from Operating Activities"
+        },
+        {
+          "statement": "Cash flows from operating activities 2024 2023 $ Change Net income (loss) $ 3,738 $ 1,577 $ 2,161 Adjustments to reconcile net income (loss) to cash: Collateral received (posted), net 1,803 (1,491) 3,294 Option premiums received (paid), net 216 26 190 Pension and non-pension postretirement benefit contributions (184) (54) (130) Changes in working capital and other noncurrent assets and liabilities (9,168) (8,355) (813) Total non-cash operating activities 1,131 2,996 (1,865) Net cash flows provided by (used in) operating activities$ (2,464)$ (5,301)$ 2,837",
+          "source_section": "10-K - Page 100 Cash Flows from Operating Activities"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company generates positive operating cash flow, as evidenced by $3,432 million cash provided by operating activities for the nine months ended September 30, 2025, indicating strong cash flow generation capability. This is supported by internally generated cash flows and access to diverse financing sources, including $9.5 billion in credit facilities, which provide liquidity to meet capital expenditures and other financial commitments.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            4
+          ]
+        },
+        {
+          "interpretation": "The amendment of the Accounts Receivable Facility, which reclassifies cash collections from investing to operating activities, reflects improved cash flow reporting and potentially more stable operating cash flows. The company actively manages working capital and collateral postings, indicating effective cash conversion management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            2
+          ]
+        },
+        {
+          "interpretation": "The company maintains a broad spectrum of financing alternatives and actively evaluates its financing plan to maintain investment grade ratings, which supports sustainable capital intensity and liquidity management to fund growth and capital requirements.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0,
+            5
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The business is capital intensive and requires considerable capital resources, which may pressure cash flows and liquidity, especially if access to capital markets deteriorates. The reliance on external financing and credit facilities exposes the company to risks related to credit ratings and market conditions.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            5
+          ]
+        },
+        {
+          "interpretation": "Changes in working capital and collateral postings can negatively impact operating cash flows, as seen by significant cash outflows related to collateral and working capital changes, which may reduce cash conversion efficiency and increase liquidity risk.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            7
+          ]
+        },
+        {
+          "interpretation": "Cash used in investing activities was negative $2,221 million for the nine months ended September 30, 2025, reflecting significant capital expenditures or investments, which may strain cash resources despite positive operating cash flows.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        }
+      ],
+      "dimension": "Cash Flow Generation"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Since 2023, our Board of Directors authorized the repurchase of up to $3 billion of the Company's outstanding common stock. As of September 30, 2025, there was approximately $593 million of remaining authority to repurchase shares of the Company's outstanding common stock, which reflects the net impact of capped call options, as discussed below. No other repurchase plans or programs have been authorized.",
+          "source_section": "10-Q - Page 55"
+        },
+        {
+          "statement": "During the three and nine months ended September 30, 2025, there were no open market repurchases. During the nine months ended September 30, 2024, we repurchased from the open market 1.2 million shares of our common stock for a total cost, inclusive of taxes and transaction costs, of $150 million.",
+          "source_section": "10-Q - Page 55"
+        },
+        {
+          "statement": "In 2024 and 2025, we entered into ASR agreements with financial institutions to initiate share repurchases of our common stock. Under the ASR agreements, we paid a specified amount to the financial institutions and received an initial delivery of shares of common stock, which resulted in an immediate reduction in the number of our shares outstanding.",
+          "source_section": "10-Q - Page 55"
+        },
+        {
+          "statement": "In February 2025, we entered into two structured share repurchase agreements. Under these agreements, we made up-front cash payments totaling $150 million in exchange for the right to receive a predetermined amount of shares of our common stock or cash at expiration, depending upon the closing price of our common stock on the respective settlement dates. Neither option was exercised therefore we did not receive any shares at expiration. As a result, as of September 30, 2025, we received our initial up-front cash payments of $150 million plus a nominal cash premium. The cash received restored the remaining authority available for repurchases.",
+          "source_section": "10-Q - Page 55"
+        },
+        {
+          "statement": "Our operating and capital expenditures requirements are provided by internally generated cash flows from operations as well as funds from external sources in the capital markets and through bank borrowings. Our business is capital intensive and requires considerable capital resources. We annually evaluate our financing plan and credit line sizing, focusing on maintaining our investment grade ratings while meeting our cash needs to fund capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and OPEB obligations, and invest in new and existing ventures, such as our acquisition of Calpine.",
+          "source_section": "10-Q - Page 83"
+        },
+        {
+          "statement": "A broad spectrum of financing alternatives beyond the core financing options can be used to meet our needs and fund growth, including monetizing assets in the portfolio via project financing, asset sales, and the use of other financing structures (e.g., joint ventures, minority partners, etc.). Our access to external financing on reasonable terms depends on our credit ratings and current overall capital market business conditions.",
+          "source_section": "10-Q - Page 83"
+        },
+        {
+          "statement": "We expect cash flows to be sufficient to meet operating expenses, financing costs, and capital expenditure requirements.",
+          "source_section": "10-Q - Page 83"
+        },
+        {
+          "statement": "Cash used in investing activities was ($2,221) million for the nine months ended September 30, 2025, compared to cash provided by investing activities of $5,056 million for the nine months ended September 30, 2024. The change was primarily due to an amendment of our Accounts Receivable Facility.",
+          "source_section": "10-Q - Page 84"
+        },
+        {
+          "statement": "Cash used in financing activities was ($249) million for the nine months ended September 30, 2025, compared to cash used in financing activities of ($2,180) million for the nine months ended September 30, 2024. The change primarily relates to long-term debt and changes in short-term borrowings. Debt issuances and redemptions or repayments vary each year. The remaining change relates to repurchases of common stock during each period.",
+          "source_section": "10-Q - Page 84"
+        },
+        {
+          "statement": "Quarterly dividends declared by our Board of Directors during the nine months ended September 30, 2025 and for the fourth quarter of 2025 were as follows: First Quarter of 2025 $0.3878 per share, Second Quarter of 2025 $0.3878 per share, Third Quarter of 2025 $0.3878 per share, Fourth Quarter of 2025 $0.3878 per share.",
+          "source_section": "10-Q - Page 84"
+        },
+        {
+          "statement": "We fund liquidity needs for capital expenditures, working capital, energy hedging and other financial commitments through cash flows from operations, public debt offerings, commercial paper markets and large, diversified credit facilities. As of September 30, 2025, we have access to facilities with aggregate bank commitments of $9.5 billion.",
+          "source_section": "10-Q - Page 84"
+        },
+        {
+          "statement": "During the quarter, we amended one of our existing revolving credit facilities to both extend the term of the existing facility and to provide up to $2.5 billion in incremental revolving credit commitments upon the satisfaction of certain conditions following the consummation of our acquisition of Calpine.",
+          "source_section": "10-Q - Page 84"
+        },
+        {
+          "statement": "We had access to the commercial paper markets and had availability under our revolving credit facilities during the third quarter of 2025 to fund our short-term liquidity needs, when necessary. We routinely review the sufficiency of our liquidity position, including appropriate sizing of credit facility commitments, by performing various stress test scenarios, such as commodity price movements, increases in margin-related transactions, changes in hedging levels, and the impacts of hypothetical credit downgrades.",
+          "source_section": "10-Q - Page 84"
+        },
+        {
+          "statement": "As part of our capital allocation plan, our Board of Directors has authorized up to $3 billion of share repurchases of our outstanding common stock to-date, of which $991 million has yet to be exercised.",
+          "source_section": "10-K - Page 71"
+        },
+        {
+          "statement": "In June 2025, we entered into an ASR agreement with a financial institution to initiate share repurchases of our common stock for $404 million, inclusive of taxes and other transaction costs. Under the ASR agreement, we received an initial share delivery of approximately 1.1 million shares of our common stock, which resulted in an immediate reduction in the number of our shares outstanding. In the third quarter of 2025, the remaining shares were delivered upon completion of the transaction and were based on the average of the daily-volume weighted average price of our common stock during the term, less a discount.",
+          "source_section": "10-Q - Page 92"
+        },
+        {
+          "statement": "Dividends paid on common stock were $444 million in 2024, an increase of $78 million compared to 2023.",
+          "source_section": "10-K - Page 101"
+        },
+        {
+          "statement": "Repurchases of common stock is related to our share repurchase program that commenced in March 2023.",
+          "source_section": "10-K - Page 101"
+        },
+        {
+          "statement": "We annually evaluate our financing plan and credit line sizing, focusing on maintaining our investment grade ratings while meeting our cash needs to fund capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and OPEB obligations, and invest in new and existing ventures, such as our acquisition of Calpine.",
+          "source_section": "10-Q - Page 83"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has a disciplined capital allocation strategy with a significant share repurchase program authorized by the Board of Directors, demonstrating a commitment to returning capital to shareholders through buybacks.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            13,
+            16
+          ]
+        },
+        {
+          "interpretation": "The company maintains strong liquidity and access to capital markets, including $9.5 billion in bank commitments and commercial paper market access, supporting its ability to fund capital expenditures, acquisitions, dividends, and debt repayments effectively.",
+          "intensity": "High",
+          "source_fact_index": [
+            5,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "interpretation": "Consistent quarterly dividends with an increase in dividend payments indicate a stable and shareholder-friendly dividend policy as part of capital allocation priorities.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9,
+            15
+          ]
+        },
+        {
+          "interpretation": "The company actively manages its capital structure by annually evaluating financing plans and credit line sizing to maintain investment grade ratings while funding growth initiatives such as acquisitions (e.g., Calpine).",
+          "intensity": "High",
+          "source_fact_index": [
+            4,
+            17
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Despite the authorized $3 billion share repurchase program, actual open market repurchases have been limited recently, which may suggest cautious capital deployment or market conditions limiting buybacks.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            3
+          ]
+        },
+        {
+          "interpretation": "The company’s capital intensive business requires significant capital resources and reliance on external financing, which could be impacted by credit ratings and capital market conditions, posing potential risks to capital allocation flexibility.",
+          "intensity": "High",
+          "source_fact_index": [
+            4,
+            5
+          ]
+        },
+        {
+          "interpretation": "Cash used in investing activities turned negative in 2025 compared to positive cash in 2024, primarily due to amendments in accounts receivable facilities, which may indicate variability or challenges in cash flow from investing activities.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7
+          ]
+        },
+        {
+          "interpretation": "The company’s financing activities show variability in debt issuances and repayments year over year, which could reflect uncertainty or changing capital needs that may affect capital allocation consistency.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8
+          ]
+        }
+      ],
+      "dimension": "Capital Allocation & Investment Discipline"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Our operating and capital expenditures requirements are provided by internally generated cash flows from operations as well as funds from external sources in the capital markets and through bank borrowings. Our business is capital intensive and requires considerable capital resources. We annually evaluate our financing plan and credit line sizing, focusing on maintaining our investment grade ratings while meeting our cash needs to fund capital requirements, including construction expenditures, retire debt, pay dividends, fund pension and OPEB obligations, and invest in new and existing ventures, such as our acquisition of Calpine. A broad spectrum of financing alternatives beyond the core financing options can be used to meet our needs and fund growth, including monetizing assets in the portfolio via project financing, asset sales, and the use of other financing structures (e.g., joint ventures, minority partners, etc.). Our access to external financing on reasonable terms depends on our credit ratings and current overall capital market business conditions. If these conditions deteriorate to the extent that we no longer have access to the capital markets at reasonable terms, we have access to credit facilities with aggregate bank commitments of $9.5 billion. We utilize our credit facilities to support our commercial paper programs, provide for other short-term borrowings and to issue letters of credit. See the “Credit Matters and Cash Requirements” section below for additional information. We expect cash flows to be sufficient to meet operating expenses, financing costs, and capital expenditure requirements.",
+          "source_section": "10-Q - Page 83"
+        },
+        {
+          "statement": "As of September 30, 2025, we had $7.3 billion of available capacity under our credit facilities and $4.0 billion of cash on hand. In the event of a credit downgrade below investment grade and a resulting requirement to provide incremental collateral exceeding available capacity under our credit facilities and cash on hand, we would be required to access additional liquidity through the capital markets. Our borrowings are not subject to default or prepayment as a result of a downgrade of our securities, although such a downgrade could increase fees and interest charges under our credit agreements. Our credit ratings were affirmed following the announcement of our proposed acquisition of Calpine. If we had lost our investment grade credit ratings as of September 30, 2025, we would have been required to provide incremental collateral estimated to be approximately $2.4 billion to meet collateral obligations for derivatives, non-derivatives, NPNS, and applicable payables and receivables, net of the contractual right of offset under master netting agreements.",
+          "source_section": "10-Q - Page 85"
+        },
+        {
+          "statement": "In December 2024, we amended the Facility to provide NER access to revolving loans from a number of financial institutions (Lenders) secured by certain customer accounts receivable. As part of the amendment, the maximum funding limit of the Facility was increased from $1.1 billion to $1.5 billion and the maturity date was extended to December 2027. Under previous terms of the Facility, certain customer accounts receivable were sold to the Purchasers. Immediately following the amendment, all receivables previously sold were assigned back to us and receivables will no longer be sold to the Purchasers under the amendment. Subsequent to the amendment, draws and repayments related to the Facility will be reflected as Proceeds from short-term borrowings and Repayments of short-term borrowings, respectively, in the Consolidated Statements of Cash Flows. Draws on the facility bear interest at a commercial paper rate or a Daily One Month Term SOFR or Term SOFR rate, plus an adder of 0.10% per annum. Interest is payable monthly. There were no draws on the Facility as of September 30, 2025. The amended Facility requires the balance of eligible receivables to be maintained at or above the balance of cash proceeds received from the Lenders. To the extent the eligible receivables decrease below such balance, we are required to repay cash to the Lenders. When eligible receivables exceed cash proceeds, we have the ability to increase the cash proceeds received up to the maximum funding limit.",
+          "source_section": "10-Q - Page 45"
+        },
+        {
+          "statement": "As of September 30, 2025 and December 31, 2024, we had the following aggregate bank commitments, credit facility borrowings and available capacity under our respective credit facilities: Total $9,458 million aggregate bank commitment, $0 facility draws outstanding, $2,127 million letters of credit outstanding, $0 commercial paper, and $7,308 million total available capacity as of September 30, 2025.",
+          "source_section": "10-Q - Page 45"
+        },
+        {
+          "statement": "Cash provided by operating activities was $3,432 million for the nine months ended September 30, 2025, compared to cash used in operating activities of ($1,448) million for the nine months ended September 30, 2024. Changes in our cash flows from operations were generally consistent with changes in results of operations, as adjusted for changes in working capital in the normal course of business.",
+          "source_section": "10-Q - Page 83"
+        },
+        {
+          "statement": "Cash used in investing activities was ($2,221) million for the nine months ended September 30, 2025, compared to cash provided by investing activities of $5,056 million for the nine months ended September 30, 2024. The change was primarily due to an amendment of our Accounts Receivable Facility. Prior to the amendment, the collection and reinvestment of proceeds associated with the sale of receivables were treated as cash flows from investing activities in the Consolidated Statements of Cash Flows. As a result of the amendment, cash collections of accounts receivable are now treated as Cash flows from operating activities in the Consolidated Statement of Cash Flows.",
+          "source_section": "10-Q - Page 84"
+        },
+        {
+          "statement": "Cash used in financing activities was ($249) million for the nine months ended September 30, 2025, compared to cash used in financing activities of ($2,180) million for the nine months ended September 30, 2024. The change primarily relates to long-term debt and changes in short-term borrowings. Debt issuances and redemptions or repayments vary each year. The remaining change relates to repurchases of common stock during each period.",
+          "source_section": "10-Q - Page 84"
+        },
+        {
+          "statement": "We fund liquidity needs for capital expenditures, working capital, energy hedging and other financial commitments through cash flows from operations, public debt offerings, commercial paper markets and large, diversified credit facilities. As of September 30, 2025, we have access to facilities with aggregate bank commitments of $9.5 billion. During the quarter, we amended one of our existing revolving credit facilities to both extend the term of the existing facility and to provide up to $2.5 billion in incremental revolving credit commitments upon the satisfaction of certain conditions following the consummation of our acquisition of Calpine.",
+          "source_section": "10-Q - Page 84"
+        },
+        {
+          "statement": "We had access to the commercial paper markets and had availability under our revolving credit facilities during the third quarter of 2025 to fund our short-term liquidity needs, when necessary. We routinely review the sufficiency of our liquidity position, including appropriate sizing of credit facility commitments, by performing various stress test scenarios, such as commodity price movements, increases in margin-related transactions, changes in hedging levels, and the impacts of hypothetical credit downgrades. We closely monitor events in the financial markets and the financial institutions associated with the credit facilities, including monitoring credit ratings and outlooks, credit default swap levels, capital raising, and merger activity.",
+          "source_section": "10-Q - Page 84"
+        },
+        {
+          "statement": "Project financing is based upon a nonrecourse financial structure, in which project debt is paid back from the cash generated by a specific asset or portfolio of assets. Borrowings under these agreements are secured by the assets and equity of each respective project. Lenders do not have recourse against us in the event of a default. If a project financing entity does not maintain compliance with its specific debt covenants, there could be a requirement to accelerate repayment of the associated debt or other project-related borrowings earlier than the stated maturity dates. In these instances, if such repayment were not satisfied, or restructured, the lenders or security holders would generally have rights to foreclose against the project-specific assets and related collateral. The potential requirement to repay the debt or other borrowings earlier than otherwise anticipated could lead to impairments due to a higher likelihood of disposing of the respective project-specific assets significantly before the end of their useful lives.",
+          "source_section": "10-Q - Page 86"
+        },
+        {
+          "statement": "Our credit ratings were affirmed following the announcement of our proposed acquisition of Calpine. If we had lost our investment grade credit ratings as of September 30, 2025, we would have been required to provide incremental collateral estimated to be approximately $2.4 billion to meet collateral obligations for derivatives, non-derivatives, NPNS, and applicable payables and receivables, net of the contractual right of offset under master netting agreements.",
+          "source_section": "10-Q - Page 85"
+        },
+        {
+          "statement": "If we were to lose our investment grade credit rating, the maximum adders for Daily Simple SOFR rate borrowings and Term SOFR rate borrowings would be 1.00% and 2.00%, respectively. The credit agreements also require us to pay facility fees based upon the aggregate commitments. The fees vary depending upon our credit rating.",
+          "source_section": "10-Q - Page 45"
+        },
+        {
+          "statement": "As of September 30, 2025, we had the following aggregate bank commitments, credit facility borrowings and available capacity under our respective credit facilities: Revolving Credit Facility $4,500 million aggregate bank commitment, $0 facility draws outstanding, $49 million letters of credit outstanding, $0 commercial paper, and $4,451 million total available capacity.",
+          "source_section": "10-Q - Page 45"
+        },
+        {
+          "statement": "As of September 30, 2025, the Crane NDT is fully funded under the SAFSTOR scenario that was the planned decommissioning option, as described in the Crane PSDAR filed with the NRC in April 2019. We will continue to file Crane's decommissioning funding status with the NRC annually until restart, at which point we will file decommissioning funding status reports in accordance with applicable NRC requirements. Additionally, as of September 30, 2025, we have adequate NDT funds for the remaining radiological decommissioning costs at Zion Station related to the Independent Spent Fuel Storage Installation. Decommissioning costs other than radiological may require funding from us.",
+          "source_section": "10-K - Page 43"
+        },
+        {
+          "statement": "Our borrowings are not subject to default or prepayment as a result of a downgrade of our securities, although such a downgrade could increase fees and interest charges under our credit agreements.",
+          "source_section": "10-Q - Page 85"
+        },
+        {
+          "statement": "We rely on the capital markets, particularly for publicly offered debt, as well as the banking and commercial paper markets, to meet our financial commitments and short-term liquidity needs. Disruptions in the capital and credit markets in the United States or abroad could negatively affect our ability to access the capital markets or draw on our bank revolving credit facilities. The banks may not be able to meet their funding commitments to us if they experience shortages of capital and liquidity or if they experience excessive volumes of borrowing requests within a short period of time. The inability to access capital markets or credit facilities, and longer-term disruptions in the capital and credit markets as a result of uncertainty, changing or increased regulation, reduced alternatives or failures of significant financial institutions could result in the deferral of discretionary capital expenditures, affect our ability to effectively hedge our generation portfolio, require changes to our hedging strategy in order to reduce collateral posting requirements, or require a reduction in discretionary uses of cash.",
+          "source_section": "10-K - Page 43"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company maintains substantial liquidity with $7.3 billion available capacity under credit facilities and $4.0 billion cash on hand, providing strong access to capital markets and credit facilities to meet operating and capital expenditure needs.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            4,
+            8
+          ]
+        },
+        {
+          "interpretation": "The amendment and extension of the Accounts Receivable Facility to $1.5 billion with maturity extended to 2027 enhances short-term liquidity and flexibility in managing receivables financing.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The company’s project financing is structured as nonrecourse debt, limiting recourse to specific project assets and protecting the parent company from direct liability, which can be viewed as a risk mitigation feature.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        },
+        {
+          "interpretation": "The company’s credit ratings were affirmed following the announcement of the Calpine acquisition, indicating market confidence in its creditworthiness and supporting continued access to capital on reasonable terms.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            11
+          ]
+        },
+        {
+          "interpretation": "The company expects cash flows from operations, access to credit markets, and credit facilities to be sufficient to meet operating expenses, financing costs, and capital expenditure requirements, reflecting a stable liquidity position.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            4,
+            8
+          ]
+        },
+        {
+          "interpretation": "The company has diversified financing alternatives including asset monetization, project financing, and joint ventures, which provide multiple avenues to fund growth and capital needs.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "A downgrade below investment grade would require the company to provide approximately $2.4 billion in incremental collateral, potentially straining liquidity and forcing access to additional capital markets under possibly unfavorable conditions.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            11
+          ]
+        },
+        {
+          "interpretation": "The company’s business is capital intensive and dependent on access to capital markets and credit facilities; any deterioration in credit ratings or capital market conditions could impair its ability to fund capital requirements and operations effectively.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            16
+          ]
+        },
+        {
+          "interpretation": "Project financing debt covenants require compliance; failure to comply could accelerate debt repayment and lead to foreclosure on project assets, potentially causing impairments and financial strain.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        },
+        {
+          "interpretation": "Disruptions in capital and credit markets, including shortages of capital or liquidity at banks, could limit the company’s ability to access credit facilities or capital markets, forcing deferral of capital expenditures or changes in hedging strategies that could negatively impact financial condition.",
+          "intensity": "High",
+          "source_fact_index": [
+            16
+          ]
+        },
+        {
+          "interpretation": "The company’s borrowings could become more expensive if credit ratings decline, as credit agreements include increased fees and interest charges tied to credit rating levels.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            12,
+            15
+          ]
+        },
+        {
+          "interpretation": "The company has letters of credit outstanding totaling $2,127 million as of September 30, 2025, which represent contingent obligations that could impact liquidity if called upon.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            13
+          ]
+        }
+      ],
+      "dimension": "Balance Sheet Strength & Liquidity"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Capacity factors for nuclear generating units significantly affect our results of operations. Lower capacity factors could decrease our revenues and increase operating costs by requiring us to produce additional energy from our natural gas and oil-fueled facilities or purchase additional energy in the spot or forward markets in order to satisfy our supply obligations to committed third-party sales. These sources generally have higher costs than we incur to produce energy from our nuclear stations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The total number of refueling outages, along with their duration, could have a significant impact on our results of operations. When refueling outages last longer than anticipated or we experience unplanned outages, capacity factors decrease, and we face lower margins due to higher energy replacement costs and/or lower energy sales and higher operating and maintenance costs.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Operations at any of our nuclear generation plants could degrade to the point where we must shut down the plant or operate at less than full capacity. If this were to happen, identifying and correcting the causes could require significant time and expense. We could choose to close a plant rather than incur the expense of restarting it or returning the plant to full capacity. In either event, we could lose revenue and incur increased purchased power costs and fuel expense to meet supply commitments.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We currently utilize a mix of third-party managed service providers to host and support our information technology, customer support, and generation operations. As an example, our data centers are hosted in vendor-managed co-location facilities. Consequently, we may be subject to short- and long-term interruptions, delays and outages in service and availability due to third-party cybersecurity or reliability incidents that are outside of our direct control.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We expect that in the future we may experience interruptions, delays and outages in service and availability from time to time due to a variety of factors, including infrastructure changes, human or software errors, website hosting disruptions and capacity constraints.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "A failure, interruption, or breach of our operational or information security systems, or those of our third-party service providers, as a result of cyber-attacks or information security breaches could disrupt our business, result in the disclosure or misuse of confidential or proprietary information, damage our reputation, cause loss of customers or revenue, increase our costs, result in litigation and/or regulatory action, and/or cause other losses, any of which might have a materially adverse impact on our business operations and our financial position or results of operations.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s reliance on nuclear generating units with planned refueling outages and managed third-party services indicates a structured operational approach that anticipates and manages capacity and service interruptions, potentially allowing for optimized maintenance scheduling and risk mitigation.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0,
+            1,
+            3,
+            4
+          ]
+        },
+        {
+          "interpretation": "The use of third-party managed service providers for IT and generation operations could provide access to specialized expertise and infrastructure, potentially enhancing operational efficiency and resilience against certain types of disruptions.",
+          "intensity": "Low",
+          "source_fact_index": [
+            3
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Lower capacity factors and extended or unplanned refueling outages in nuclear plants could materially reduce revenues and increase operating costs due to reliance on more expensive energy sources, negatively impacting financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1
+          ]
+        },
+        {
+          "interpretation": "Operational degradation at nuclear plants could lead to shutdowns or reduced capacity, requiring significant time and expense to address, potentially resulting in lost revenue and increased costs to meet supply commitments.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Dependence on third-party managed service providers exposes the company to risks of interruptions, delays, and outages beyond its direct control, which could disrupt operations and negatively affect business continuity and financial results.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "interpretation": "Cybersecurity breaches or failures in operational or information security systems could cause significant business disruption, reputational damage, regulatory penalties, and financial losses, posing a material risk to the company’s operations and financial position.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        }
+      ],
+      "dimension": "Operational & Supply Chain Risks"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We operate in a complex market and regulatory environment that involves significant risks, many of which are beyond our direct control. Such risks, which could negatively affect our consolidated financial statements, fall primarily under the categories below: Risks related to market and financial factors primarily include: • the price and availability of fuels, • the generation resources in the markets in which we operate, • the design of power markets, • our ability to operate our generating assets, that are administered by the RTOs or ISOs, as applicable. For activities administered by an RTO or ISO, the RTO or ISO maintains financial assurance policies that are established and enforced by those administrators. The credit policies of the RTOs and ISOs may, under certain circumstances, require that losses arising from the default of one member be shared by the remaining participants. Non-performance or non-payment by a major member of an RTO or ISO could result in a material adverse impact on our consolidated financial statements.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We are exposed to market risks associated with adverse changes in commodity prices, counterparty credit, interest rates, and equity prices. We manage these risks through risk management policies and objectives for risk assessment, control and valuation, counterparty credit approval, and the monitoring and reporting of risk exposures.",
+          "source_section": "10-Q Item 3"
+        },
+        {
+          "statement": "Market performance and other factors could decrease the value of our NDT funds and employee benefit plan assets, which then could require significant additional funding. Disruptions in the capital markets and their actual or perceived effects on particular businesses and the broader economy could adversely affect the value of the investments held within our NDTs and employee benefit plan trusts. We have significant obligations in these areas and hold substantial assets in these trusts to meet those obligations. The asset values are subject to market fluctuations and will yield uncertain returns, which could fall below our projected return rates. A decline in the market value of the NDT fund investments could increase our funding requirements to decommission our nuclear plants. A decline in the market value of the pension and OPEB plan assets would increase the funding requirements associated with our pension and OPEB plan obligations. Additionally, our pension and OPEB plan liabilities are sensitive to changes in interest rates. As interest rates decrease, the liabilities increase, potentially increasing benefit costs and funding requirements.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We could be negatively affected by unstable capital and credit markets and increased volatility in commodity markets. We rely on the capital markets, particularly for publicly offered debt, as well as the banking and commercial paper markets, to meet our financial commitments and short-term liquidity needs. Disruptions in the capital and credit markets in the United States or abroad could negatively affect our ability to access the capital markets or draw on our bank revolving credit facilities. The banks may not be able to meet their funding commitments to us if they experience shortages of capital and liquidity or if they experience excessive volumes of borrowing requests within a short period of time. The inability to access capital markets or credit facilities, and longer-term disruptions in the capital and credit markets as a result of uncertainty, changing or increased regulation, reduced alternatives or failures of significant financial institutions could result in the deferral of discretionary capital expenditures, affect our ability to effectively hedge our generation portfolio, require changes to our hedging strategy in order to reduce collateral posting requirements, or require a reduction in discretionary uses of cash. In addition, we have exposure to worldwide financial markets, including Europe, Canada, and Asia. Disruptions in these markets could reduce or restrict our ability to secure sufficient liquidity or secure liquidity at reasonable terms.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "If we were to experience a downgrade in our credit ratings to below investment grade or otherwise fail to satisfy the credit standards in our agreements with our counterparties or regulatory financial requirements, we would be required to provide significant amounts of collateral that could affect our liquidity and we could experience higher borrowing costs. Our business is subject to credit quality standards that could require market participants to post collateral for their obligations upon a decline in ratings. We are also subject to certain financial requirements under NRC regulations as a result of our operation of nuclear power plants that could require us to provide cash collateral or surety bonds if those requirements are not met. One or both events could adversely affect available liquidity and, in the case of a rating downgrade, borrowing and credit support costs.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "As part of the normal course of business, we routinely enter into physically or financially settled contracts for the purchase and sale of capacity, electricity, fuels, emissions allowances, and other energy-related products. In accordance with the contracts and applicable law, if we are downgraded by a credit rating agency, especially if such downgrade is to a level below investment grade, it is possible that a counterparty would attempt to rely on such a downgrade as a basis for making a demand for adequate assurance of future performance. Depending on our net position with a counterparty, the demand could be for the posting of collateral. In the absence of expressly agreed-to provisions that specify the collateral that must be provided, collateral requested will be a function of the facts and circumstances of the situation at the time of the demand.",
+          "source_section": "10-Q Item 1"
+        },
+        {
+          "statement": "We participate in all of the established wholesale energy markets that are administered by PJM, ISO-NE, NYISO, CAISO, MISO, SPP, AESO, and ERCOT. ERCOT is not subject to regulation by FERC but performs a similar function in Texas to that performed by RTOs and ISOs in markets regulated by FERC. In these areas, power and related products are traded through bilateral agreements between buyers and sellers and in the energy markets that are administered by the RTOs or ISOs, as applicable. For activities administered by an RTO or ISO, the RTO or ISO maintains financial assurance policies that are established and enforced by those administrators. The credit policies of the RTOs and ISOs may, under certain circumstances, require that losses arising from the default of one member be shared by the remaining participants. Non-performance or non-payment by a major member of an RTO or ISO could result in a material adverse impact on our consolidated financial statements.",
+          "source_section": "10-Q Item 1"
+        },
+        {
+          "statement": "We enter commodity transactions on NYMEX, ICE, NASDAQ, NGX, and the Nodal exchange (each an Exchange and, collectively, Exchanges). The Exchange clearinghouses act as the counterparty to each trade. Transactions on the Exchanges must adhere to comprehensive collateral and margining requirements. As a result, transactions on Exchanges are significantly collateralized and have limited counterparty credit risk.",
+          "source_section": "10-Q Item 1"
+        },
+        {
+          "statement": "We use a combination of fixed-rate and variable-rate debt to manage interest rate exposure. We may also utilize interest rate swaps to manage our interest rate exposure. A hypothetical 50 basis point increase in the interest rates associated with unhedged variable-rate debt (excluding Commercial Paper) and fixed-to-floating swaps would not have resulted in a material decrease in our earnings for the year ended December 31, 2024. To manage foreign exchange rate exposure associated with international energy purchases in currencies other than U.S. dollars, we utilize foreign currency derivatives, which are typically designated as economic hedges.",
+          "source_section": "10-K Item 3"
+        },
+        {
+          "statement": "We maintain trust funds, as required by the NRC, to fund the costs of decommissioning our nuclear plants. Our NDT funds are reflected at fair value in the Consolidated Balance Sheets. The mix of securities in the trust funds is designed to provide returns to be used to fund decommissioning and to compensate us for inflationary increases in decommissioning costs; however, the equity securities in the trust funds are exposed to price fluctuations in equity markets, and the value of fixed-rate, fixed-income securities are exposed to changes in interest rates. We actively monitor the investment performance of the trust funds and periodically review asset allocations in accordance with our NDT fund investment policy. A hypothetical 25 basis points increase in interest rates and 10% decrease in equity prices would have resulted in a $1,061 million reduction in the fair value of our NDT trust assets as of September 30, 2025.",
+          "source_section": "10-Q Item 3"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has established risk management policies and actively monitors market risks such as commodity prices, interest rates, and equity prices, which could help mitigate adverse impacts from market fluctuations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Participation in multiple established wholesale energy markets and use of exchange-traded commodity transactions with collateral and margining requirements reduces counterparty credit risk and supports stable operations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7,
+            6
+          ]
+        },
+        {
+          "interpretation": "The company uses a combination of fixed and variable rate debt and interest rate swaps to manage interest rate exposure, and foreign currency derivatives to hedge foreign exchange risk, which may limit earnings volatility from these factors.",
+          "intensity": "Low",
+          "source_fact_index": [
+            8
+          ]
+        },
+        {
+          "interpretation": "The Nuclear Decommissioning Trust (NDT) funds are actively managed with a diversified mix of securities designed to provide returns and compensate for inflation, with ongoing monitoring and asset allocation reviews.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company operates in a complex market and regulatory environment with significant risks beyond its control, including fuel price and availability, market design, and operational risks, which could materially adversely affect financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Market fluctuations and disruptions in capital markets could decrease the value of NDT funds and employee benefit plan assets, potentially requiring significant additional funding and increasing liabilities, especially if interest rates decline.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Disruptions in capital and credit markets, including internationally, could impair the company's ability to access liquidity, increase borrowing costs, and force deferral of capital expenditures or changes in hedging strategies, negatively impacting operations and financial condition.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "A downgrade in credit ratings below investment grade or failure to meet credit or regulatory financial requirements could require posting significant collateral, adversely affecting liquidity and increasing borrowing costs.",
+          "intensity": "High",
+          "source_fact_index": [
+            4,
+            5
+          ]
+        },
+        {
+          "interpretation": "Non-performance or non-payment by a major member of an RTO or ISO, or a counterparty default in energy markets, could result in material adverse impacts on the company's consolidated financial statements.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            6
+          ]
+        },
+        {
+          "interpretation": "The equity securities in the NDT funds are exposed to price fluctuations in equity markets and fixed income securities to interest rate changes, which could materially reduce the fair value of these funds and increase funding requirements.",
+          "intensity": "High",
+          "source_fact_index": [
+            9
+          ]
+        }
+      ],
+      "dimension": "Market, Macro & Regulatory Exposure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Overall, our company has implemented tactical processes for assessing, identifying, and managing material risks from cybersecurity threats to the company including governance at the Board level and accountability in our executive management for the execution of our cyber risk management strategy and the controls designed to protect our operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We currently assume the DOE will begin accepting SNF in 2040 and use that date for purposes of estimating the nuclear decommissioning AROs. The SNF acceptance date assumption is based on management’s estimate of the amount of time required for DOE to select a site location and develop the necessary infrastructure for long-term SNF storage.",
+          "source_section": "10-K Note 18 — Commitments and Contingencies"
+        },
+        {
+          "statement": "In August 2004, we and the DOJ, in close consultation with the DOE, reached a settlement under which the government agreed to reimburse us, subject to certain damage limitations based on the extent of the government’s breach, for costs associated with storage of SNF at our nuclear stations pending the DOE’s fulfillment of its obligations.",
+          "source_section": "10-K Note 18 — Commitments and Contingencies"
+        },
+        {
+          "statement": "Calvert Cliffs, Ginna, NMP, Fitzpatrick, and STP each have separate settlement agreements in place with the DOE which were extended during 2023 to provide for the reimbursement of SNF storage costs through December 31, 2025. We and the DOE have the option to extend those settlements every three years upon mutual consent.",
+          "source_section": "10-K Note 18 — Commitments and Contingencies"
+        },
+        {
+          "statement": "As of December 31, 2024 and 2023, we had accrued undiscounted amounts for environmental liabilities of $60 million and $61 million, respectively, in Accounts payable and accrued expenses and $169 million and $88 million, respectively, in Other deferred credits and other liabilities in the Consolidated Balance Sheets.",
+          "source_section": "10-K Note 18 — Commitments and Contingencies"
+        },
+        {
+          "statement": "The EPA has advised Cotter Corporation (N.S.L.) (Cotter), a former ComEd subsidiary, that it is potentially liable in connection with radiological contamination at two sites in Missouri. In 2000, ComEd sold Cotter to an unaffiliated third-party. As part of the sale, ComEd agreed to indemnify Cotter for any liability arising from these two Missouri superfund sites, West Lake Landfill and Latty Avenue. In connection with Exelon’s 2001 corporate restructuring, this responsibility to indemnify Cotter was transferred to us, and ultimately retained by us per the terms of our separation from Exelon.",
+          "source_section": "10-K Note 18 — Commitments and Contingencies"
+        },
+        {
+          "statement": "In September 2018, the EPA issued its Record of Decision Amendment (RODA) for the selection of a final remedy that requires partial excavation of the radiological materials and capping the landfill. The EPA and the PRPs have entered into a Consent Agreement to perform the Remedial Design, which is expected to be completed in 2025.",
+          "source_section": "10-K Note 18 — Commitments and Contingencies"
+        },
+        {
+          "statement": "The total estimated cost of the remedy, considering the current EPA technical requirements, is approximately $530 million, including cost escalation on an undiscounted basis.",
+          "source_section": "10-K Note 18 — Commitments and Contingencies"
+        },
+        {
+          "statement": "In September 2018, the three identified PRPs, including Cotter, signed an Administrative Settlement Agreement and Order on Consent for the performance by the PRPs of the groundwater Remedial Investigation Feasibility Study (RI/FS). The purpose of this RI/FS is to define the nature and extent of any groundwater contamination from the West Lake Landfill site and evaluate remedial alternatives. We estimate the undiscounted cost for the groundwater RI/FS to be approximately $60 million.",
+          "source_section": "10-K Note 18 — Commitments and Contingencies"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has established strong governance and executive accountability for cybersecurity risk management, indicating a proactive approach to protecting operations from cyber threats.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Management’s assumption that the DOE will begin accepting spent nuclear fuel (SNF) in 2040 provides a clear timeline for estimating decommissioning obligations, which supports structured financial planning.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The existence of settlement agreements with the DOE for reimbursement of SNF storage costs, including recent extensions through 2025, demonstrates the company’s ability to recover certain costs related to nuclear waste storage.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            3
+          ]
+        },
+        {
+          "interpretation": "The company has recognized and accrued for environmental liabilities, reflecting prudent financial management and transparency regarding potential remediation costs.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The company’s indemnification responsibility for Cotter Corporation’s liabilities at Missouri superfund sites is clearly defined, indicating awareness and management of legacy environmental risks.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The EPA’s selection of a final remedy and the consent agreement for remedial design with expected completion in 2025 shows progress in addressing environmental liabilities.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "The company has estimated the total cost of the West Lake Landfill remediation at approximately $530 million, demonstrating a quantified understanding of environmental remediation obligations.",
+          "intensity": "High",
+          "source_fact_index": [
+            7
+          ]
+        },
+        {
+          "interpretation": "The company is actively participating in groundwater studies and has estimated related costs, indicating ongoing commitment to environmental compliance and risk management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Despite governance measures, the company acknowledges ongoing cyber risks that require continuous monitoring, implying potential vulnerability to cyber threats.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The assumption that DOE will begin accepting SNF only by 2040 reflects uncertainty and potential delays in nuclear waste disposal, which could increase decommissioning liabilities.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The company’s reliance on settlement agreements with the DOE for reimbursement of SNF storage costs, which require periodic extension, introduces uncertainty regarding future cost recoveries.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            3
+          ]
+        },
+        {
+          "interpretation": "Accrued environmental liabilities totaling hundreds of millions of dollars indicate significant potential financial exposure related to environmental remediation.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The company’s indemnification obligations for Cotter Corporation’s liabilities at contaminated sites could result in substantial future costs and legal exposure.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The EPA’s mandated partial excavation and capping of radiological materials at West Lake Landfill, with a costly remediation process, highlights significant environmental risk and financial burden.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The estimated $60 million cost for groundwater studies at West Lake Landfill suggests ongoing and potentially escalating environmental liabilities.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8
+          ]
+        }
+      ],
+      "dimension": "Management Strategy & Execution"
+    }
+  ]
+}

@@ -1,0 +1,1226 @@
+{
+  "upside_thesis_summary": "• Lattice Semiconductor’s leadership in low power programmable logic products and its focus on emerging trends such as hyperscale data centers, 5G infrastructure, AI applications at the network edge, and enhanced hardware security position it well to capitalize on expanding addressable markets and evolving customer demands.  \n• The company’s strategy emphasizing low power, small size, and ease of use, combined with advanced packaging, software tools, and system solutions for high-growth applications, supports competitive product adoption and innovation.  \n• Lattice’s FPGA products address complex customer challenges including power efficiency, small form factor, hardware security, and high I/O connectivity, which could enhance customer retention and attract new design wins.  \n• The company maintains a diversified revenue base through global sales across Communications and Computing, Industrial and Automotive, and Consumer markets, supplemented by IP licensing and services, reducing dependency on any single segment.  \n• Management’s active cost structure realignment via restructuring plans and sufficient liquidity supported by cash flows, credit facilities, and disciplined capital allocation—including ongoing stock repurchase programs—provide financial flexibility to support operations and growth initiatives.",
+  "downside_thesis_summary": "• Lattice’s reliance on cyclical semiconductor markets and multiple end markets exposes it to significant revenue and margin volatility, with downturns potentially causing meaningful reductions in demand and adverse operating results.  \n• The company faces risks from a relatively fixed expense structure that limits rapid cost adjustments during sales shortfalls, dependence on maintaining design wins amid rapid technology changes, and heavy reliance on a concentrated group of distributors and end customers, which could materially impact sales if relationships deteriorate.  \n• Limited visibility into product demand, especially for new products, combined with lengthy sales cycles and forecasting difficulties, increases the risk of incurring expenses without corresponding revenue and potential inventory write-downs.  \n• Margin pressures arise from cost drivers including inflationary pressures, supply chain disruptions, wafer pricing, product mix variability, and rising stock-based compensation, compounded by challenges in reducing fixed costs quickly during downturns.  \n• The company’s extensive international operations expose it to geopolitical conflicts, trade restrictions, export controls, and macroeconomic uncertainties, which could disrupt supply chains, increase costs, and negatively affect financial performance.",
+  "raw_dimensions": [
+    {
+      "facts": [
+        {
+          "statement": "Lattice Semiconductor Corporation and its subsidiaries (“Lattice,” the “Company,” “we,” “us,” or “our”) develop technologies that we monetize through differentiated programmable logic semiconductor products, system solutions, design services, and licenses. Lattice is the low power programmable leader. We solve customer problems across the network, from the Edge to the Cloud, in the Communications, Computing, Industrial, Automotive, and Consumer markets. Our technology, long-standing relationships, and commitment to world-class support enable our customers to create a smart, secure, and connected world.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Our field programmable gate array (\"FPGA\") devices enable us to provide our customers with a strong, growing base of control, connect, and compute technologies. We believe there are multiple growth areas that will allow us to increase our addressable market. In particular, we believe there are several emerging trends in servers, infrastructure, and smart devices that are opportunities for Lattice: With the growth of hyperscale data-centers, our “processor agnostic” solutions are ideal for dataplane, control, and connect functions in enterprise and data-center server applications; With the expected continued Communications infrastructure build-out from 5G deployment and beyond, as well as continued data-center network expansion, Lattice solutions are being adopted to control and connect a variety of functions in critical systems; With the increase in electrification and the proliferation of sensors in smart factories, smart homes, and automobiles, our low power, small form factor solutions are ideal for everything from battery powered systems and sensor applications to embedded vision; With the increase in artificial intelligence (\"AI\") and a multitude of applications at the network edge, Lattice devices support applications like face detection, image recognition, and video analytics; With the demand for more hardware security in the Communications, Computing, Industrial, Automotive, and Consumer markets, our devices provide enhanced platform security.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Lattice has focused its strategy on delivering programmable logic products and related solutions based on low power, small size, and ease of use. We also serve our customers with IP licensing and various other services. Our product development activities include new proprietary products, advanced packaging, existing product enhancements, software development tools, soft IP, and system solutions for high-growth applications such as Edge AI, 5G infrastructure, platform security, and factory automation.",
+          "source_section": "10-K Item 7"
+        },
+        {
+          "statement": "We sell our products globally in three end market groups: Communications and Computing, Industrial and Automotive, and Consumer. We also provide Intellectual Property (\"IP\") licensing and services to these end markets.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "In the Communications and Computing Market, our solutions play key roles in computing systems such as servers and client devices, 5G wireless infrastructure, switches, routers, and other related applications.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Our Communications and Computing customers need to address a variety of challenges. As server architectures become increasingly complex, customers need simplified control logic, enhanced hardware platform security, system status monitoring, and rigorous power and thermal management. As client compute devices become smaller and smarter, there is a need for small form factor devices with power efficiency to interface with a variety of sensors and add intelligence. Networks typically require progressively higher bandwidth and increased reliability as more data is demanded by connected devices, and increasingly require more security as providers embrace disaggregation and openness with the adoption of open radio access networks (\"ORAN\"). As wireless cellular sites become more compact, there is a growing requirement for smaller form factors optimized for low power consumption and thermal management.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Lattice FPGAs help solve these customer problems. Our FPGAs are optimized for input/output (\"I/O\") expansion, hardware acceleration, “first-on, last-off” hardware security, and hardware management. Our FPGAs consume power at very low rates, which reduces operating costs. Their small form factor enables higher functional density in less space. Finally, our FPGAs are I/O rich, which allows for more connections with system application specific integrated circuits (\"ASICs\") and application specific standard products (\"ASSPs\").",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "We generate revenue by monetizing our technology designs and patents through product and technology sales. This involves distribution channel and direct sales of silicon-based hardware and silicon-enabling products, as well as the licensing or sale of IP that we have developed or acquired, some of which we use in our products, and certain design services that we may provide.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "We primarily sell our products to customers from Lattice Semiconductor Corporation or our wholly-owned subsidiary, Lattice SG Pte. Ltd. Independent distributors are significant customers, and a substantial portion of our sales are made into this channel. Additionally, we sell both directly and through a network of independent manufacturers' representatives. We also employ a direct sales management and field applications engineering organization to support our end customers and indirect sales resources. End customers for our products are primarily Original Equipment Manufacturers (\"OEMs\") in the Communications and Computing, Industrial and Automotive, and Consumer end markets. Our sales team attempts to drive multi-generational design wins within these OEMs and leverages our distribution partners to grow our broad customer base.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "In fiscal years 2024, 2023, and 2022, sales to distributors accounted for approximately 89%, 87%, and 89%, respectively, of our net revenue. We depend on our distributors to sell our products to end customers, complete order fulfillment, and maintain sufficient inventory of our products. Our distributors also provide technical support and other value-added services to our end customers. We have one global distributor, and we also have regional distribution in Asia, Japan, Europe, and Israel. Additionally, we sell through three major on-line distributors. Revenue from foreign sales as a percentage of total revenue was 82% for both fiscal 2024 and 2023, and 86% for fiscal 2022. We assign revenue to geographies based on ship-to location of our customers. Both foreign and domestic sales are denominated in U.S. dollars.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "The semiconductor industry routinely experiences cyclical market patterns and our products are used across different end markets. A significant downturn in the industry or in any of these end markets could cause a meaningful reduction in demand for our products and adversely affect our operating results.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The semiconductor industry is highly cyclical and subject to downturns, such as we are currently seeing, and our revenue and gross margin can fluctuate significantly due to such downturns. These downturns can be severe and prolonged and can result in price erosion and weak demand for our products. Weak demand for our products resulting from general economic conditions affecting the end markets we serve, or the semiconductor industry specifically, and reduced spending by our customers can result, and in the past has resulted, in diminished product demand, high inventory levels, erosion of average selling prices, excess and obsolete inventories and corresponding inventory write-downs.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our expense levels are based, in part, on our expectations of future sales. Many of our expenses, particularly those relating to facilities, capital equipment, and other overhead, are relatively fixed. We might be unable to reduce spending quickly enough to compensate for reductions in sales. Accordingly, shortfalls in sales could adversely affect our operating results.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our success in our end markets depends on many factors, including the strength or financial performance of the customers in our end markets, our ability to timely meet rapidly changing product requirements, market needs, and our ability to maintain design wins across different markets and customers to dampen the effects of market volatility.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our competitive position and success depend on our ability to innovate, develop, and introduce new products that compete effectively on the basis of price, density, functionality, power consumption, form factor, and performance, and our ability to address the evolving needs of the markets we serve, among other things.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We compete in a dynamic environment characterized by rapid technology and product evolution, generally followed by a relatively longer process of ramping up to volume production on advanced technologies. Our end customers’ continued use of our products is frequently reevaluated, as certain of our customers' product life cycles are relatively short and they continually develop new products. The selection process for our products to be included in our customers' new products is highly competitive. There are no guarantees that our products will be included in the next generation of products introduced by these customers.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We depend on subcontractors to provide cost effective and efficient services in our product development and supply chain functions, including test and assembly services, software and hardware development, support of intellectual property cores, inventory management, lead time management, technical support, and order fulfillment. Our operations and operating results may be adversely affected if we experience problems with our subcontractors that impact the delivery of product to our customers.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our revenues depend on our relationships with our distributors and on a concentrated group of end customers. An adverse change in the relationships with, or performance of, our distributors, or any reduction in the use of our products by our end customers, could harm our sales and significantly decrease our revenue.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "An optimistic investor could view Lattice's leadership in low power programmable logic semiconductor products and its broad market presence across Communications, Computing, Industrial, Automotive, and Consumer markets as a strong foundation for growth and innovation, enabling the company to address diverse customer needs effectively.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The company's focus on emerging trends such as hyperscale data centers, 5G infrastructure, electrification, AI applications at the network edge, and enhanced hardware security positions it well to capitalize on expanding addressable markets and evolving customer demands.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Lattice's strategy emphasizing low power, small size, and ease of use in programmable logic products, along with its development of advanced packaging, software tools, and system solutions for high-growth applications, suggests a competitive approach to meet market needs and drive product adoption.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The company's global sales across three primary end markets and its provision of IP licensing and services indicate a diversified revenue base and multiple monetization channels, potentially reducing dependency on any single market segment.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            7
+          ]
+        },
+        {
+          "interpretation": "Lattice's FPGA products are designed to address complex customer challenges such as power efficiency, small form factor, hardware security, and high I/O connectivity, which could enhance customer retention and attract new design wins.",
+          "intensity": "High",
+          "source_fact_index": [
+            5,
+            6
+          ]
+        },
+        {
+          "interpretation": "The company's established distribution network, including significant sales through distributors and direct sales channels, supports broad market reach and customer support, facilitating revenue generation and market penetration.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8,
+            9
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "A cautious investor could interpret the company's reliance on cyclical semiconductor markets and multiple end markets as a source of significant revenue and margin volatility, with downturns potentially causing meaningful reductions in demand and adverse operating results.",
+          "intensity": "High",
+          "source_fact_index": [
+            10,
+            11
+          ]
+        },
+        {
+          "interpretation": "The company's relatively fixed expense structure, especially in facilities and capital equipment, may limit its ability to quickly adjust costs in response to sales shortfalls, potentially exacerbating negative financial impacts during downturns.",
+          "intensity": "High",
+          "source_fact_index": [
+            12
+          ]
+        },
+        {
+          "interpretation": "Dependence on maintaining design wins and meeting rapidly changing product requirements in highly competitive and dynamic markets introduces risks that the company may not sustain customer acceptance or successfully introduce new products, affecting future revenue.",
+          "intensity": "High",
+          "source_fact_index": [
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "interpretation": "The company's dependence on subcontractors for critical services in product development and supply chain functions exposes it to risks of disruptions, delays, or quality issues that could negatively impact product delivery and financial results.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            17
+          ]
+        },
+        {
+          "interpretation": "Heavy reliance on a concentrated group of distributors and end customers, with two distributors accounting for a significant portion of revenue, presents risks that adverse changes in these relationships or customer financial conditions could materially harm sales and revenue.",
+          "intensity": "High",
+          "source_fact_index": [
+            18
+          ]
+        }
+      ],
+      "dimension": "Business Model & Competitive Position"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We have limited visibility into the demand for our products, particularly new products, because demand for our products depends upon our products being designed into our end customers' products and those products achieving market acceptance. During our sales cycle, our customers typically test and evaluate our products prior to deciding to include our products into the design of their own products, and then require additional time to begin volume production of their products. This lengthy sales cycle may cause us to incur significant expenses, which could be exacerbated by rising inflation, significant production delays, or additional inventory costs before we receive a customer order that may be delayed or never get placed.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "While our sales cycles are typically long, our average product life cycles can be short as a result of the rapidly changing technology environment in which we operate. From time to time, our inventory levels may be higher than historical norms due to inventory build decisions aimed at meeting expected demand, ramping for new products, reducing direct material cost, or enabling responsiveness to expected demand. In the event the expected demand does not materialize, or if our short sales cycle does not generate sufficient revenue, we may be subject to incremental excess and obsolescence costs.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "These factors make it difficult for us to accurately forecast future sales and project quarterly revenues. The difficulty in forecasting future sales weakens our ability to project our inventory requirements, which could result, and in the past has resulted, in inventory write-downs or failure to meet customer product demands in a timely manner.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Accounting requirements related to sales through our distribution channel could result in our reporting revenue in excess of demand. Revenue recognition standards require recognition of revenue based on estimates and may require us to record revenue from distributors that is in excess of actual end customer demand. Since we have limited ability to forecast inventory levels of our end customers, we depend on the timeliness and accuracy of resale reports from our distributors. Late or inaccurate resale reports could mask significant build-up of inventories in our distribution channel, have a detrimental effect on our ability to properly recognize revenue, and impact our ability to forecast future sales. An inventory build-up in our distribution channel could result in a slowdown in orders, requests for returns from customers, or requests to move out planned shipments.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our backlog consists of orders from distributors and certain OEMs that generally require delivery within the next year. Historically, our backlog has not been a predictor of future sales or customer demand for the following reasons: Purchase orders, consistent with common industry practices, generally can be revised or canceled up to 60 days before the scheduled delivery date without significant penalty. A portion of our revenue comes from our \"turns business,\" where the product is ordered and delivered within the same quarter.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Across our end markets, our products are increasingly used for AI-related applications, including device usage in AI-optimized servers in data centers, AI-enabled PCs, and AI-enabled robotics and ADAS systems, among others.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "Within these end markets, there are multiple drivers, including: Communications and computing: data center servers and networking equipment, client computing platforms, and wireless and wireline communications infrastructure deployments; Industrial and automotive: factory automation, robotics, automotive electronics, and industrial Internet of Things (\"IoT\"); Consumer: smart home, prosumer, and other applications.",
+          "source_section": "10-Q Item 2"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "An optimistic investor could view the increasing use of the company's products in AI-related applications across multiple end markets such as data centers, client computing, robotics, and automotive as a strong driver for revenue growth and market expansion, indicating broad demand across diverse sectors.",
+          "intensity": "High",
+          "source_fact_index": [
+            5,
+            6
+          ]
+        },
+        {
+          "interpretation": "The company's strategy to build inventory to meet expected demand and ramp new products could enable it to respond quickly to customer needs and capitalize on market opportunities, potentially supporting revenue growth despite the challenges of long sales cycles.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "A cautious investor could interpret the limited visibility into product demand, especially for new products, and the lengthy sales cycle as significant risks that may lead to incurring expenses without corresponding revenue, thereby negatively impacting financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The difficulty in accurately forecasting sales and inventory needs, combined with the potential for inventory build-up in distribution channels and the non-predictive nature of backlog due to cancellable orders, could result in excess inventory, write-downs, and missed customer demand, posing risks to revenue and margins.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "dimension": "Revenue Growth Drivers & Demand Outlook"
+    },
+    {
+      "dimension": "Pricing Power & Revenue Quality",
+      "facts": [],
+      "upside_thesis": [
+        {
+          "interpretation": "Insufficient disclosure for this dimension.",
+          "intensity": "N/A"
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Insufficient disclosure for this dimension.",
+          "intensity": "N/A"
+        }
+      ]
+    },
+    {
+      "facts": [
+        {
+          "statement": "Gross margin percentage decreased 300 basis points from fiscal 2023 to fiscal 2024. Reduced margins were primarily due to an approximately $7.0 million one-time charge for expiring production materials, and changes in product mix between the periods presented. The expiring production materials were purchased on behalf of the company by the OSATs in anticipation of a supply constraint and are no longer expected to be used. We expect gross margin to increase in future periods due to the non-recurrence of the one-time charge.",
+          "source_section": "10-K Item 7 - Results of Operations (Page 36)"
+        },
+        {
+          "statement": "Gross margin, as a percentage of revenue, decreased 110 basis points in the third quarter of fiscal 2025 compared to the third quarter of fiscal 2024 and decreased by 40 basis points for the first nine months of fiscal 2025 compared to the first nine months of fiscal 2024. Changes in margins were primarily due to higher stock-based compensation associated with market and performance based awards in the current year periods and changes in product mix between the periods presented.",
+          "source_section": "10-Q Item 2 - Management's Discussion and Analysis of Financial Condition and Results of Operations (Page 22)"
+        },
+        {
+          "statement": "Operating expenses increased year-over-year primarily due to higher stock-based compensation in the current year periods; excluding stock-based compensation, operating expenses decreased year-over-year.",
+          "source_section": "10-Q Item 2 - Management's Discussion and Analysis of Financial Condition and Results of Operations (Page 22)"
+        },
+        {
+          "statement": "Research and development expense includes headcount-related costs, including cash- and stock-based compensation and benefits, R&D equipment expenses, engineering wafers, licenses, and outside engineering services. The increase in Research and development expense for the third quarter and first nine months of fiscal 2025 compared to the third quarter and first nine months of fiscal 2024 was primarily due to higher stock-based compensation associated with market-based and performance-based awards in the current year periods coupled with the prior year reduction in stock compensation expense from the forfeiture of equity awards by departing executives. We believe that investing in research and development is important to delivering innovative products to our customers. We expect research and development expense to increase in the future, but to decline as a percentage of revenue.",
+          "source_section": "10-Q Item 2 - Management's Discussion and Analysis of Financial Condition and Results of Operations (Page 22)"
+        },
+        {
+          "statement": "Selling, general, and administrative expense includes costs for compensation and benefits related to selling, general, and administrative employees, commissions, depreciation, professional and outside services, trade show, and travel expenses. The increase in Selling, general, and administrative expense for the third quarter and first nine months of fiscal 2025 compared to the third quarter and first nine months of fiscal 2024 was primarily due to higher stock-based compensation associated with market-based and performance-based awards in the current year periods coupled with the prior year reduction in stock compensation expense from the forfeiture of equity awards by departing executives.",
+          "source_section": "10-Q Item 2 - Management's Discussion and Analysis of Financial Condition and Results of Operations (Page 22)"
+        },
+        {
+          "statement": "A number of factors, including how products are manufactured to support end markets, yield, wafer pricing, cost of packaging raw materials, product mix, market acceptance of our new products, competitive pricing dynamics, product quality, geographic and/or end market mix, and pricing strategies, can cause our revenue, gross margins, net income, and inventory to fluctuate significantly either positively or negatively from period to period.",
+          "source_section": "10-K Item 1A - Risk Factors (Page 25)"
+        },
+        {
+          "statement": "Our operations are subject to the effects of inflationary pressures and recessionary concerns. Global economic conditions have recently experienced historically high levels of inflation, and there is increasing concern about the potential for recession and/or economic slowdown. Recent inflation caused by global supply chain disruptions, strong economic recovery and associated widespread demand for goods, and government stimulus packages, among other factors, continues to impact our business. For instance, global supply chain disruptions have resulted in shortages in materials and services. Such shortages have resulted in inflationary cost increases for labor, materials, and services across the economy, and could continue to cause costs to increase as well as scarcity of certain products.",
+          "source_section": "10-K Item 1A - Risk Factors (Page 25)"
+        },
+        {
+          "statement": "If the demand for silicon wafers or assembly material exceeds market supply, or if suppliers increase prices to cover the cost of rising inflation, our supply of silicon wafers or assembly material could quickly become limited or prohibitively expensive. Silicon wafers constitute a material portion of our product cost, and if we are unable to purchase wafers at favorable prices, due to supply constraints, inflation, or other factors, our margins, results of operations, and financial condition may be adversely affected.",
+          "source_section": "10-K Item 1A - Risk Factors (Page 15)"
+        },
+        {
+          "statement": "Many of our expenses, particularly those relating to facilities, capital equipment, and other overhead, are relatively fixed. We might be unable to reduce spending quickly enough to compensate for reductions in sales. Accordingly, shortfalls in sales could adversely affect our operating results.",
+          "source_section": "10-K Item 1A - Risk Factors (Page 22)"
+        },
+        {
+          "statement": "From time to time, our inventory levels may be higher than historical norms due to inventory build decisions aimed at meeting expected demand, ramping for new products, reducing direct material cost, or enabling responsiveness to expected demand. In the event the expected demand does not materialize, or if our short sales cycle does not generate sufficient revenue, we may be subject to incremental excess and obsolescence costs.",
+          "source_section": "10-K Item 1A - Risk Factors (Page 25)"
+        },
+        {
+          "statement": "The difficulty in forecasting future sales weakens our ability to project our inventory requirements, which could result, and in the past has resulted, in inventory write-downs or failure to meet customer product demands in a timely manner. While we may issue guidance, difficulty in forecasting financial performance, relative customer and product mix, and the unpredictability of unknown variables and their impact on our financial performance may impair the accuracy of our forward-looking financial measures.",
+          "source_section": "10-K Item 1A - Risk Factors (Page 25)"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The decrease in gross margin percentage in fiscal 2024 was primarily due to a one-time $7.0 million charge for expiring production materials, which is not expected to recur, suggesting that gross margins could improve in future periods.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Although gross margin percentage decreased slightly in fiscal 2025 periods, the changes were mainly due to higher stock-based compensation and product mix changes, indicating that operational margins remain relatively stable aside from compensation-related expenses.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Excluding stock-based compensation, operating expenses decreased year-over-year, which could indicate improved operational efficiency and potential for margin expansion.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The company views investment in research and development as important for delivering innovative products, and although R&D expenses are expected to increase, they are anticipated to decline as a percentage of revenue, which could support margin sustainability over time.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Despite increases in selling, general, and administrative expenses due to stock-based compensation, the company has taken actions such as aligning resources to lower business levels, which may help control costs and support margins.",
+          "intensity": "Low",
+          "source_fact_index": [
+            4
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The 300 basis point decrease in gross margin percentage in fiscal 2024, driven by a one-time charge and product mix changes, highlights the volatility and risk of margin compression from inventory and product factors.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Gross margin percentage declines in fiscal 2025 periods due to higher stock-based compensation and product mix changes suggest ongoing pressure on margins from compensation costs and product portfolio shifts.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Operating expenses increased primarily due to higher stock-based compensation, which may pressure operating margins if such compensation costs continue to rise.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Rising research and development expenses, driven by stock-based compensation and other costs, could weigh on margins, especially if revenue growth does not keep pace.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The company faces multiple cost drivers and risks including inflationary pressures, supply chain disruptions, wafer pricing, and product mix variability, all of which can cause significant fluctuations in gross margins and operating results.",
+          "intensity": "High",
+          "source_fact_index": [
+            5,
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "Fixed nature of many expenses and difficulty in forecasting sales and inventory needs may lead to inventory write-downs, excess and obsolete inventory costs, and inability to reduce costs quickly enough during downturns, negatively impacting margins and operating leverage.",
+          "intensity": "High",
+          "source_fact_index": [
+            9,
+            10,
+            11
+          ]
+        }
+      ],
+      "dimension": "Margins & Cost Structure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We have historically financed our operating and capital resource requirements through cash flows from operations, and from the issuance of long-term debt to fund acquisitions. Cash provided by or used in operating activities will fluctuate from period to period due to fluctuations in operating results, the timing and collection of accounts receivable, and required inventory levels, among other things.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources"
+        },
+        {
+          "statement": "We believe that our financial resources, including current cash and cash equivalents, cash flow from operating activities, and our credit facilities, will be sufficient to meet our liquidity and working capital needs through at least the next 12 months.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources"
+        },
+        {
+          "statement": "As of December 28, 2024, we did not have significant long-term commitments for capital expenditures.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources"
+        },
+        {
+          "statement": "Cash provided by operating activities was $140.9 million in fiscal 2024 compared to $269.6 million in fiscal 2023. This decrease of $128.7 million was primarily driven by a decrease of $159.8 million provided by operating activities, partially offset by $31.1 million of net changes in working capital, primarily in Accounts receivable and Inventories.",
+          "source_section": "10-K Item 7 - Liquidity"
+        },
+        {
+          "statement": "Accounts receivable, net as of December 28, 2024 decreased by approximately $23.3 million, or approximately 22%, compared to December 30, 2023. This decrease was due to lower revenue shipments as well as the timing of when our customers want our products.",
+          "source_section": "10-K Item 7 - Liquidity"
+        },
+        {
+          "statement": "Inventories as of December 28, 2024 increased $4.6 million, or approximately 5%, compared to December 30, 2023 primarily as a result of product buildup ahead of new product ramps and from softer demand as customers continue to normalize their own inventories.",
+          "source_section": "10-K Item 7 - Liquidity"
+        },
+        {
+          "statement": "Cash provided by operating activities for the first nine months of fiscal 2025 was $117.5 million compared to $95.5 million for the first nine months of fiscal 2024. This increase of $22.0 million was primarily driven by $17.9 million of net changes in working capital coupled with $4.1 million more cash provided by net income adjusted for non-cash items.",
+          "source_section": "10-Q Item 2 - Liquidity and Capital Resources"
+        },
+        {
+          "statement": "Net cash used by investing activities in the first nine months of fiscal 2025 was $41.1 million compared to $27.7 million in the first nine months of fiscal 2024.",
+          "source_section": "10-Q Item 2 - Liquidity and Capital Resources"
+        },
+        {
+          "statement": "Net cash used by financing activities in the first nine months of fiscal 2025 was $95.3 million compared to $71.6 million in the first nine months of fiscal 2024. This $23.7 million increase was due to the following activities. During the first nine months of fiscal 2025, we repurchased approximately 1.5 million shares of common stock for $85.9 million compared to the first nine months of fiscal 2024, where we repurchased approximately 0.8 million shares of common stock for $47.0 million.",
+          "source_section": "10-Q Item 2 - Liquidity and Capital Resources"
+        },
+        {
+          "statement": "As of September 27, 2025, we had Cash and cash equivalents of $117.9 million, of which approximately $48.0 million was held by our foreign subsidiaries. We manage our global cash requirements considering, among other things, (i) available funds among our subsidiaries through which we conduct business, (ii) the geographic location of our liquidity needs, and (iii) the cost to access international cash balances. The repatriation of non-US earnings may require us to withhold and pay foreign income tax on dividends. This should not result in our recording significant additional tax expense as we have accrued expense based on current withholding rates. As of September 27, 2025, we could access all cash held by our foreign subsidiaries without incurring significant additional expense.",
+          "source_section": "10-Q Item 2 - Liquidity and Capital Resources"
+        },
+        {
+          "statement": "On December 9, 2024, we announced that our Board of Directors had approved a stock repurchase program pursuant to which up to $100 million of outstanding common stock could be repurchased from time to time (the \"2025 Repurchase Program\"). The duration of the 2025 Repurchase Program is through December 31, 2025. During the third quarter of fiscal 2025, we repurchased 217,820 shares for $15.0 million, or an average price paid per share of $68.86. All repurchases were open market transactions funded from available working capital. All shares repurchased pursuant to the 2025 Repurchase Program were retired upon settlement.",
+          "source_section": "10-Q Note 10 - Common Stock Repurchase Program"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has a history of generating operating cash flow sufficient to finance its operating and capital resource requirements, indicating operational cash flow strength and financial self-sufficiency.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Management believes that current financial resources, including cash, operating cash flow, and credit facilities, are adequate to meet liquidity and working capital needs for at least the next 12 months, suggesting stable liquidity management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The absence of significant long-term capital expenditure commitments as of December 28, 2024, implies lower capital intensity and potential for free cash flow generation.",
+          "intensity": "Low",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Improvement in operating cash flow in the first nine months of fiscal 2025 compared to the prior year, driven by positive working capital changes and higher net income adjusted for non-cash items, indicates effective working capital management and operational cash flow growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "The company actively manages its cash and cash equivalents globally, with the ability to access foreign cash without significant additional expense, supporting flexible liquidity management.",
+          "intensity": "Low",
+          "source_fact_index": [
+            9
+          ]
+        },
+        {
+          "interpretation": "The company has an ongoing stock repurchase program funded from available working capital, reflecting confidence in cash flow generation and capital allocation flexibility.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            10
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Operating cash flow is subject to fluctuations due to variability in operating results, timing and collection of accounts receivable, and inventory levels, indicating potential volatility in cash flow generation.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Cash provided by operating activities decreased significantly from fiscal 2023 to fiscal 2024, indicating potential challenges in sustaining operating cash flow levels.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Accounts receivable decreased by 22% as of December 28, 2024 compared to the prior year, driven by lower revenue shipments and timing of customer demand, which may reflect weakening sales or collection timing risks impacting working capital.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Inventories increased by approximately 5% due to product buildup ahead of new product ramps and softer demand, which could indicate potential inventory risk and capital tied up in stock.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Net cash used by investing activities increased in the first nine months of fiscal 2025 compared to the prior year, indicating higher capital expenditures or investments that may pressure cash flow.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7
+          ]
+        },
+        {
+          "interpretation": "Net cash used by financing activities increased notably in the first nine months of fiscal 2025, primarily due to increased stock repurchases, which could reduce available cash and liquidity.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8
+          ]
+        },
+        {
+          "interpretation": "Cash and cash equivalents decreased by $18.4 million between December 28, 2024 and September 27, 2025, which may indicate cash outflows exceeding inflows during the period.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        }
+      ],
+      "dimension": "Cash Flow Generation"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We have historically financed our operating and capital resource requirements through cash flows from operations, and from the issuance of long-term debt to fund acquisitions. Cash provided by or used in operating activities will fluctuate from period to period due to fluctuations in operating results, the timing and collection of accounts receivable, and required inventory levels, among other things.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources (Page 39)"
+        },
+        {
+          "statement": "We believe that our financial resources, including current cash and cash equivalents, cash flow from operating activities, and our credit facilities, will be sufficient to meet our liquidity and working capital needs through at least the next 12 months.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources (Page 39)"
+        },
+        {
+          "statement": "In the future, we may continue to consider acquisition opportunities to further extend our product or technology portfolios and further expand our product offerings. In connection with funding capital expenditures, acquisitions, securing additional wafer supply, increasing our working capital, or other operations, we may seek to obtain equity or additional debt financing. We may also seek to obtain equity or additional debt financing if we experience downturns or cyclical fluctuations in our business that are more severe or longer than we anticipated when determining our current working capital needs.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources (Page 39)"
+        },
+        {
+          "statement": "On November 30, 2023, we announced that our Board of Directors had approved a stock repurchase program pursuant to which up to $250 million of outstanding common stock could be repurchased from time to time (the \"2024 Repurchase Program\"). The duration of the 2024 Repurchase Program was through December 28, 2024. During the fourth quarter of fiscal 2024, we repurchased 366,969 shares for $20.0 million, or an average price paid per share of $54.50. All repurchases were open market transactions funded from available working capital. All shares repurchased pursuant to the 2024 Repurchase Program were retired by the end of the fourth quarter of fiscal 2024. We repurchased a total of 1,145,560 shares for $67.0 million, or an average price paid per share of $58.48, during fiscal year 2024.",
+          "source_section": "10-K Item 5 - Market for Registrant's Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities (Page 30)"
+        },
+        {
+          "statement": "On December 9, 2024, we announced that our Board of Directors had approved a stock repurchase program pursuant to which up to an additional $100 million of outstanding common stock could be repurchased from time to time (the \"2025 Repurchase Program\"). The duration of the 2025 Repurchase Program is through December 31, 2025. No shares were repurchased under the 2025 Repurchase Program during the fourth quarter of fiscal 2024.",
+          "source_section": "10-K Item 5 - Market for Registrant's Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities (Page 30)"
+        },
+        {
+          "statement": "The payment of dividends on our common stock is within the discretion of our Board of Directors. We intend to retain earnings to finance our business. We have never paid cash dividends.",
+          "source_section": "10-K Item 5 - Market for Registrant's Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities (Page 30)"
+        },
+        {
+          "statement": "Our amended and restated credit agreement, dated September 1, 2022 (the “2022 Credit Agreement”) allows us to draw up to $350 million. While as of December 28, 2024, we had no borrowings outstanding under the 2022 Credit Agreement, the incurrence of indebtedness could impact the Company. Our obligations under the 2022 Credit Agreement are guaranteed by certain of our U.S. subsidiaries meeting materiality thresholds set forth in the 2022 Credit Agreement, and the revolving loans under the 2022 Credit Agreement may be reborrowed and repaid at our discretion, with any remaining outstanding principal amount due and payable on the maturity date of the revolving loan facility on September 1, 2027.",
+          "source_section": "10-K Note 7 - Long-Term Debt (Page 58)"
+        },
+        {
+          "statement": "The 2022 Credit Agreement contains customary affirmative and negative covenants, including covenants limiting the ability of the Company and our subsidiaries to, among other things, incur debt, grant liens, undergo certain fundamental changes, make investments, make certain restricted payments, dispose of assets, enter into transactions with affiliates, and enter into burdensome agreements, in each case, subject to limitations and exceptions set forth in the 2022 Credit Agreement. We are also required to maintain compliance with a total net leverage ratio and an interest coverage ratio, in each case, determined in accordance with the terms of the 2022 Credit Agreement.",
+          "source_section": "10-K Item 1A - Risk Factors (Page 19)"
+        },
+        {
+          "statement": "We may pursue growth opportunities by acquiring complementary businesses, solutions or technologies through strategic transactions, investments or partnerships. The identification of suitable acquisition, strategic investment or strategic partnership candidates can be costly and time consuming and can distract our management team from our current operations. If such strategic transactions require us to seek additional debt or equity financing, we may not be able to obtain such financing on terms favorable to us or at all, and such transaction may adversely affect our liquidity and capital structure. We may also choose to divest certain non-core assets, which divestitures could lead to charges against earnings and may expose us to additional liabilities and risks.",
+          "source_section": "10-K Item 1A - Risk Factors (Page 26)"
+        },
+        {
+          "statement": "During the first nine months of fiscal 2025, we repurchased approximately 1.5 million shares of common stock for $85.9 million compared to the first nine months of fiscal 2024, where we repurchased approximately 0.8 million shares of common stock for $47.0 million.",
+          "source_section": "10-Q Liquidity and Capital Resources (Page 27)"
+        },
+        {
+          "statement": "Net cash used by financing activities in the first nine months of fiscal 2025 was $95.3 million compared to $71.6 million in the first nine months of fiscal 2024. This $23.7 million increase was due to the following activities. During the first nine months of fiscal 2025, we repurchased approximately 1.5 million shares of common stock for $85.9 million compared to the first nine months of fiscal 2024, where we repurchased approximately 0.8 million shares of common stock for $47.0 million. Payments for tax withholdings on vesting of RSUs partially offset by purchases under the employee stock purchase plan used net cash flows of $9.4 million in the first nine months of fiscal 2025, a decrease of approximately $15.2 million from the net $24.6 million used in the first nine months of fiscal 2024.",
+          "source_section": "10-Q Liquidity and Capital Resources (Page 27)"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has a disciplined approach to capital allocation, financing its operations primarily through cash flows from operations and selectively using long-term debt for acquisitions, indicating prudent financial management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Management believes that current financial resources, including cash, operating cash flow, and credit facilities, are sufficient to meet liquidity and working capital needs for at least the next 12 months, suggesting stable financial footing.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The company actively pursues acquisition opportunities to expand its product and technology portfolios, which could enhance growth and market position.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            8
+          ]
+        },
+        {
+          "interpretation": "The company has an active stock repurchase program, having repurchased significant shares in fiscal 2024 and continuing with a new program in 2025, which may indicate management's confidence in the company's value and a commitment to returning capital to shareholders.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            4,
+            9,
+            10
+          ]
+        },
+        {
+          "interpretation": "The company has not paid dividends and intends to retain earnings to finance its business, which may support reinvestment and growth initiatives.",
+          "intensity": "Low",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The company maintains a sizable revolving credit facility with flexible terms and no outstanding borrowings as of the latest fiscal year-end, providing financial flexibility for working capital, acquisitions, or other corporate purposes.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "The credit agreement includes covenants that promote capital discipline by limiting certain actions and requiring maintenance of financial ratios, which may help ensure prudent financial management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Reliance on cash flows from operations and long-term debt issuance for acquisitions may expose the company to liquidity risks if operating results fluctuate or if debt financing becomes less accessible.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Although management believes current resources are sufficient for the next 12 months, uncertainties such as market volatility, inflation, interest rates, and geopolitical tensions could adversely impact liquidity and working capital needs beyond this period.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Future acquisitions and capital expenditures may require additional equity or debt financing, which may not be available on favorable terms or at all, potentially affecting liquidity and capital structure.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            8
+          ]
+        },
+        {
+          "interpretation": "Stock repurchase programs, while returning capital to shareholders, reduce available cash and may limit funds for other strategic investments or operational needs.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            4,
+            9,
+            10
+          ]
+        },
+        {
+          "interpretation": "The company has never paid dividends and retains earnings to finance the business, which may disappoint investors seeking income and could limit shareholder returns in the short term.",
+          "intensity": "Low",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The existence of debt covenants and the potential incurrence of indebtedness could limit the company's strategic flexibility and increase vulnerability to economic downturns or competitive pressures.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        }
+      ],
+      "dimension": "Capital Allocation & Investment Discipline"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We believe that our financial resources, including current cash and cash equivalents, cash flow from operating activities, and our credit facilities, will be sufficient to meet our liquidity and working capital needs through at least the next 12 months.",
+          "source_section": "10-Q - Page 27"
+        },
+        {
+          "statement": "As of September 27, 2025, we had Cash and cash equivalents of $117.9 million, of which approximately $48.0 million was held by our foreign subsidiaries. As of September 27, 2025, we could access all cash held by our foreign subsidiaries without incurring significant additional expense.",
+          "source_section": "10-Q - Page 27"
+        },
+        {
+          "statement": "On September 1, 2022, we entered into our 2022 Credit Agreement, which provides for a five-year secured revolving loan facility with an aggregate principal amount of up to $350 million. At September 27, 2025 and December 28, 2024, we had no borrowings outstanding under the 2022 Credit Agreement. We pay a quarterly commitment fee of 0.20% on the unused portion of the revolving facility.",
+          "source_section": "10-Q - Page 14"
+        },
+        {
+          "statement": "The 2022 Credit Agreement contains customary affirmative and negative covenants, including covenants limiting the ability of the Company and our subsidiaries to, among other things, incur debt, grant liens, undergo certain fundamental changes, make investments, make certain restricted payments, dispose of assets, enter into transactions with affiliates, and enter into burdensome agreements, in each case, subject to limitations and exceptions set forth in the 2022 Credit Agreement. We are also required to maintain compliance with a total net leverage ratio and an interest coverage ratio, in each case, determined in accordance with the terms of the 2022 Credit Agreement.",
+          "source_section": "10-K - Page 19"
+        },
+        {
+          "statement": "If we breach a loan covenant, the lenders could accelerate the repayment of the facility. We might not have sufficient assets to repay our indebtedness upon acceleration. If we are unable to repay or refinance the indebtedness upon acceleration or at maturity, the lenders could initiate a bankruptcy proceeding against us or collection proceedings with respect to our assets and subsidiaries securing the facility, which could materially decrease the value of our common stock.",
+          "source_section": "10-K - Page 19"
+        },
+        {
+          "statement": "The revolving loans under the 2022 Credit Agreement may be repaid and reborrowed at our discretion, with any remaining outstanding principal amount due and payable on the maturity date of the revolving loan on September 1, 2027.",
+          "source_section": "10-Q - Page 14"
+        },
+        {
+          "statement": "Cash provided by operating activities for the first nine months of fiscal 2025 was $117.5 million compared to $95.5 million for the first nine months of fiscal 2024. This increase of $22.0 million was primarily driven by $17.9 million of net changes in working capital coupled with $4.1 million more cash provided by net income adjusted for non-cash items.",
+          "source_section": "10-Q - Page 27"
+        },
+        {
+          "statement": "Net cash used by investing activities in the first nine months of fiscal 2025 was $41.1 million compared to $27.7 million in the first nine months of fiscal 2024.",
+          "source_section": "10-Q - Page 27"
+        },
+        {
+          "statement": "Net cash used by financing activities in the first nine months of fiscal 2025 was $95.3 million compared to $71.6 million in the first nine months of fiscal 2024. This $23.7 million increase was due to the following activities. During the first nine months of fiscal 2025, we repurchased approximately 1.5 million shares of common stock for $85.9 million compared to the first nine months of fiscal 2024, where we repurchased approximately 0.8 million shares of common stock for $47.0 million.",
+          "source_section": "10-Q - Page 27"
+        },
+        {
+          "statement": "As of September 27, 2025, the remaining portion of the amount authorized for the 2025 Repurchase Program is approximately $14.1 million.",
+          "source_section": "10-Q - Page 17"
+        },
+        {
+          "statement": "Operating lease right-of-use assets balance as of September 27, 2025 was $18.965 million, with operating lease liabilities totaling $20.382 million, including a current portion of $5.805 million and a long-term portion of $14.577 million.",
+          "source_section": "10-Q - Pages 14-15"
+        },
+        {
+          "statement": "We recorded fixed operating lease expenses of $1.7 million and $2.1 million for the third quarter of fiscal 2025 and 2024, respectively, and $6.1 million and $6.4 million for the first nine months of fiscal 2025 and 2024, respectively.",
+          "source_section": "10-Q - Page 14"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has sufficient liquidity and working capital resources, supported by cash, cash equivalents, operating cash flow, and available credit facilities, to meet its needs for at least the next 12 months, indicating financial stability.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1,
+            6
+          ]
+        },
+        {
+          "interpretation": "The absence of borrowings under the $350 million revolving credit facility and the ability to repay and reborrow at discretion provide the company with flexible access to funding if needed, enhancing financial flexibility.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            5
+          ]
+        },
+        {
+          "interpretation": "The company’s active management of cash flows, including increased cash from operating activities and disciplined investing and financing activities, reflects effective liquidity management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "The company’s lease obligations are well-defined and manageable, with operating lease expenses remaining relatively stable, supporting predictable cash outflows.",
+          "intensity": "Low",
+          "source_fact_index": [
+            10,
+            11
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Despite sufficient liquidity currently, the company faces covenant constraints under its credit agreement, including maintaining leverage and interest coverage ratios, which could restrict operational and financial flexibility.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "A breach of loan covenants could lead to acceleration of debt repayment, and the company might lack sufficient assets to repay, potentially resulting in bankruptcy or asset seizure, posing significant financial risk.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The company’s cash and cash equivalents decreased by $18.4 million compared to the prior period, driven by significant stock repurchases and increased investing and financing cash outflows, which could pressure liquidity.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "Operating lease liabilities increased to $20.382 million with a long-term portion of $14.577 million, representing ongoing fixed obligations that could constrain future cash flows.",
+          "intensity": "Low",
+          "source_fact_index": [
+            10
+          ]
+        }
+      ],
+      "dimension": "Balance Sheet Strength & Liquidity"
+    },
+    {
+      "facts": [
+        {
+          "statement": "A key strategic customer may demand certain design or production resources to meet their requirements or work on a specific solution, which could cause delays in our normal development schedule and result in significant investment of our resources or missed opportunities with other potential customers. We may incur these expenses without generating revenue from our products to offset the expenses.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "From time to time, our inventory levels may be higher than historical norms due to inventory build decisions aimed at meeting expected demand, ramping for new products, reducing direct material cost, or enabling responsiveness to expected demand. In the event the expected demand does not materialize, or if our short sales cycle does not generate sufficient revenue, we may be subject to incremental excess and obsolescence costs.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The difficulty in forecasting future sales weakens our ability to project our inventory requirements, which could result, and in the past has resulted, in inventory write-downs or failure to meet customer product demands in a timely manner.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Late or inaccurate resale reports could mask significant build-up of inventories in our distribution channel, have a detrimental effect on our ability to properly recognize revenue, and impact our ability to forecast future sales. An inventory build-up in our distribution channel could result in a slowdown in orders, requests for returns from customers, or requests to move out planned shipments.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Global supply chain disruptions have resulted in shortages in materials and services. Such shortages have resulted in inflationary cost increases for labor, materials, and services across the economy, and could continue to cause costs to increase as well as scarcity of certain products.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our worldwide operations and supply chain could be disrupted by natural or human-induced disasters including, but not limited to, earthquakes, tsunamis, or floods; hurricanes, cyclones, or typhoons; fires, or other extreme weather conditions; power or water shortages; telecommunications failures; materials scarcity and price volatility; manufacturing equipment failures; IT system failures; cybersecurity attacks; data breaches; medical epidemics or pandemics; terrorist acts, civil unrest, military actions, conflicts, or wars; or other natural or man-made disasters or catastrophic events.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Worldwide political and economic conditions may create uncertainties that could adversely affect our business. For example, conflict in the Middle East, the continuing military conflict between Ukraine and Russia, as well as the financial and trade-related restrictions associated with Russia and Belarus and economic sanctions on certain individuals and entities in Russia and Belarus, may further disrupt global supply chains and could result in shortages of key materials that our suppliers and foundry partners require to satisfy our needs.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The U.S. government has continued to increase restrictions on the export of semiconductor- and supercomputer-related products, including semiconductor manufacturing affecting the ability to send U.S.-controlled certain chips, products containing those chips, chip-related technology and software, and items related to semiconductor manufacturing worldwide without export authorization. In many cases, specific export licensing will be required and these licenses are subject to a policy of denial.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Any deterioration in the relations between Taiwan and China, and other factors affecting military, political or economic conditions in Taiwan or elsewhere in Asia, could adversely impact our third-party manufacturing partners and suppliers located in the region, which could disrupt our business operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Adverse macroeconomic conditions, such as rising inflation and labor shortages, may affect demand for our products or increase our product or labor costs, negatively impacting our revenues, gross margins, and overall financial results.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Although our business has not been materially impacted by supply chain constraints, inflation, or labor market disruptions, events outside of our control could have a material adverse impact on our business, operating results, and financial condition in the future.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s willingness to invest significant resources to meet key strategic customer demands, even if it causes delays or missed opportunities elsewhere, demonstrates a strong commitment to maintaining important customer relationships and potentially securing long-term revenue streams.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Inventory build decisions aimed at meeting expected demand and ramping new products indicate proactive management to align supply with anticipated market needs, which could enable responsiveness and cost reductions if demand materializes as expected.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The company’s experience with forecasting challenges and inventory management suggests it has developed processes to handle fluctuations and adjust operations accordingly, which could improve operational resilience over time.",
+          "intensity": "Low",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The reliance on distributor resale reports and the management of inventory build-up in distribution channels reflect an active approach to monitoring and controlling supply chain dynamics, which could help optimize revenue recognition and sales forecasting.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Despite global supply chain disruptions and inflationary pressures, the company’s acknowledgment of these factors suggests awareness and potential to adapt procurement and cost strategies to mitigate impacts.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The company’s global operations and supply chain are diversified across multiple regions, which may provide some resilience against localized natural or man-made disruptions.",
+          "intensity": "Low",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The company’s recognition of geopolitical risks and export restrictions indicates it is monitoring external factors closely, which could enable timely adjustments to supply chain and operational strategies.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "Awareness of macroeconomic conditions such as inflation and labor shortages allows the company to plan for potential cost impacts and demand fluctuations, potentially positioning it to manage financial results proactively.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9,
+            10
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Significant investment of resources to meet a key customer’s demands may cause delays in development schedules and missed opportunities with other customers, potentially leading to lost revenue and inefficient use of resources.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Higher than normal inventory levels due to build decisions may result in excess and obsolescence costs if expected demand does not materialize, negatively impacting financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Difficulty in forecasting sales and inventory requirements has previously resulted in inventory write-downs and failure to meet customer demands timely, indicating ongoing operational execution risks.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Late or inaccurate distributor resale reports can mask inventory build-up, potentially leading to revenue recognition errors, order slowdowns, returns, or shipment delays, which could disrupt sales and financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Global supply chain disruptions causing shortages and inflationary cost increases for labor, materials, and services may continue to raise costs and limit availability of products, adversely affecting operations and margins.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The company’s worldwide operations and supply chain are vulnerable to a wide range of natural and man-made disasters, which could seriously disrupt business operations and increase costs.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Geopolitical conflicts, economic sanctions, and export restrictions may disrupt global supply chains and cause shortages of key materials, adversely impacting manufacturing and product availability.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "Adverse macroeconomic conditions such as rising inflation and labor shortages may reduce product demand and increase costs, negatively affecting revenues, margins, and overall financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            9,
+            10
+          ]
+        },
+        {
+          "interpretation": "Although not currently materially impacted, the company acknowledges that supply chain constraints, inflation, or labor market disruptions could have a material adverse impact on business and financial condition in the future.",
+          "intensity": "High",
+          "source_fact_index": [
+            10
+          ]
+        }
+      ],
+      "dimension": "Operational & Supply Chain Risks"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Our global business operations expose us to various economic, political, and business risks, which could impact our business, operating results and financial condition. We have significant domestic and international operations. Our international operations include foreign sales offices to support our international customers and distributors, which account for the majority of our revenue, and operational and research and development sites in China, the Philippines, Malaysia, and other Asian locations. In addition, we purchase our wafers from foreign foundries; have our commercial products assembled, packaged, and tested by subcontractors located outside of the United States; and rely on international service providers for a variety of services, including inventory management, lead time management, technical support, factory engagement meetings, and order fulfillment. Worldwide political and economic conditions may create uncertainties that could adversely affect our business. For example, conflict in the Middle East, the continuing military conflict between Ukraine and Russia, as well as the financial and trade-related restrictions associated with Russia and Belarus and economic sanctions on certain individuals and entities in Russia and Belarus, may further disrupt global supply chains and could result in shortages of key materials that our suppliers and foundry partners require to satisfy our needs. Additionally, the U.S. government has continued to increase restrictions on the export of semiconductor- and supercomputer-related products, including semiconductor manufacturing affecting the ability to send U.S.-controlled certain chips, products containing those chips, chip-related technology and software, and items related to semiconductor manufacturing worldwide without export authorization. In many cases, specific export licensing will be required and these licenses are subject to a policy of denial. China has responded by implementing additional export controls on products exported from China. These increasing restrictions, as well as additional future controls impacting the semiconductor ecosystem, may impact the global supply chain and could result in shortages of key materials that our suppliers and foundry partners require to satisfy our needs. Any deterioration in the relations between Taiwan and China, and other factors affecting military, political or economic conditions in Taiwan or elsewhere in Asia, could adversely impact our third-party manufacturing partners and suppliers located in the region, which could disrupt our business operations. Countries in Europe and Asia have proposed, or recently adopted, significant increases in their military budgets and the outbreak of new, or expansion of current, military conflicts could adversely affect our business. Furthermore, adverse macroeconomic conditions, such as rising inflation and labor shortages, may affect demand for our products or increase our product or labor costs, negatively impacting our revenues, gross margins, and overall financial results.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our domestic and international business activities are subject to economic, political and regulatory risks, including: increased inflation; volatility in financial markets; fluctuations in consumer liquidity; changes in interest rates; price increases for materials and components; trade barriers or changes in trade policies; political instability; acts of war or terrorism; natural disasters; economic sanctions; weak economic conditions; environmental regulations; labor regulations; disruptions to labor markets; import and export regulations; tax or freight rates; duties; trade restrictions; interruptions in transportation or infrastructure; anti-corruption laws; domestic and foreign governmental regulations; potential vulnerability of and reduced protection for intellectual property; disruptions or delays in production or shipments; and instability or fluctuations in currency exchange rates, any of which could lead to decreased demand for our products or a change in our results of operation. Although our business has not been materially impacted by supply chain constraints, inflation, or labor market disruptions, events outside of our control could have a material adverse impact on our business, operating results, and financial condition in the future. Uncertainty about future political and economic conditions makes forecasting demand and providing guidance difficult. Accordingly, our expectations are subject to change without warning and investors are cautioned not to place undue reliance on them.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our business could suffer as a result of tariffs and trade sanctions or similar actions. The imposition by the United States of tariffs, sanctions or other restrictions on goods exported from the United States or imported into the United States or countermeasures imposed in response to such government actions could adversely affect our operations or our ability to sell our products globally, which could adversely affect our operating results and financial condition. Beginning in 2018, the U.S. government imposed significant additional tariffs on many items imported from China, which have since been raised to between 7.5% and 100% on certain products. China responded by imposing significant tariffs on many items imported from the United States, among other measures which include export controls restricting the export of gallium and germanium to the United States. Recently, U.S. government leaders have increased their frequency of discussion of the imposition of stronger tariffs, sanctions, and other restrictions on goods exported from the United States or imported into the United States, and non-U.S. government leaders have increased their discussion of countermeasures. For example, in February 2025, the United States imposed an additional 10% tariff on imports of Chinese-origin goods and steel and aluminum imports. China announced plans to impose retaliatory tariffs on certain U.S.-origin goods and implemented new trade controls restricting the export of tungsten, tellurium, bismuth, molybdenum, and indium. As the February 2025, U.S. executive order contains provisions allowing for further increases in the scope and amount of tariffs in the event of retaliatory countermeasures, and the future of existing tariffs, and the possibility for new tariffs, remains very uncertain. Such escalations in these trade measures may directly impair our business by increasing trade-related costs or disrupting established supply chains and may indirectly impair our business by causing a negative effect on global economic conditions and financial markets. The ultimate impact of these trade measures is uncertain and may be affected by various factors, including whether and when such trade measures are implemented, the timing when such measures may become effective, and the amount, scope, or nature of such trade measures.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Increased financial market volatility, inflationary pressure, interest rate changes, recessionary concerns, uncertainty in the financial and banking industry, and geopolitical tension continue to impact business globally and may impact our operations by causing disruption to our labor markets and supply chains. The extent to which increased financial market volatility, inflationary pressures, global pandemics, and related uncertainty will impact our business activities will depend on future developments that are highly uncertain and cannot be predicted at this time. Additionally, our business is impacted by the cyclic correction affecting the broader semiconductor industry, which has seen softened demand across our end markets.",
+          "source_section": "10-K Item 7"
+        },
+        {
+          "statement": "We depend in part on stable trade, political, geopolitical, economic, and regulatory environments in the countries where we do business. Increased financial market volatility, inflationary pressure, uncertainty regarding potential increases in tariffs or taxes and impacts from already implemented or announced tariffs, interest rate changes, recessionary concerns, uncertainty in the financial and banking industry, and geopolitical tension and conflicts continue to impact business globally and may impact our operations by causing disruption to our customers, our supply chains, and labor markets. The extent to which increased financial market volatility (including currency market volatility), inflationary pressures, tariffs and trade disruptions, and related uncertainty will impact our business activities will depend on future developments that are highly uncertain and cannot be predicted at this time. Additionally, our business has been impacted by the cyclic correction affecting the broader semiconductor industry, which has seen softened demand across our end markets.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "Our market risk exposure is primarily a result of fluctuations in foreign currency exchange rates and interest rates. We assess these risks on a regular basis and have established policies that are designed to protect against the adverse effects of these and other potential exposures. There have been no material changes to either the foreign currency exchange rate risk or interest rate risk previously disclosed in Part II, Item 7A, \"Quantitative and Qualitative Disclosures About Market Risk,\" of our 2024 10-K.",
+          "source_section": "10-Q Item 3"
+        },
+        {
+          "statement": "While our revenues and the majority of our expenses are denominated in U.S. dollars, our financial position and results of operations are subject to foreign currency exchange rate risk as a result of having various international subsidiary and branch operations. Historically, exposure to foreign currency exchange rate risk has not had a material impact on our results from operations. At times in the past, we have entered into foreign currency forward exchange contracts in relation to certain activities, which mitigated the foreign currency exchange rate exposure from an economic perspective, but these were not designated as \"effective\" hedges under U.S. GAAP.",
+          "source_section": "10-K Item 7A"
+        },
+        {
+          "statement": "Our interest income is sensitive to changes in the general level of interest rates. As of December 28, 2024, a hypothetical 100 basis point change in interest rates would have resulted in less than $1.5 million change in interest income. We may be exposed to interest rate risk via the terms of our 2022 Credit Agreement, which specifies an interest rate on revolving loans that consists of a variable-rate of interest and an applicable margin. While we have drawn from this credit facility in the past, we have no borrowings outstanding as of December 28, 2024. If we borrow from the credit facility in the future, we will again be exposed to interest rate fluctuations.",
+          "source_section": "10-K Item 7A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company's extensive international operations and diversified geographic footprint, including multiple Asian locations and foreign foundries, provide broad market access and operational flexibility, which can be advantageous in navigating global economic and political uncertainties.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Despite exposure to various economic and political risks, the company has not experienced material impacts from supply chain constraints, inflation, or labor market disruptions to date, indicating resilience in its operations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The company actively assesses and manages market risks such as foreign currency exchange and interest rate fluctuations through established policies, which helps mitigate potential adverse financial impacts.",
+          "intensity": "Low",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "Historical foreign currency exchange rate risk has not materially impacted the company's results, and prior use of forward contracts demonstrates proactive risk management.",
+          "intensity": "Low",
+          "source_fact_index": [
+            7
+          ]
+        },
+        {
+          "interpretation": "The company maintains no outstanding borrowings under its credit facility as of the latest reporting date, reducing immediate exposure to interest rate risk.",
+          "intensity": "Low",
+          "source_fact_index": [
+            8
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company's significant reliance on international operations and supply chains exposes it to geopolitical conflicts, trade restrictions, and export controls, which could disrupt supply chains and cause shortages of key materials, adversely affecting business operations and financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The broad range of economic, political, and regulatory risks, including inflation, trade barriers, political instability, and currency fluctuations, create uncertainty that could materially impact demand for products and financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Escalating tariffs, trade sanctions, and retaliatory measures between the U.S. and China, along with uncertain future trade policies, may increase costs, disrupt supply chains, and negatively affect global economic conditions, thereby impairing the company's operating results and financial condition.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Ongoing global financial market volatility, inflationary pressures, recessionary concerns, and geopolitical tensions may disrupt labor markets and supply chains, contributing to softened demand in the semiconductor industry and impacting the company's business.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            5
+          ]
+        },
+        {
+          "interpretation": "Exposure to foreign currency exchange rate fluctuations and interest rate changes, although currently managed, remain potential risks that could adversely affect financial results if market conditions change unfavorably.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "dimension": "Market, Macro & Regulatory Exposure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "In September 2024, our management commenced an internal restructuring plan (\"the Q3 2024 Plan\"), which includes a global workforce reduction. Under this plan, we have incurred restructuring costs of approximately $7.6 million through December 28, 2024. The Q3 2024 plan is expected to be largely complete in the first half of fiscal year 2025.",
+          "source_section": "10-K Item 8 Note 8 - Restructuring"
+        },
+        {
+          "statement": "In the third quarter of 2023, our management approved and executed an internal restructuring plan (the “Q3 2023 Plan”), which included a targeted workforce reduction intended to reorganize critical roles and focus skillsets in key growth markets. We incurred restructuring costs of approximately $5.3 million and $2.0 million, respectively, in fiscal 2024 and 2023. Under this plan, approximately $7.3 million of total costs have been incurred through December 28, 2024. All actions planned under the Q3 2023 plan have been implemented.",
+          "source_section": "10-K Item 8 Note 8 - Restructuring"
+        },
+        {
+          "statement": "In September 2022, our management approved and implemented additional contract cancellations and workforce reductions under the Q2 2019 Sales Plan, an internal restructuring plan that our management approved and executed in April 2019. The Q2 2019 Sales Plan focused on a restructuring of the global sales organization through cancellation of certain contracts and a workforce reduction. Under the Q2 2019 Sales Plan, we recorded a credit adjustment of approximately $0.6 million in fiscal 2024, incurred no restructuring costs in fiscal 2023, and incurred approximately $1.0 million of incremental restructuring costs in fiscal 2022. Under this plan, approximately $2.5 million of total expense has been incurred through December 28, 2024. All actions planned under the Q2 2019 Sales Plan have been implemented.",
+          "source_section": "10-K Item 8 Note 8 - Restructuring"
+        },
+        {
+          "statement": "We believe that our financial resources, including current cash and cash equivalents, cash flow from operating activities, and our credit facilities, will be sufficient to meet our liquidity and working capital needs through at least the next 12 months.",
+          "source_section": "10-K Item 7 Liquidity and Capital Resources"
+        },
+        {
+          "statement": "On September 1, 2022, we entered into our 2022 Credit Agreement, which provides for a five-year secured revolving loan facility with an aggregate principal amount of up to $350 million. The revolving loans under the 2022 Credit Agreement may be repaid and reborrowed at our discretion, with any remaining outstanding principal amount due and payable on the maturity date of the revolving loan on September 1, 2027.",
+          "source_section": "10-K Item 7 Liquidity and Capital Resources and Note 7 - Long-Term Debt"
+        },
+        {
+          "statement": "In the future, we may continue to consider acquisition opportunities to further extend our product or technology portfolios and further expand our product offerings. In connection with funding capital expenditures, acquisitions, securing additional wafer supply, increasing our working capital, or other operations, we may seek to obtain equity or additional debt financing.",
+          "source_section": "10-K Item 7 Liquidity and Capital Resources"
+        },
+        {
+          "statement": "Our operations and operating results may be adversely affected if we experience problems with our subcontractors that impact the delivery of product to our customers. These problems may include: schedule delays or defects in software or hardware development deliverables; prolonged inability to obtain wafers or packaging materials with competitive performance and cost attributes; inability to achieve adequate yields or timely delivery; inability to meet customer timelines or demands; disruption or defects in assembly, test, or shipping services; or delays in stabilizing manufacturing processes or ramping up volume for new products.",
+          "source_section": "10-K Item 1A Risk Factors"
+        },
+        {
+          "statement": "We depend on a concentrated group of distributors to sell our products to end customers, complete order fulfillment, maintain sufficient inventory of our products and provide services to our end customers. In fiscal 2024, revenue attributable to sales to distributors accounted for 89% of our total revenue, with two distributors accounting for approximately 64% of total revenue, and we may experience further distributor consolidation.",
+          "source_section": "10-K Item 1A Risk Factors"
+        },
+        {
+          "statement": "We compete against companies that have significantly greater resources than us and numerous other product solutions. The semiconductor industry is highly competitive and many of our direct and indirect competitors have substantially greater financial, technological, manufacturing, marketing, and sales resources than us.",
+          "source_section": "10-K Item 1A Risk Factors"
+        },
+        {
+          "statement": "Our presentation of Adjusted EBITDA should not be construed as an inference that our future results will be unaffected by these expenses or any unusual or non-recurring items, as in the future we may incur expenses similar to the adjustments in this presentation. Evaluation of our performance should consider Adjusted EBITDA alongside other financial performance measures, including our net income and other GAAP results.",
+          "source_section": "10-K Item 7 Management's Discussion and Analysis"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company is actively managing its cost structure and aligning resources through multiple restructuring plans, including the Q3 2024 Plan, which is expected to be largely complete in the first half of fiscal 2025, potentially leading to improved operational efficiency.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "interpretation": "The company has sufficient liquidity and access to capital through cash, operating cash flows, and a $350 million revolving credit facility, providing financial flexibility to support operations and pursue growth opportunities such as acquisitions.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "interpretation": "The company’s focus on expanding product and technology portfolios through acquisitions indicates a strategic priority to grow and diversify its offerings, which could enhance competitive positioning.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Despite competitive pressures, the company’s ability to maintain significant revenue through a concentrated distributor base suggests strong market relationships and distribution channels.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "Management’s disclosure that Adjusted EBITDA should be considered alongside GAAP measures reflects a transparent approach to financial reporting, aiding investors in understanding underlying business trends.",
+          "intensity": "Low",
+          "source_fact_index": [
+            9
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company’s multiple restructuring plans, including workforce reductions and contract cancellations, may indicate challenges in maintaining efficient operations or adapting to market conditions, which could disrupt business continuity.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "interpretation": "Dependence on a concentrated group of distributors for 89% of revenue, with two distributors accounting for 64%, poses a risk that any adverse changes in these relationships or distributor consolidation could materially impact sales and financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "The company faces intense competition from larger firms with greater resources, which could limit its ability to compete effectively and maintain market share.",
+          "intensity": "High",
+          "source_fact_index": [
+            9
+          ]
+        },
+        {
+          "interpretation": "Reliance on subcontractors for key services exposes the company to risks of supply chain disruptions, delays, or increased costs, which could negatively affect financial condition and results of operations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "While Adjusted EBITDA is presented as a useful measure, the company cautions that it excludes certain expenses and non-recurring items, which may mask underlying financial challenges or capital commitments not reflected in this metric.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        }
+      ],
+      "dimension": "Management Strategy & Execution"
+    }
+  ]
+}

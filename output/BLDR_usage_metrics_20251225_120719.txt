@@ -1,0 +1,32 @@
+================================================================================
+USAGE METRICS & COST SUMMARY - BLDR
+Generated: 2025-12-25T12:07:19.143872
+================================================================================
+
+API CALLS:
+  • LLM Calls (Chat):        10
+  • Embedding Calls:         9
+  • Total API Calls:         19
+
+TOKEN USAGE:
+  • Prompt Tokens:           112,793
+  • Completion Tokens:       17,554
+  • Embedding Tokens:        62,725
+  • Total LLM Tokens:        130,347
+  • Grand Total Tokens:      193,072
+
+EXECUTION TIME:
+  • Total Duration:          3m 2s (182.8s)
+  • Avg per LLM Call:        18.3s
+
+ESTIMATED COST (Azure OpenAI):
+  • LLM Input:               $0.0338
+  • LLM Output:              $0.0211
+  • Embeddings:              $0.0013
+  • TOTAL COST:              $0.0562
+
+EFFICIENCY METRICS:
+  • Embedding Cache Hits:    81 unique texts cached
+  • Tokens per LLM Call:     13035 avg
+  • Cost per LLM Call:       $0.0055 avg
+================================================================================

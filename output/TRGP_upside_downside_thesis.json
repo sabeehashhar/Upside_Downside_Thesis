@@ -1,0 +1,1193 @@
+{
+  "upside_thesis_summary": "• The company’s comprehensive and integrated midstream services, supported by strategically located, high-quality, and technologically advanced assets, provide a strong competitive advantage and position it well to capture demand across gathering, processing, transportation, fractionation, storage, and export markets.  \n• Increasing emphasis on fee-based contracts with long-term minimum volume commitments and a diverse contract mix enhances revenue stability and mitigates exposure to commodity price volatility, supported by an effective commodity hedging program.  \n• Strong operating cash flow generation, substantial adjusted EBITDA, and disciplined capital expenditure management enable the company to fund growth initiatives while maintaining positive adjusted free cash flow and operational liquidity.  \n• The company maintains substantial liquidity and financial flexibility through multiple capital sources, including a $3.5 billion revolving credit facility with potential increases, commercial paper program, and securitization facility, supporting near-term financial stability and growth funding.  \n• Active board oversight and dedicated senior management focus on cybersecurity risks, combined with the absence of material prior incidents, demonstrate a robust governance framework and operational resilience.",
+  "downside_thesis_summary": "• The company faces intense competition across all segments from major pipeline companies, master limited partnerships, producers, and other midstream providers, which could pressure pricing, market share, and contract terms, especially given some exposure to commodity price volatility through percent-of-proceeds contracts.  \n• Significant operational and supply chain risks exist, including hazards that may not be fully insured, aging pipeline infrastructure requiring costly maintenance, potential third-party facility unavailability, labor challenges, and volume variability that could materially impact income and cash flow.  \n• Large growth and maintenance capital expenditures relative to cash flow, combined with inflationary pressures and rising operating costs, may constrain free cash flow and margin sustainability if returns do not meet expectations or volumes decline.  \n• The company’s substantial outstanding debt and contractual obligations, including restrictive covenants and significant future interest payments, could limit operational flexibility and increase financial risk, with potential default risks if financial ratios are not maintained.  \n• Regulatory, market, and macro risks—including commodity price volatility, interest rate increases, climate change regulations, and changing tax laws—pose material threats to cash flows and profitability, while the evolving cybersecurity threat landscape maintains ongoing vulnerability despite governance efforts.",
+  "raw_dimensions": [
+    {
+      "facts": [
+        {
+          "statement": "We provide a comprehensive package of services to natural gas and crude oil producers. These services are essential to gather, process, treat, purchase and sell and transport wellhead gas to meet pipeline standards; extract, transport and fractionate NGLs for sale into petrochemical, industrial, commercial and export markets; and gather and/or purchase and sell crude oil. We believe that our ability to offer these integrated services provides us with an advantage in competing for new supplies because we can provide substantially all of the services that producers, marketers and others require for moving natural gas, NGLs and crude oil from wellhead to market on a cost-effective basis. Additionally, we believe that the significant investment we have made to construct and acquire assets in key strategic positions and the expertise we have in operating such assets make us well-positioned to remain a leading provider of integrated services in the midstream sector.",
+          "source_section": "10-K Page 16"
+        },
+        {
+          "statement": "Our transportation assets further enhance our integrated midstream service offerings across the NGL and natural gas value chain by linking supply to key markets. Grand Prix connects many of our gathering and processing positions, including the Permian Basin, with our Downstream facilities in Mont Belvieu, Texas, the major U.S. NGL market hub. Additionally, our integrated Mont Belvieu and Galena Park Marine Terminal assets allow us to provide the raw product, fractionation, storage, interconnected terminaling, refrigeration and ship loading capabilities to support exports by third-party customers.",
+          "source_section": "10-K Page 16"
+        },
+        {
+          "statement": "We believe our assets are not easily replicated, are located in many attractive and active areas of exploration and production activity and are near key markets and logistics centers. Our gathering and processing infrastructure is located in attractive oil and gas producing basins and is well positioned within each of those basins.",
+          "source_section": "10-K Page 16"
+        },
+        {
+          "statement": "Our gathering and processing systems and logistics and transportation assets consist of high-quality, well-maintained facilities, resulting in low-cost, efficient operations. Advanced technologies have been implemented for processing plants (primarily cryogenic units utilizing centralized control systems), measurement systems (essentially all electronic and electronically linked to a central database) and operations and maintenance management systems to manage work orders and implement preventative maintenance schedules (computerized maintenance management systems). These applications have allowed proactive management of our operations resulting in lower costs and minimal downtime. We have established a reputation in the midstream industry as a reliable and cost-effective supplier of services to our customers and have a track record of safe, efficient and reliable operation of our facilities.",
+          "source_section": "10-K Page 16"
+        },
+        {
+          "statement": "We face strong competition in acquiring new natural gas or crude oil supplies. Competition for natural gas and crude oil supplies is primarily based on the location and available capacity of gathering and processing facilities, pricing arrangements, reputation, efficiency, flexibility, treating capabilities (as applicable), reliability and access to end-use markets or liquid marketing hubs. Our gathering and processing operations competitors are other natural gas gatherers and processors, such as major interstate and intrastate pipeline companies, master limited partnerships and oil and gas producers.",
+          "source_section": "10-K Page 31"
+        },
+        {
+          "statement": "We also compete for NGL supplies for Grand Prix. Competition for NGL supplies is primarily based on the proximity of gathering and processing facilities in relation to one or more NGL pipelines, their connectivity to NGL pipeline takeaway options, access to end-use markets or liquid marketing hubs, pricing and contractual arrangements, available capacity, reputation, efficiency, flexibility, and reliability. Our NGL pipeline competitors are other midstream providers with NGL transportation capabilities, such as major interstate and intrastate pipeline companies, master limited partnerships and midstream natural gas and NGL companies.",
+          "source_section": "10-K Page 31"
+        },
+        {
+          "statement": "Additionally, we face competition for mixed NGLs supplies at our fractionation facilities. The fractionators in which we own an interest in the Mont Belvieu region compete for volumes of mixed NGLs with other fractionators also located in the Mont Belvieu region. In addition, certain producers fractionate mixed NGLs for their own account in captive facilities. The fractionators in the Mont Belvieu region also compete on a more limited basis with fractionators in Conway, Kansas and a number of decentralized, smaller fractionation facilities in Texas, Louisiana and New Mexico. Our other fractionation facilities compete for mixed NGLs with the fractionators at Mont Belvieu as well as other fractionation facilities located in Louisiana. Our customers who are significant producers of mixed NGLs and NGL products or consumers of NGL products may develop their own fractionation facilities in lieu of using our services.",
+          "source_section": "10-K Page 31"
+        },
+        {
+          "statement": "We also face strong competition for NGL supply, logistics and export services in our Logistics and Transportation segment. Our competitors include major oil and gas producers who market NGL products for their own account and for others. Additionally, we compete with several other NGL marketing companies, trading organizations and petrochemical operators.",
+          "source_section": "10-K Page 31"
+        },
+        {
+          "statement": "Our operations are reported in two segments: (i) Gathering and Processing, and (ii) Logistics and Transportation (also referred to as the Downstream Business).",
+          "source_section": "10-K Page 16"
+        },
+        {
+          "statement": "Our Gathering and Processing segment consists of gathering, compressing, treating, processing, transporting, and purchasing and selling natural gas and gathering, storing, terminaling and purchasing and selling crude oil. The gathering or purchasing of natural gas consists of aggregating natural gas produced from various wells through varying diameter gathering lines to processing plants. Natural gas has a widely varying composition depending on the field, the formation and the reservoir from which it is produced. The processing of natural gas consists of the extraction of embedded NGLs and the removal of water vapor and other contaminants to form (i) a stream of marketable natural gas, commonly referred to as residue gas, and (ii) a stream of mixed NGLs. Once processed, the residue gas is transported to markets through residue gas pipelines. End-users of residue gas include large commercial and industrial customers, as well as natural gas and electric utilities serving individual consumers. We sell our residue gas either directly to such end-users or to marketers into intrastate or interstate pipelines, which are typically located in close proximity or with ready access to our facilities.",
+          "source_section": "10-K Page 18"
+        },
+        {
+          "statement": "Our Logistics and Transportation segment includes the activities and assets necessary to transport and convert mixed NGLs into NGL products and also includes other assets and value-added services described below. The Logistics and Transportation segment also includes Grand Prix and associated assets, which are generally connected to and supplied in part by our Gathering and Processing segment. Our Downstream facilities are located predominantly in Mont Belvieu and Galena Park, Texas, and in Lake Charles, Louisiana. Our fractionation, pipeline transportation, storage and terminaling businesses include 2,600 miles of company-owned pipelines to transport mixed NGLs and specification products.",
+          "source_section": "10-K Page 24"
+        },
+        {
+          "statement": "Our primary pipeline asset is Grand Prix, which connects our gathering and processing positions throughout the Permian Basin, North Texas, and Southern Oklahoma (as well as third-party positions) to our fractionation and storage complex in the NGL market hub at Mont Belvieu, Texas. Grand Prix has the capacity to transport up to 1,000 MBbl/d of NGLs into Mont Belvieu.",
+          "source_section": "10-K Page 24"
+        },
+        {
+          "statement": "Although competition for NGL fractionation services is primarily based on the fractionation fee, the ability of an NGL fractionator to obtain mixed NGLs and distribute NGL products is also an important competitive factor. This ability is a function of the existence of storage infrastructure and supply and market connectivity necessary to conduct such operations. We believe that the location, scope and interconnectivity of these assets are not easily replicated, and we have additional capability to expand their capacity.",
+          "source_section": "10-K Page 24"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s comprehensive and integrated midstream services, covering gathering, processing, transportation, fractionation, storage, and export capabilities, provide a competitive advantage by meeting nearly all producer and marketer needs cost-effectively, supporting a strong market position.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Strategically located assets in attractive and active oil and gas basins near key markets and logistics centers, combined with unique transportation assets like Grand Prix, enhance the company’s ability to connect supply to major market hubs, supporting growth and market access.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            2,
+            11
+          ]
+        },
+        {
+          "interpretation": "The company’s high-quality, well-maintained, and technologically advanced assets enable efficient, low-cost operations with minimal downtime, reinforcing its reputation as a reliable and cost-effective midstream service provider.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The company’s ownership and control of key fractionation and pipeline infrastructure, which are not easily replicated, along with the ability to expand capacity, position it well to capture ongoing demand for NGL processing and transportation services.",
+          "intensity": "High",
+          "source_fact_index": [
+            12
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company faces strong competition across all segments—gathering, processing, NGL supply, fractionation, logistics, and export services—from major pipeline companies, master limited partnerships, producers, and other midstream providers, which could pressure pricing and market share.",
+          "intensity": "High",
+          "source_fact_index": [
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "Competition for mixed NGL supplies at fractionation facilities includes not only other fractionators but also producers who may develop their own captive facilities, potentially reducing volumes available to the company’s fractionators.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "The company’s operations and cash flows are sensitive to fluctuations in commodity prices and production activity, which are influenced by competitive dynamics and regional drilling economics, potentially impacting volumes and utilization of its assets.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            9
+          ]
+        },
+        {
+          "interpretation": "The company’s reliance on fee-based contracts with some exposure to commodity price volatility through percent-of-proceeds contracts introduces risk to profitability, especially under competitive pressures that may affect contract terms and renewal.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0,
+            9
+          ]
+        }
+      ],
+      "dimension": "Business Model & Competitive Position"
+    },
+    {
+      "dimension": "Revenue Growth Drivers & Demand Outlook",
+      "facts": [],
+      "upside_thesis": [
+        {
+          "interpretation": "Insufficient disclosure for this dimension.",
+          "intensity": "N/A"
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Insufficient disclosure for this dimension.",
+          "intensity": "N/A"
+        }
+      ]
+    },
+    {
+      "facts": [
+        {
+          "statement": "Our profitability is also impacted by fee-based contracts. Our growing capital expenditures for pipelines and gathering and processing assets underpinned by fee-based margin, expansion of our Downstream facilities, continued focus on adding fee-based margin to our existing and future gathering and processing contracts, as well as third-party acquisitions of businesses and assets, will continue to increase the number of our contracts that are fee-based. Fixed fees for services such as gathering and processing, transportation, fractionation, storage, terminaling and crude oil gathering are not directly tied to changes in market prices for commodities. Nevertheless, a change in market dynamics such as available commodity throughput does affect profitability.",
+          "source_section": "10-K Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+          "statement": "Our contract portfolio, the prevailing pricing environment for crude oil, natural gas and NGLs, the impact of our commodity hedging program and its ability to mitigate exposure to commodity price movements, and the volumes of crude oil, natural gas and NGL throughput on our systems are important factors in determining our profitability. Our profitability is also affected by the NGL content in gathered wellhead natural gas, supply and demand for our products and services, utilization of our assets and changes in our customer mix.",
+          "source_section": "10-K Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+          "statement": "Across our operations and particularly in our Downstream Business, we benefit from long-term fee-based arrangements for our services. Our Gathering and Processing segment contract mix also has components of fee-based margin, such as fee floors and other fee-based services which mitigate against low commodity prices. The significant level of margin we derive from fee-based arrangements combined with our hedging arrangements helps to mitigate our exposure to commodity price movements.",
+          "source_section": "10-K Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+          "statement": "Contract terms in the Gathering and Processing segment are based upon a variety of factors, including natural gas and crude quality, geographic location, competitive dynamics and the pricing environment at the time the contract is executed, and customer requirements. Our gathering and processing contract mix and, accordingly, our exposure to crude, natural gas and NGL prices may change as a result of producer preferences, competition and changes in production as wells decline at different rates or are added, our expansion into regions where different types of contracts are more common and other market factors.",
+          "source_section": "10-K Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+          "statement": "The contract terms and contract mix of our Downstream Business can also have a significant impact on our results of operations. Transportation and fractionation services are supported by fee-based contracts whose rates and terms are driven by NGL supply and transportation and fractionation capacity. Export services are supported by fee-based contracts whose rates and terms are driven by global LPG supply and demand fundamentals. The Logistics and Transportation segment includes predominantly fee-based contracts.",
+          "source_section": "10-K Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+          "statement": "We have hedged the commodity price risk associated with a portion of our expected natural gas, NGL and condensate equity volumes, future commodity purchases and sales, and transportation basis risk by entering into financially settled derivative transactions. These transactions include swaps, futures, and purchased puts (or floors) and calls (or caps) to hedge additional expected equity commodity volumes without creating volumetric risk. We intend to continue managing our exposure to commodity prices in the future by entering into derivative transactions. We actively manage the Downstream Business product inventory and other working capital levels to reduce exposure to changing prices.",
+          "source_section": "10-K Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+          "statement": "The following table presents the estimated minimum revenue related to unsatisfied performance obligations at the end of the reporting period and is comprised of fixed consideration primarily attributable to contracts with minimum volume commitments, for which a guaranteed amount of revenue can be calculated. These contracts are comprised primarily of gathering and processing, fractionation, export, terminaling and storage agreements, with remaining contract terms ranging from 1 to 15 years.",
+          "source_section": "10-K Note 18 — Revenue"
+        },
+        {
+          "statement": "Deferred revenue as of September 30, 2025 and December 31, 2024 was $124.2 million and $119.9 million, respectively.",
+          "source_section": "10-Q Note 13 — Revenue"
+        },
+        {
+          "statement": "Our Gathering and Processing segment contract mix has increasing components of fee-based margin driven by: (i) fees added to percent-of-proceeds contracts for natural gas treating and compression, (ii) new/amended contracts with a combination of percent-of-proceeds and fee-based components, including fee floors, and (iii) fee-based gas gathering and processing and crude oil gathering contracts. Contracts for the Coastal portion of our Gathering and Processing segment are primarily hybrid contracts (percent-of-liquids with a fee floor) or percent-of-liquids contracts (whereby we receive an agreed upon percentage of the actual proceeds of the NGLs).",
+          "source_section": "10-K Item 1 Business Overview"
+        },
+        {
+          "statement": "Contracts for our assets in the Downstream Business are predominantly fee-based (based on volumes and contracted rates). Our contract mix, along with our commodity hedging program, serves to mitigate the impact of commodity price movements on cash flow.",
+          "source_section": "10-K Item 1 Business Overview"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s increasing focus on fee-based contracts, which are not directly tied to commodity price fluctuations, provides a stable and predictable revenue stream, enhancing profitability and reducing volatility.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            2,
+            9
+          ]
+        },
+        {
+          "interpretation": "Long-term contracts with minimum volume commitments and terms extending up to 15 years indicate durable revenue streams and contractual stability, supporting sustained cash flows.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The company’s commodity hedging program and active management of inventory and working capital effectively mitigate exposure to commodity price volatility, supporting consistent cash flow generation.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            5,
+            9
+          ]
+        },
+        {
+          "interpretation": "A diverse contract mix across Gathering and Processing and Downstream segments, including fee floors and hybrid contracts, provides pricing power and reduces risk from commodity price declines.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            4,
+            8,
+            9
+          ]
+        },
+        {
+          "interpretation": "Changes in customer mix and supply-demand dynamics are monitored and managed, which can positively influence profitability through optimized asset utilization and contract terms.",
+          "intensity": "Low",
+          "source_fact_index": [
+            1
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Despite fee-based contracts, profitability remains sensitive to changes in commodity throughput and market dynamics, which can negatively impact revenues if volumes decline.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Contract terms and mix are subject to change due to producer preferences, competition, and regional expansion, which could increase exposure to commodity price fluctuations and reduce pricing power.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "A portion of contracts still includes percent-of-proceeds components, exposing the company to direct commodity price risk despite hedging, which may lead to cash flow volatility.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            9
+          ]
+        },
+        {
+          "interpretation": "Long-term contracts with minimum volume commitments may not fully protect against market or operational risks, and deferred revenue recognition indicates some revenue is not yet realized, potentially affecting near-term cash flows.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "Changes in customer mix and supply-demand conditions could adversely affect asset utilization and profitability if not managed effectively.",
+          "intensity": "Low",
+          "source_fact_index": [
+            1
+          ]
+        }
+      ],
+      "dimension": "Pricing Power & Revenue Quality"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Our profitability is a function of the difference between: (i) the revenues we receive from our operations, including fee-based revenues from services and revenues from the natural gas, NGLs, crude oil and condensate we sell, and (ii) the costs associated with conducting our operations, including the costs of wellhead natural gas, crude oil and mixed NGLs that we purchase as well as operating, general and administrative costs and the impact of our commodity hedging activities. Because commodity price movements tend to impact both revenues and costs, increases or decreases in our revenues alone are not necessarily indicative of increases or decreases in our profitability. Our contract portfolio, the prevailing pricing environment for crude oil, natural gas and NGLs, the impact of our commodity hedging program and its ability to mitigate exposure to commodity price movements, and the volumes of crude oil, natural gas and NGL throughput on our systems are important factors in determining our profitability. Our profitability is also affected by the NGL content in gathered wellhead natural gas, supply and demand for our products and services, utilization of our assets and changes in our customer mix.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Our profitability is also impacted by fee-based contracts. Our growing capital expenditures for pipelines and gathering and processing assets underpinned by fee-based margin, expansion of our Downstream facilities, continued focus on adding fee-based margin to our existing and future gathering and processing contracts, as well as third-party acquisitions of businesses and assets, will continue to increase the number of our contracts that are fee-based. Fixed fees for services such as gathering and processing, transportation, fractionation, storage, terminaling and crude oil gathering are not directly tied to changes in market prices for commodities. Nevertheless, a change in market dynamics such as available commodity throughput does affect profitability.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "We seek to increase adjusted operating margin by limiting volume losses, reducing fuel consumption and by increasing efficiency. With our gathering systems’ extensive use of remote monitoring capabilities, we monitor the volumes received at the wellhead or central delivery points along our gathering systems, the volume of natural gas received at our processing plant inlets and the volumes of NGLs and residue natural gas recovered by our processing plants. We also monitor the volumes of NGLs received, stored, fractionated and delivered across our logistics assets. This information is tracked through our processing plants and Downstream Business facilities to determine customer settlements for sales and volume related fees for service and helps us increase efficiency and reduce fuel consumption.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Operating expenses are costs associated with the operation of specific assets. Labor, contract services, repair and maintenance and ad valorem taxes comprise the most significant portion of our operating expenses. These expenses remain relatively stable and independent of the volumes through our systems, but may increase with system expansions and inflation, and will fluctuate depending on the scope of the activities performed during a specific period.",
+          "source_section": "10-Q Page 47"
+        },
+        {
+          "statement": "Our capital expenditures are classified as growth capital expenditures and maintenance capital expenditures. Growth capital expenditures improve the service capability of our existing assets, extend asset useful lives, increase capacities from existing levels, add capabilities, and reduce costs or enhance revenues. Maintenance capital expenditures are those expenditures that are necessary to maintain the service capability of our existing assets, including the replacement of system components and equipment, which are worn, obsolete or completing their useful life and expenditures to remain in compliance with environmental laws and regulations.",
+          "source_section": "10-Q Page 47"
+        },
+        {
+          "statement": "Capital spending associated with growth and maintenance projects is closely monitored. Return on investment is analyzed before a capital project is approved, spend is closely monitored throughout the development of the project, and the subsequent operational performance is compared to the assumptions used in the economic analysis performed for the capital investment approval.",
+          "source_section": "10-K Page 103"
+        },
+        {
+          "statement": "We define adjusted operating margin for our segments as revenues less product purchases and fuel. It is impacted by volumes and commodity prices as well as by our contract mix and commodity hedging program.",
+          "source_section": "10-K Page 103"
+        },
+        {
+          "statement": "Gathering and Processing adjusted operating margin consists primarily of: service fees related to natural gas and crude oil gathering, treating and processing; and revenues from the sale of natural gas, condensate, crude oil and NGLs less producer settlements, fuel and transport and our equity volume hedge settlements.",
+          "source_section": "10-K Page 103"
+        },
+        {
+          "statement": "Logistics and Transportation adjusted operating margin consists primarily of: service fees (including the pass-through of energy costs included in certain fee rates); system product gains and losses; and NGL and natural gas sales, less NGL and natural gas purchases, fuel, third-party transportation costs and the net inventory change.",
+          "source_section": "10-K Page 103"
+        },
+        {
+          "statement": "The adjusted operating margin impacts of mark-to-market hedge unrealized changes in fair value are reported in Other.",
+          "source_section": "10-K Page 105"
+        },
+        {
+          "statement": "The increase in adjusted operating margin was predominantly due to higher natural gas inlet volumes in the Permian, partially offset by lower volumes in other areas. The increase in natural gas inlet volumes in the Permian was attributable to the addition of the Greenwood II plant during the fourth quarter of 2024, the Bull Moose plant during the first quarter of 2025, the Pembrook II plant during the third quarter of 2025, and continued strong producer activity.",
+          "source_section": "10-Q Page 56"
+        },
+        {
+          "statement": "The increase in operating expenses was primarily due to higher volumes and multiple plant additions in the Permian.",
+          "source_section": "10-Q Page 56"
+        },
+        {
+          "statement": "The increase in adjusted operating margin was due to higher pipeline transportation and fractionation margin, partially offset by lower marketing margin. Pipeline transportation and fractionation volumes benefited from higher supply volumes primarily from our Permian Gathering and Processing systems, a full quarter of operation of Daytona NGL Pipeline which commenced operations during the third quarter of 2024, and the addition of Train 10 during the fourth quarter of 2024. Marketing margin decreased due to fewer optimization opportunities.",
+          "source_section": "10-Q Page 56"
+        },
+        {
+          "statement": "Operating expenses were relatively flat despite system expansions which were offset by lower repairs and maintenance.",
+          "source_section": "10-Q Page 56"
+        },
+        {
+          "statement": "Inflationary issues and associated changes in monetary policy have resulted in and may result in additional increases to the cost of our goods, services and personnel, which in turn cause our capital expenditures and operating costs to rise.",
+          "source_section": "10-K Item 1A Risk Factors"
+        },
+        {
+          "statement": "Our contract portfolio, the prevailing pricing environment for crude oil, natural gas and NGLs, the impact of our commodity hedging program and its ability to mitigate exposure to commodity price movements, and the volumes of crude oil, natural gas and NGL throughput on our systems are important factors in determining our profitability.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Across our operations and particularly in our Downstream Business, we benefit from long-term fee-based arrangements for our services. Our Gathering and Processing segment contract mix also has components of fee-based margin, such as fee floors and other fee-based services which mitigate against low commodity prices. The significant level of margin we derive from fee-based arrangements combined with our hedging arrangements helps to mitigate our exposure to commodity price movements.",
+          "source_section": "10-K Item 7"
+        },
+        {
+          "statement": "Volatility in commodity prices can have a significant impact on our profitability, especially those percent-of-proceeds contracts that create direct exposure to changes in energy prices by paying us for gathering and processing services with a portion of proceeds from the commodities handled (“equity volumes”).",
+          "source_section": "10-K Item 7"
+        },
+        {
+          "statement": "Our operating income generally improves in an environment of higher natural gas, NGL and condensate prices. Our processing profitability is largely dependent upon pricing and the supply of and market demand for natural gas, NGLs and condensate, both of which are beyond our control.",
+          "source_section": "10-K Item 7"
+        },
+        {
+          "statement": "The significant level of margin we derive from fee-based arrangements combined with our hedging arrangements helps to mitigate the impact of commodity price movements on our cash flows.",
+          "source_section": "10-K Item 7"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s profitability benefits from a diversified revenue base including fee-based contracts that provide stable margins less sensitive to commodity price fluctuations, supporting margin sustainability.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            17,
+            20
+          ]
+        },
+        {
+          "interpretation": "Management actively monitors operational efficiency through volume tracking and fuel consumption reduction initiatives, which can enhance adjusted operating margins and control operating expenses.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Capital expenditures are carefully evaluated with return on investment analysis and ongoing monitoring, which supports disciplined spending aimed at enhancing service capabilities and potentially improving margins.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4,
+            5
+          ]
+        },
+        {
+          "interpretation": "Adjusted operating margin is a key internal and external performance measure, reflecting management’s focus on operating performance and return on capital, which can provide investors with transparent insight into margin trends.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6,
+            9
+          ]
+        },
+        {
+          "interpretation": "Recent increases in adjusted operating margin driven by higher natural gas inlet volumes and pipeline transportation and fractionation volumes, supported by new plant additions and strong producer activity, indicate operational growth contributing positively to margins.",
+          "intensity": "High",
+          "source_fact_index": [
+            10,
+            12
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Despite fee-based contracts, the company remains exposed to commodity price volatility, especially through percent-of-proceeds contracts, which can materially impact profitability and margin sustainability.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            17,
+            18
+          ]
+        },
+        {
+          "interpretation": "Operating expenses, while relatively stable, may increase due to system expansions and inflationary pressures, potentially compressing margins if not offset by revenue growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            14
+          ]
+        },
+        {
+          "interpretation": "The company’s hedging program mitigates but does not eliminate commodity price risk, and decreases in hedged volumes over time may increase cash flow variability and margin risk.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            17,
+            19
+          ]
+        },
+        {
+          "interpretation": "Capital expenditures, although monitored, represent ongoing costs that may rise with inflation and expansions, which could pressure free cash flow and margin if returns do not meet expectations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4,
+            5,
+            14
+          ]
+        },
+        {
+          "interpretation": "Margin improvements driven by volume increases in specific regions may be partially offset by declines in other areas, indicating potential volatility and uneven margin sustainability across segments.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            10,
+            11
+          ]
+        }
+      ],
+      "dimension": "Margins & Cost Structure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Adjusted EBITDA is used as a supplemental financial measure by us and by external users of our financial statements such as investors, commercial banks and others to measure the ability of our assets to generate cash sufficient to pay interest costs, support our indebtedness and pay dividends to our investors.",
+          "source_section": "10-K Item 7 - Page 105"
+        },
+        {
+          "statement": "We define adjusted cash flow from operations as adjusted EBITDA less cash interest expense on debt obligations and cash taxes. We define adjusted free cash flow as adjusted cash flow from operations less maintenance capital expenditures (net of any reimbursements of project costs) and growth capital expenditures, net of contributions from noncontrolling interest and including contributions to investments in unconsolidated affiliates.",
+          "source_section": "10-K Item 7 - Page 105"
+        },
+        {
+          "statement": "Adjusted cash flow from operations and adjusted free cash flow are performance measures used by us and by external users of our financial statements, such as investors, commercial banks and research analysts, to assess our ability to generate cash earnings (after servicing our debt and funding capital expenditures) to be used for corporate purposes, such as payment of dividends, retirement of debt or redemption of other financing arrangements.",
+          "source_section": "10-K Item 7 - Page 105"
+        },
+        {
+          "statement": "Our working capital as of September 30, 2025 increased $208.7 million compared to December 31, 2024. The increase was primarily due to lower product purchases and fuel payables resulting from lower NGL and natural gas prices, a higher NGL inventory balance as well as lower interest payable and accrued liabilities, partially offset by a higher outstanding balance on the Securitization Facility and lower receivables resulting from lower NGL and natural gas prices.",
+          "source_section": "10-Q - Page 60"
+        },
+        {
+          "statement": "Our capital expenditures are classified as growth capital expenditures and maintenance capital expenditures. Growth capital expenditures improve the service capability of our existing assets, extend asset useful lives, increase capacities from existing levels, add capabilities, and reduce costs or enhance revenues. Maintenance capital expenditures are those expenditures that are necessary to maintain the service capability of our existing assets, including the replacement of system components and equipment, which are worn, obsolete or completing their useful life and expenditures to remain in compliance with environmental laws and regulations.",
+          "source_section": "10-Q - Page 47"
+        },
+        {
+          "statement": "Capital spend associated with growth and maintenance projects is closely monitored. Return on investment is analyzed before a capital project is approved, spend is closely monitored throughout the development of the project, and the subsequent operational performance is compared to the assumptions used in the economic analysis performed for the capital investment approval.",
+          "source_section": "10-Q - Page 47"
+        },
+        {
+          "statement": "The following table reconciles the non-GAAP financial measures used by management to the most directly comparable GAAP measures for the periods indicated: Year Ended December 31, 2024: Adjusted EBITDA $4,142.3 million; Interest expense on debt obligations $(752.4) million; Cash taxes $(17.5) million; Adjusted Cash Flow from Operations $3,372.4 million; Maintenance capital expenditures, net $(231.9) million; Growth capital expenditures, net $(3,000.4) million; Adjusted Free Cash Flow $140.1 million.",
+          "source_section": "10-K - Page 106"
+        },
+        {
+          "statement": "For the nine months ended September 30, 2025: Adjusted EBITDA $3,616.3 million; Interest expense on debt obligations $(624.0) million; Cash tax (expense) benefit $(5.1) million; Adjusted Cash Flow from Operations $2,987.2 million; Maintenance capital expenditures, net $(163.2) million; Growth capital expenditures, net $(2,332.6) million; Adjusted Free Cash Flow $491.4 million.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "On a consolidated basis, at the end of any given month, accounts receivable and payable tied to commodity sales and purchases are relatively balanced, with receivables from customers being offset by plant settlements payable to producers.",
+          "source_section": "10-Q - Page 60"
+        },
+        {
+          "statement": "The factors that typically cause overall variability in our reported total working capital are: (i) our cash position; (ii) liquids inventory levels, which we closely manage, as well as liquids valuations; (iii) changes in payables and accruals related to major growth capital projects; (iv) changes in the fair value of the current portion of derivative contracts; (v) monthly swings in borrowings under the Securitization Facility; and (vi) major structural changes in our asset base or business operations, such as certain organic growth capital projects and acquisitions or divestitures.",
+          "source_section": "10-Q - Page 60"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company generates substantial adjusted EBITDA and adjusted cash flow from operations, indicating strong operating cash flow generation that supports interest payments, debt servicing, and dividend payments, which is attractive to investors.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            2,
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The increase in working capital primarily due to higher NGL inventory balance and lower payables suggests effective management of inventory and payables, which could enhance operational liquidity.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            8,
+            9
+          ]
+        },
+        {
+          "interpretation": "Capital expenditures are carefully monitored with return on investment analyzed before approval and operational performance compared to economic assumptions, indicating disciplined capital intensity management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4,
+            5
+          ]
+        },
+        {
+          "interpretation": "The company maintains a balance between growth and maintenance capital expenditures, with adjusted free cash flow remaining positive, demonstrating the ability to fund growth while maintaining asset service capability.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Despite strong adjusted EBITDA, the large amounts of growth capital expenditures relative to adjusted cash flow from operations result in relatively low adjusted free cash flow, which may constrain cash available for other corporate purposes.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The increase in working capital driven by higher inventory and changes in payables and accruals related to major growth capital projects could tie up cash and reduce liquidity flexibility.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            9
+          ]
+        },
+        {
+          "interpretation": "Working capital variability influenced by factors such as swings in borrowings under the Securitization Facility and structural changes in assets or operations introduces potential volatility in liquidity management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        },
+        {
+          "interpretation": "The need for continuous capital expenditures, both growth and maintenance, indicates ongoing capital intensity which may pressure cash flows and require sustained access to financing.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4,
+            5
+          ]
+        }
+      ],
+      "dimension": "Cash Flow Generation"
+    },
+    {
+      "facts": [
+        {
+          "statement": "The increase in total growth capital expenditures was primarily due to system expansions in the Permian region in response to forecasted production growth and higher activity levels, and expansions in our downstream business. The increase in total maintenance capital expenditures was primarily due to our growing infrastructure footprint. Future capital expenditures may vary based on investment opportunities and maintenance capital requirements.",
+          "source_section": "10-K Item 7 - Capital Expenditures (Page 119)"
+        },
+        {
+          "statement": "We intend to continue to pay a quarterly dividend to our common stockholders; however, any payment of future dividends is dependent upon our financial condition, results of operations, cash flows, the level of our capital expenditures, future business prospects and any other matters that our board of directors, in consultation with management, deems relevant. Covenants contained in our debt agreements could limit the payment of dividends.",
+          "source_section": "10-K Item 1 - Our Dividend Policy (Page 96)"
+        },
+        {
+          "statement": "In May 2023, our Board of Directors approved the 2023 Share Repurchase Program for the repurchase of up to $1.0 billion of our outstanding common stock. In July 2024, our Board of Directors approved the 2024 Share Repurchase Program for the repurchase of up to $1.0 billion of our outstanding common stock. We are not obligated to repurchase any specific dollar amount or number of shares under the Share Repurchase Programs and may discontinue these programs at any time.",
+          "source_section": "10-K Item 1 - Repurchase of Equity by Targa Resources Corp, or Affiliated Purchasers (Page 96)"
+        },
+        {
+          "statement": "For business acquisitions, we recognize the identifiable assets acquired, the liabilities assumed and any noncontrolling interest in the acquiree at their estimated fair values on the acquisition date. Goodwill results when the cost of a business acquisition exceeds the fair value of the net identifiable assets of the acquired business. Determining fair value requires management’s judgment and involves the use of significant estimates and assumptions with respect to projections of future production volumes, pricing and cash flows, benchmark analysis of comparable public companies, discount rates, expectations regarding customer contracts and relationships, and other management estimates.",
+          "source_section": "10-K Item 7 - Business Acquisitions (Page 121)"
+        },
+        {
+          "statement": "If we consummate any future growth project or acquisition, our capitalization and results of operations may change significantly and you may not have the opportunity to evaluate the economic, financial and other relevant information that we will consider in evaluating future growth projects or acquisitions.",
+          "source_section": "10-K Item 1A - Risks Related to Growth Projects and Acquisitions (Page 65)"
+        },
+        {
+          "statement": "We believe we have sufficient liquidity to fund our operations and meet our short-term and long-term cash obligations.",
+          "source_section": "10-K Item 7 - Contractual Obligations (Page 119)"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company is actively investing in growth capital expenditures, particularly system expansions in key regions and downstream business, which could support future revenue growth and operational expansion.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Management’s intention to continue paying quarterly dividends, subject to financial condition and board discretion, indicates a commitment to returning capital to shareholders while maintaining flexibility based on business performance.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The Board’s approval of substantial share repurchase programs demonstrates a willingness to return capital to shareholders and potentially enhance shareholder value through buybacks, with flexibility to adjust the program as needed.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The company applies rigorous valuation and management judgment in business acquisitions, suggesting disciplined capital allocation in evaluating and integrating acquisitions to create goodwill and long-term value.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The company maintains sufficient liquidity to meet its obligations, supporting its ability to fund capital projects, acquisitions, dividends, and other capital allocation priorities without immediate financial constraints.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The increase in growth capital expenditures and maintenance costs could strain cash flows and increase financial risk if the expected production growth or activity levels do not materialize as planned.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Dividend payments are not guaranteed and are contingent on multiple factors including financial condition and debt covenants, which could lead to reductions or suspensions if business conditions deteriorate.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Share repurchase programs are discretionary and may be discontinued at any time, which could result in less capital returned to shareholders than anticipated if the company faces financial or strategic challenges.",
+          "intensity": "Low",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Business acquisitions involve significant management judgment and estimates, which could lead to overpayment or goodwill impairment if assumptions prove inaccurate, potentially impacting financial results adversely.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Future growth projects or acquisitions may significantly change the company’s capitalization and results of operations, and investors may not have the opportunity to evaluate these changes beforehand, introducing uncertainty and risk.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        }
+      ],
+      "dimension": "Capital Allocation & Investment Discipline"
+    },
+    {
+      "facts": [
+        {
+          "statement": "As of December 31, 2024, inclusive of our consolidated joint venture accounts, we had $157.3 million of Cash and cash equivalents on our Consolidated Balance Sheets. On a consolidated basis, our main sources of liquidity and capital resources are internally generated cash flows from operations, borrowings under the New TRGP Revolver, Commercial Paper Program, Securitization Facility, and access to debt and equity capital markets. We supplement these sources of liquidity with joint venture arrangements and proceeds from asset sales.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources (Page 113)"
+        },
+        {
+          "statement": "We believe our sources of liquidity and capital resources are sufficient to meet our anticipated cash requirements for at least the next twelve months to satisfy our obligations.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources (Page 113)"
+        },
+        {
+          "statement": "Our short-term liquidity on a consolidated basis as of February 18, 2025 was: Cash on hand $254.5 million; Total availability under the Securitization Facility $600.0 million; Total availability under the New TRGP Revolver and Commercial Paper Program $3,500.0 million; Outstanding borrowings under the Securitization Facility $(600.0) million; Outstanding borrowings under the New TRGP Revolver and Commercial Paper Program $(881.0) million; Outstanding letters of credit under the New TRGP Revolver $(9.4) million; Total liquidity $2,864.1 million.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources (Page 113)"
+        },
+        {
+          "statement": "Other potential capital resources associated with our existing arrangements include our right to request an additional $500.0 million in commitment increases under the New TRGP Revolver, subject to the terms therein. The New TRGP Revolver matures on February 18, 2030. The maturity date is extendable, subject to the lenders’ consent, by one year up to two times.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources (Page 113)"
+        },
+        {
+          "statement": "In August 2024, the Partnership amended the Securitization Facility to, among other things, extend the termination date of the Securitization Facility to August 29, 2025.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources (Page 113)"
+        },
+        {
+          "statement": "As of December 31, 2024, we had $17.6 million in letters of credit outstanding under the Existing TRGP Revolver.",
+          "source_section": "10-K Item 7 - Liquidity and Capital Resources (Page 113)"
+        },
+        {
+          "statement": "As of September 30, 2025, inclusive of our consolidated joint venture accounts, we had $124.1 million of Cash and cash equivalents on our Consolidated Balance Sheets. On a consolidated basis, our main sources of liquidity and capital resources are internally generated cash flows from operations, borrowings under the TRGP Revolver, the Commercial Paper Program, the Securitization Facility, and access to debt and equity capital markets. We supplement these sources of liquidity with joint venture arrangements and proceeds from asset sales.",
+          "source_section": "10-Q Item 2 - Liquidity and Capital Resources (Page 58)"
+        },
+        {
+          "statement": "We believe our sources of liquidity and capital resources are sufficient to meet our anticipated cash requirements for at least the next twelve months to satisfy our obligations, including our day-to-day operations, growth capital expenditures, dividend payments, maintenance capital expenditures, debt service and other anticipated obligations.",
+          "source_section": "10-Q Item 2 - Liquidity and Capital Resources (Page 58)"
+        },
+        {
+          "statement": "Our short-term liquidity on a consolidated basis as of September 30, 2025, was: Cash on hand $124.1 million; Total availability under the Securitization Facility $600.0 million; Total availability under the TRGP Revolver and Commercial Paper Program $3,500.0 million; Outstanding borrowings under the Securitization Facility $(600.0) million; Outstanding borrowings under the TRGP Revolver and Commercial Paper Program $(1,295.0) million; Outstanding letters of credit under the TRGP Revolver $(26.7) million; Total liquidity $2,302.4 million.",
+          "source_section": "10-Q Item 2 - Liquidity and Capital Resources (Page 58)"
+        },
+        {
+          "statement": "Other potential capital resources associated with our existing arrangements include our right to request an additional $500.0 million in commitment increases under the TRGP Revolver, subject to the terms therein. The TRGP Revolver matures on February 18, 2030. The maturity date is extendable, subject to the lenders’ consent, by one year up to two times.",
+          "source_section": "10-Q Item 2 - Liquidity and Capital Resources (Page 58)"
+        },
+        {
+          "statement": "In July 2025, the Partnership amended the Securitization Facility to, among other things, extend the facility termination date to August 31, 2026.",
+          "source_section": "10-Q Item 2 - Liquidity and Capital Resources (Page 58)"
+        },
+        {
+          "statement": "As of September 30, 2025, we had $26.7 million in letters of credit outstanding under the TRGP Revolver.",
+          "source_section": "10-Q Item 2 - Liquidity and Capital Resources (Page 58)"
+        },
+        {
+          "statement": "We have historically maintained sufficient liquidity and have funded our growth investments with a mix of cash flow from operations, equity, debt, asset sales and joint ventures over time in order to manage our leverage ratio. Disciplined management of liquidity, leverage and commodity price volatility allow us to be flexible in our long-term growth strategy, as well as allocating our free cash flow after dividends and share repurchases in a manner that maintains a strong credit profile.",
+          "source_section": "10-K Item 1 - Business (Page 18)"
+        },
+        {
+          "statement": "The following is a summary of our material future contractual obligations: Long-term debt obligations $13,664.9 million (no amounts due within 12 months); Interest on debt obligations $7,031.9 million (with $758.3 million due within 12 months); Operating leases $134.1 million (with $22.2 million due within 12 months); Finance leases $335.3 million (with $70.3 million due within 12 months); Land site lease and rights of way $333.1 million (with $9.3 million due within 12 months); Purchase obligations $2,736.9 million (with $1,316.3 million due within 12 months); Other long-term liabilities $123.2 million (with $17.9 million due within 12 months). Total contractual obligations $24,359.4 million with $2,194.3 million due within 12 months.",
+          "source_section": "10-K Item 7 - Contractual Obligations (Page 119)"
+        },
+        {
+          "statement": "Under the terms of the unsecured commercial paper note program (the “Commercial Paper Program”), we may issue, from time to time, unsecured commercial paper notes with varying maturities of less than one year. Amounts available under the Commercial Paper Program may be issued, repaid, and re-issued from time to time, with the maximum aggregate face or principal amount outstanding at any one time not to exceed $3.5 billion, subject to documentation requirements of the Commercial Paper Program. We maintain a minimum available borrowing capacity under the $3.5 billion TRGP senior revolving credit facility (the “New TRGP Revolver”) equal to the aggregate amount outstanding under the Commercial Paper Program to support our issued commercial paper notes. The Commercial Paper Program is guaranteed by each subsidiary that guarantees the New TRGP Revolver.",
+          "source_section": "10-K Note 8 - Debt Obligations (Page 178)"
+        },
+        {
+          "statement": "The outstanding borrowings of the commercial paper program are classified as noncurrent because we have the intent and ability to refinance the borrowings on a long-term basis through the New TRGP Revolver. We confirm, on a quarterly basis, that there is sufficient liquidity under the New TRGP Revolver to refinance outstanding borrowings of the Commercial Paper Program and such liquidity is not overcommitted for other anticipated uses.",
+          "source_section": "10-K Note 8 - Debt Obligations (Page 178)"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company maintains substantial liquidity with cash and cash equivalents over $120 million and total liquidity exceeding $2.3 billion as of September 30, 2025, supported by multiple sources including cash flows from operations, revolving credit facilities, commercial paper, securitization facility, and access to capital markets, indicating strong capacity to meet obligations and fund operations.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "The availability of a $3.5 billion revolving credit facility and commercial paper program, with the ability to request an additional $500 million in commitments and extend maturity dates, provides financial flexibility and access to capital to support growth and liquidity needs.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            9,
+            10,
+            13
+          ]
+        },
+        {
+          "interpretation": "The company believes its liquidity and capital resources are sufficient to meet anticipated cash requirements for at least the next twelve months, including operations, capital expenditures, dividends, and debt service, reflecting confidence in near-term financial stability.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            8
+          ]
+        },
+        {
+          "interpretation": "The company has a disciplined approach to managing liquidity, leverage, and commodity price volatility, which supports a strong credit profile and flexibility in its long-term growth strategy.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            12
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Despite substantial liquidity, the company has significant outstanding borrowings under its revolving credit facilities and commercial paper program (over $1.2 billion as of September 30, 2025), which could pressure cash flows and increase leverage risk.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            8
+          ]
+        },
+        {
+          "interpretation": "The company has large contractual obligations totaling over $24 billion, including $13.7 billion in long-term debt and $7 billion in interest payments, which represent significant future cash outflows and refinancing needs that could constrain financial flexibility.",
+          "intensity": "High",
+          "source_fact_index": [
+            13
+          ]
+        },
+        {
+          "interpretation": "Letters of credit outstanding increased from $17.6 million at December 31, 2024 to $26.7 million at September 30, 2025, indicating growing contingent liabilities that could impact liquidity if called upon.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5,
+            11
+          ]
+        },
+        {
+          "interpretation": "The commercial paper borrowings are classified as noncurrent due to intent and ability to refinance through the revolving credit facility, but this reliance on refinancing introduces risk if access to credit markets becomes constrained.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            15,
+            16
+          ]
+        }
+      ],
+      "dimension": "Balance Sheet Strength & Liquidity"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We operate in areas of high industry activity, which may affect our ability to hire, train or retain qualified personnel needed to manage and operate our business.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "If third-party pipelines and other facilities interconnected to our natural gas and crude oil gathering systems, terminals and processing facilities or to our NGL pipelines, fractionators and storage facilities become partially or fully unavailable to transport natural gas, NGLs and crude oil, our revenues could be adversely affected.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our business involves many hazards and operational risks, some of which may not be insured or fully covered by insurance. If a significant accident or event occurs for which we are not fully insured, if we fail to recover all anticipated insurance proceeds for significant accidents or events for which we are insured, or if we fail to rebuild facilities damaged by such accidents or events, our operations and financial results could be adversely affected.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Unexpected volume changes due to production variability or to gathering, plant or pipeline system disruptions may increase our exposure to commodity price movements.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Portions of our pipeline systems may require increased expenditures for maintenance and repair owing to the age of some of our systems, which expenditures or resulting loss of revenue due to pipeline age or condition could have a material adverse effect on our business and results of operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our business involves many hazards and operational risks, some of which may not be insured or fully covered by insurance. If a significant accident or event occurs for which we are not fully insured, if we fail to recover all anticipated insurance proceeds for significant accidents or events for which we are insured, or if we fail to rebuild facilities damaged by such accidents or events, our operations and financial results could be adversely affected.",
+          "source_section": "10-K Page 58"
+        },
+        {
+          "statement": "These risks could result in substantial losses due to personal injury, loss of life, severe damage to and destruction of property and equipment, and pollution or other environmental or natural resource damage, and may result in delay, curtailment or suspension of our related operations. A natural disaster or other hazard affecting the areas in which we operate could have a material adverse effect on our operations.",
+          "source_section": "10-K Page 58"
+        },
+        {
+          "statement": "We are not fully insured against all risks inherent to our business. Additionally, while we are insured against pollution resulting from environmental accidents that occur on a sudden and accidental basis, we may not be insured against all environmental accidents that might occur, some of which may result in toxic tort claims.",
+          "source_section": "10-K Page 58"
+        },
+        {
+          "statement": "Unexpected volume changes due to production variability or to gathering, plant or pipeline system disruptions may increase our exposure to commodity price movements.",
+          "source_section": "10-K Page 58"
+        },
+        {
+          "statement": "We sell processed natural gas at plant tailgates or at pipeline pooling points. Sales made to natural gas marketers and end-users may be interrupted by disruptions to volumes anywhere along the system. We attempt to balance sales with volumes supplied from processing operations, but unexpected volume variations due to production variability or to gathering, plant or pipeline system disruptions may expose us to volume imbalances, which, in conjunction with movements in commodity prices, could materially impact our income from operations and cash flow.",
+          "source_section": "10-K Page 58"
+        },
+        {
+          "statement": "We are subject to all risks inherent in the midstream natural gas, NGLs and crude oil businesses. These risks include, but are not limited to, explosions, fires, mechanical failure, cyberattacks, terrorist attacks, product spillage, weather, nature and inadequate maintenance of rights of way. These risks could result in damage to or destruction of operating assets and other property, or could result in personal injury, loss of life or environmental pollution, as well as curtailment or suspension of operations at the affected facility.",
+          "source_section": "10-K Page 29"
+        },
+        {
+          "statement": "The occurrence of a significant loss that is not insured, fully insured or indemnified against, or the failure of a party to meet its indemnification obligations, could materially and adversely affect our operations and financial condition.",
+          "source_section": "10-K Page 29"
+        },
+        {
+          "statement": "While we currently maintain levels and types of insurance that we believe to be prudent under current insurance industry market conditions, our inability to secure these levels and types of insurance in the future could negatively impact our business operations and financial stability, particularly if an uninsured loss were to occur.",
+          "source_section": "10-K Page 29"
+        },
+        {
+          "statement": "No assurance can be given that we will be able to maintain these levels of insurance in the future at rates considered commercially reasonable, particularly named windstorm coverage and contingent business interruption coverage for our onshore operations, and potentially excess liability insurance given the current insurance market environment.",
+          "source_section": "10-K Page 29"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s recognition of operational risks and insurance coverage indicates a proactive approach to risk management, which could reassure investors about the company’s preparedness for operational hazards.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            5,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "interpretation": "Despite potential disruptions, the company’s efforts to balance sales with volumes supplied from processing operations demonstrate operational control that could mitigate the impact of volume variability on income and cash flow.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            8,
+            9
+          ]
+        },
+        {
+          "interpretation": "The company’s extensive infrastructure and diversified transportation assets, including terminals and railcars, support its ability to manage logistics effectively, potentially reducing capacity and supply chain constraints.",
+          "intensity": "Low",
+          "source_fact_index": []
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company faces significant operational execution risks including hazards that may not be fully insured, which could lead to material adverse effects on operations and financial results if a significant uninsured event occurs.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            5,
+            6,
+            7,
+            11
+          ]
+        },
+        {
+          "interpretation": "Supply chain and capacity limitations are evident as third-party pipeline and facility unavailability could adversely affect revenues, and aging pipeline systems may require costly maintenance or cause revenue loss.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            4
+          ]
+        },
+        {
+          "interpretation": "Labor challenges exist due to operating in high industry activity areas, which may impair the company’s ability to hire, train, or retain qualified personnel necessary for business operations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Unexpected volume changes caused by production variability or system disruptions increase exposure to commodity price movements, which could materially impact income and cash flow.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            8,
+            9
+          ]
+        },
+        {
+          "interpretation": "The company’s insurance coverage may be insufficient or increasingly costly, with no assurance of maintaining coverage at commercially reasonable rates, potentially exposing the company to financial instability in the event of losses.",
+          "intensity": "High",
+          "source_fact_index": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "dimension": "Operational & Supply Chain Risks"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Inflationary issues and associated changes in monetary policy have resulted in and may result in additional increases to the cost of our goods, services and personnel, which in turn cause our capital expenditures and operating costs to rise.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Changes in tax laws or the interpretation thereof or the imposition of new or increased taxes may adversely affect our financial condition, results of operations and cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Derivatives legislation and its implementing regulations could have a material adverse effect on our ability to use derivative instruments to reduce the effect of commodity price, interest rate and other risks associated with our business.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Increases in interest rates, due to associated Federal Reserve policies or otherwise, could adversely affect our cost of capital, which could increase our funding costs and reduce the overall profitability of our business.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We have significant exposure to increases in interest rates. As of December 31, 2024, certain of our and the Partnership’s debt were at variable interest rates. As a result of the variable interest rates on our debt, our results of operations could be adversely affected by increases in interest rates, due to associated Federal Reserve policies or otherwise.",
+          "source_section": "10-K Page 75"
+        },
+        {
+          "statement": "Our and our customers’ operations are subject to a number of risks arising out of the threat of climate change, including the potential for increasingly stringent regulations for methane and other GHG emissions from the oil and gas sector, that could result in increased operating costs, limit the areas in which oil and natural gas production may occur, reduce demand for the products and services we provide, and reduce our or our customers’ ability to access capital.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "State laws and regulations limiting hydraulic fracturing activities could result in restrictions, delays or cancellations in drilling and completing new oil and natural gas wells by our customers, which could adversely impact our revenues by decreasing the volumes of natural gas, NGLs or crude oil through our facilities and reducing the utilization of our assets.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "A change in the jurisdictional characterization of some of our assets by federal, state, tribal or local regulatory agencies or a change in policy by those agencies may result in increased regulation of our assets, which may (i) cause our revenues to decline and operating expenses to increase or (ii) delay or increase the cost of expansion projects.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Should we fail to comply with all applicable FERC-administered statutes, rules, regulations and orders, we could be subject to substantial penalties and fines.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We are subject to cybersecurity and data privacy laws and regulations, and we may become subject to litigation and directives relating to our processing of personal information.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our principal market risks are our exposure to changes in commodity prices, particularly to the prices of natural gas, NGLs and crude oil, changes in interest rates, as well as nonperformance by our risk management counterparties and customers.",
+          "source_section": "10-Q Page 66"
+        },
+        {
+          "statement": "The prices for natural gas, NGLs and crude oil are volatile. In an effort to reduce the variability of our cash flows, we have entered into derivative instruments to hedge the commodity price associated with a portion of our expected natural gas, NGL and condensate equity volumes, future commodity purchases and sales, and transportation basis risk through 2029.",
+          "source_section": "10-Q Page 66"
+        },
+        {
+          "statement": "Market conditions may also impact our ability to enter into future commodity derivative contracts.",
+          "source_section": "10-Q Page 66"
+        },
+        {
+          "statement": "Our cash flow is affected by supply and demand for natural gas, NGL products and crude oil and by natural gas, NGL, crude oil and condensate prices, and decreases in commodity prices and/or activity levels could adversely affect our results of operations and financial condition.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our operations can be affected by the level of natural gas, NGL and crude oil prices and the relationship between these prices. The prices of natural gas, NGLs and crude oil have been historically volatile, and we expect this volatility to continue which impacts production activity levels.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our future cash flows may be materially adversely affected if we experience significant, prolonged price deterioration that also decreases production activity levels in our areas of operation.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The markets and prices for natural gas, NGLs and crude oil depend upon factors beyond our control. These factors include supply and demand for these commodities, which fluctuates with changes in market and economic conditions, and other factors, including: the impact of seasonality and weather, including severe weather conditions and other natural disasters, such as flooding, droughts and winter storms, the frequency, severity and impact of which could be increased by the effects of climate change; general economic conditions and economic conditions impacting our primary markets, including the impact of proposed tariffs, inflation and increases in interest rates and associated changes in monetary policy; the economic conditions of our customers; the level of domestic crude oil and natural gas production and consumption; the availability of imported natural gas, liquefied natural gas, NGLs and crude oil; actions taken by major foreign oil and gas producing nations; the availability of local, intrastate and interstate transportation systems and storage for residue natural gas and NGLs; the availability of domestic storage for crude oil; the availability and marketing of competitive fuels and/or feedstocks; the impact of energy conservation efforts, including the promotion of the transition to a low carbon economy; stockholder activism and activities by non-governmental organizations to limit certain sources of funding for the energy sector or restrict the exploration, development and production of crude oil and natural gas; and the extent and nature of governmental regulation and taxation, including those related to the prorationing of oil and gas production.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our commercial agreements across our Gathering and Processing and Logistics and Transportation businesses with our customers are predominantly fee-based arrangements, whereby we charge a fee for unit of throughput. Some of the commercial agreements in our natural gas gathering and processing business are percent-of-proceeds arrangements that expose us to commodity price risk. Certain of these have commodity price protection features.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Under our percentage-of-proceeds arrangements, we generally process natural gas from producers and remit to the producers an agreed percentage of the proceeds from the sale of residue gas and NGL products at market prices or a percentage of residue gas and NGL products at the tailgate of our processing facilities. In some percent-of-proceeds arrangements, we remit to the producer a percentage of an index-based price for residue gas and NGL products, less agreed adjustments, rather than remitting a portion of the actual sales proceeds. Under these types of arrangements, our revenues and cash flows increase or decrease, whichever is applicable, as the prices of natural gas, NGLs and crude oil fluctuate, to the extent our exposure to these prices is unhedged.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "A reduction in demand for NGL products by the petrochemical, refinery or other industries or by the fuel or export markets, or a significant increase in NGL product supply relative to this demand, could materially adversely affect our business, results of operations and financial condition.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s use of derivative instruments to hedge commodity price risks and interest rate exposure demonstrates proactive risk management to stabilize cash flows and protect profitability despite volatile market conditions.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            11,
+            12
+          ]
+        },
+        {
+          "interpretation": "Predominantly fee-based commercial agreements provide a stable revenue base less sensitive to commodity price fluctuations, which can support consistent cash flows even in volatile markets.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            18
+          ]
+        },
+        {
+          "interpretation": "The company’s awareness and disclosure of regulatory and policy risks, including climate change regulations and tax law changes, indicate preparedness to adapt to evolving external conditions.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "Despite inflationary pressures and monetary policy changes, the company’s capital expenditure growth, particularly in response to forecasted production growth, suggests confidence in market demand and operational expansion opportunities.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Significant exposure to commodity price volatility and interest rate increases could materially harm the company’s cash flows and profitability, especially if hedging strategies are insufficient or market conditions worsen.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            4,
+            10,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "interpretation": "Regulatory risks related to climate change, environmental laws, and changing tax laws could increase operating costs, restrict production activities, and reduce demand, negatively impacting revenues and financial condition.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "Inflationary pressures and associated increases in operating and capital costs, combined with uncertain trade policies, may raise expenses and reduce profitability if not offset by higher revenues.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Dependence on customers who may face financial distress due to economic conditions and commodity price declines could lead to nonpayment or contract renegotiations, adversely affecting cash flow and asset valuations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            16,
+            17,
+            19
+          ]
+        }
+      ],
+      "dimension": "Market, Macro & Regulatory Exposure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We may be able to incur substantial additional indebtedness in the future. The New TRGP Revolver provides an available commitment of $3.5 billion, with a requirement to maintain a minimum available borrowing capacity equal to the aggregate amount outstanding under our Commercial Paper Program, and allows us to request increases in commitments up to an additional $500.0 million. Although our debt agreements contain restrictions on the incurrence of additional indebtedness, these restrictions are subject to a number of significant qualifications and exceptions, and any indebtedness incurred in compliance with these restrictions could be substantial.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The terms of our debt agreements may restrict our current and future operations, particularly our ability to respond to changes in business or to take certain actions, including to pay dividends to our stockholders.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The agreements governing our outstanding indebtedness contain, and any future indebtedness we incur will likely contain, a number of restrictive covenants that impose significant operating and financial restrictions, including restrictions on our ability to engage in acts that may be in our best long-term interests, such as: incur or guarantee additional indebtedness or issue additional preferred stock; pay dividends on our equity securities or to our equity holders or redeem, repurchase or retire our equity securities or subordinated indebtedness; make investments and certain acquisitions; sell or transfer assets, including equity securities of our subsidiaries; engage in affiliate transactions; consolidate or merge; incur liens; prepay, redeem and repurchase certain debt, subject to certain exceptions; enter into sale and lease-back transactions or take-or-pay contracts; and change business activities conducted by us.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Certain of our debt agreements require us to satisfy and maintain specified financial ratios and other financial condition tests. Our ability to meet those financial ratios and tests can be affected by events beyond our control, and we cannot assure you that we will meet those ratios and tests.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "A breach of any of these covenants could result in an event of default under our debt agreements. Upon the occurrence of such an event of default, all amounts outstanding under the applicable debt agreements could be declared to be immediately due and payable and all applicable commitments to extend further credit could be terminated. If we are unable to repay the accelerated debt under the Securitization Facility, the lenders under the Securitization Facility could proceed against the collateral granted to them to secure the indebtedness. We have pledged the accounts receivables of Targa Receivables LLC under the Securitization Facility. If the indebtedness under our debt agreements is accelerated, we cannot assure you that we will have sufficient assets to repay the indebtedness. The operating and financial restrictions and covenants in these debt agreements and any future financing agreements may adversely affect our ability to finance future operations or capital needs or to engage in other business activities.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Cybersecurity risks are overseen at the board level through the Audit Committee. As part of this oversight, the Audit Committee, with several key members of management, meets quarterly to discuss ongoing initiatives and seek to ensure coordination between enterprise stakeholders. At these meetings, our Vice President of Security Operations and Senior Vice President of Technology, who oversee the Company’s cybersecurity program, review with our Audit Committee current and emerging cybersecurity-related threats as well as key performance indicators for cybersecurity process maturity, operational performance, and enterprise performance in countering these threats. Our Vice President of Security Operations and Senior Vice President of Technology also annually review our Company's cybersecurity program with our full board. Based on the information provided through these various processes, our board evaluates the risks facing us and provides guidance as to the appropriate risk management strategy.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The Vice President of Security Operations and Senior Vice President of Technology are primarily responsible for assessing and managing Targa’s material risks from cybersecurity threats, and work to monitor the effectiveness of our cybersecurity detection and response processes in countering current threats and to provide updates to our executive team.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "As of the date of this report, though the Company and our service providers have experienced certain cybersecurity incidents, we are not aware of any previous cybersecurity incidents that have materially affected or are reasonably likely to materially affect the Company.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The availability of a $3.5 billion revolving credit facility with potential increases up to $500 million provides the Company with substantial financial flexibility to support growth initiatives or manage liquidity needs.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The board’s active oversight of cybersecurity risks through regular Audit Committee meetings and annual full board reviews demonstrates a strong governance framework aimed at proactively managing emerging threats.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Experienced senior management personnel are dedicated to monitoring and managing cybersecurity risks, which may enhance the Company’s ability to detect and respond effectively to cyber threats.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "The absence of any known prior cybersecurity incidents that materially affected the Company suggests effective risk management and operational resilience to date.",
+          "intensity": "Low",
+          "source_fact_index": [
+            7
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The significant restrictions and covenants in the Company’s debt agreements may limit operational flexibility, including the ability to pay dividends, make acquisitions, or respond swiftly to business changes, potentially constraining strategic initiatives.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            2
+          ]
+        },
+        {
+          "interpretation": "Failure to maintain required financial ratios and covenants could trigger an event of default, leading to acceleration of debt repayment obligations and possible loss of pledged collateral, which could materially impair financial stability.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            4
+          ]
+        },
+        {
+          "interpretation": "Despite governance and management oversight, the evolving nature of cybersecurity threats and the acknowledgment that security measures cannot provide absolute protection imply ongoing vulnerability to potentially material cyber incidents.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "dimension": "Management Strategy & Execution"
+    }
+  ]
+}

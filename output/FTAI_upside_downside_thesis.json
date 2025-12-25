@@ -1,0 +1,1027 @@
+{
+  "upside_thesis_summary": "• The Strategic Capital Initiative allows FTAI to maintain an asset-light business model while leveraging partnerships to acquire on-lease narrowbody aircraft at scale, enhancing operational efficiency and expanding market reach through minority investments and management services.\n• The company’s disciplined and selective acquisition strategy, supported by thorough due diligence and reasonable leverage, targets essential transportation assets with long-term macroeconomic growth potential, which may drive sustainable earnings growth and asset appreciation.\n• Internalizing management functions eliminates external management fees and incentive distributions, improving cost efficiency and aligning management interests with shareholders, which supports margin sustainability.\n• Significant increases in Aerospace products revenue, driven by strong demand for key engine and module products, alongside effective cost management, have led to improved operating leverage and adjusted EBITDA growth.\n• The company demonstrates effective capital recycling and liquidity generation through substantial proceeds from asset sales, including to the 2025 Partnership, and maintains confidence in liquidity management supported by sufficient capital and borrowing capacity.",
+  "downside_thesis_summary": "• FTAI’s reliance on partnerships in the Strategic Capital Initiative exposes it to risks related to the performance and capital raising ability of these partnerships, which could adversely affect management fee income and investment returns.\n• The company faces intense competition from participants with greater financial resources and lower costs of capital, potentially limiting acquisition opportunities and leading to significant price competition, especially during industry downturns.\n• Operational vulnerabilities exist due to potential disruptions from labor issues, geopolitical events, natural disasters, and other uncontrollable factors, which could cause prolonged business interruptions and financial losses if insurance coverage is insufficient.\n• Substantial indebtedness and significant contractual obligations, coupled with exposure to refinancing and liquidity risks, depend heavily on future cash flow generation subject to economic, regulatory, and competitive uncertainties beyond the company’s control.\n• Assets subject to liens under the revolving credit facility may impair the company’s ability to repossess, re-lease, or sell assets, and fluctuations in asset values, depreciation, and potential impairments pose risks to profitability and cash flow stability.",
+  "raw_dimensions": [
+    {
+      "facts": [
+        {
+          "statement": "The Strategic Capital Initiative, and its related partnerships, will allow us to maintain an asset-light business model while the partnerships actively acquire on-lease narrowbody aircraft at scale. We have agreed that the 2025 Partnership, and follow-on partnerships, will be the primary buyer of all future on-lease 737NG and A320ceo aircraft. In addition, the 2025 Partnership has agreed to acquire 46 on-lease narrowbody aircraft from us for an estimated net purchase price of $549 million and has signed an agreement through which our MRE business will exclusively provide replacement aircraft engines and modules for the life of the partnership. We will provide aircraft management services to the 2025 Partnership, and the Company will receive customary, market-based compensation for providing such services. The Company has also committed to make a minority investment in the 2025 Partnership. We expect to provide aircraft management services to, and make minority investments in, future partnerships.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "Our strategy is to acquire assets that are essential to the transportation of goods and people globally. We seek to acquire assets and businesses that we believe operate in sectors with long-term macroeconomic growth opportunities and that have significant cash flow and upside potential from earnings growth and asset appreciation.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "We operate in highly competitive markets. The markets for our products and services are highly competitive. Market competition for opportunities to acquire aviation assets includes traditional transportation companies, commercial and investment banks, as well as a growing number of non-traditional participants, such as hedge funds, private equity funds and other private investors. Some of these competitors may have access to greater amounts of capital and/or to capital that may be committed for longer periods of time or may have different return thresholds than us, and thus these competitors may have certain advantages not shared by us. In addition, competitors may have incurred, or may in the future incur, leverage to finance their debt investments at levels or on terms more favorable than those available to us. Strong competition for investment opportunities could result in fewer such opportunities for us, as certain of these competitors have established and are establishing investment vehicles that target the same types of assets that we intend to purchase.",
+          "source_section": "10-K - Page 18"
+        },
+        {
+          "statement": "Market competition for our Aerospace Products business includes aircraft manufacturers, aircraft component and parts manufacturers, airline and aircraft service companies, companies providing maintenance, repair and overhaul services and aircraft spare parts distributors and redistributors. Some of our competitors may have longer operating histories, greater financial resources and lower costs of capital than us, and consequently, may be able to compete more effectively in one or more of our target markets. We likely will not always be able to compete successfully with our competitors and competitive pressures or other factors may also result in significant price competition, particularly during industry downturns, which could have a material adverse effect on our business, prospects, financial condition, results of operations and cash flows.",
+          "source_section": "10-K - Page 18"
+        },
+        {
+          "statement": "The success of our Aerospace Products segment is dependent upon our ability to manage our operational footprint. We currently perform maintenance, repair and exchange activities at our maintenance facilities. Our maintenance facilities could become unavailable either temporarily or permanently due to labor disruptions at any of our facilities or other circumstances that may be beyond our control, such as geopolitical developments or logistical complications arising from catastrophic and weather-related events. Potential logistical complications resulting from circumstances beyond our control may include, but are not limited to, power loss, telecommunication and information systems failures, or other internal or external system or service failures, accidents or incidents arising from acts of war, terrorism, cyber-attacks, weather, global climate change, earthquakes, hurricanes, fires, floods, tornadoes, explosions or other natural disasters or pandemics, including public health crises. If any of these events were to occur at or around any of our facilities, this could result in potential damage to physical assets and we may be unable to shift work to other facilities or to make up for lost work, which could result in a prolonged interruption of our business, significant delays in shipments of products, the loss of sales and customers and large expenses to repair or replace the facility or facilities. We may not have insurance to adequately compensate us for any of these events. If insurance or other risk transfer mechanisms, such as existing disaster recovery and business continuity plans, are insufficient to recover all costs, we could experience a material adverse effect on our business, prospects, financial condition, results of operations and cash flows.",
+          "source_section": "10-K - Page 20"
+        },
+        {
+          "statement": "Certain liens may arise on our assets. Certain of our assets are currently subject to liens under our third amended and restated revolving credit facility (the “Revolving Credit Facility”). In the event of a default under the Revolving Credit Facility, the lenders thereunder would be permitted to take possession of or sell such assets. In addition, our currently owned assets and assets that we purchase in the future may be subject to other liens based on the industry practices relating to such assets. Until they are discharged, these liens could impair our ability to repossess, re-lease or sell our assets, and to the extent our lessees do not comply with their obligations to discharge any liens on the applicable assets, we may find it necessary to pay the claims secured by such liens in order to repossess such assets. Such payments could materially adversely affect our operating results and growth prospects.",
+          "source_section": "10-K - Page 20"
+        },
+        {
+          "statement": "The fair market values of our assets may decrease or increase depending on a number of factors, including the prevailing level of charter or lease rates from time to time, general economic and market conditions affecting our target markets, type and age of assets, supply and demand for assets, competition, new governmental or other regulations and technological advances, all of which could impact our profitability and our ability to lease, develop, operate, or sell such assets. In addition, our assets depreciate as they age and may generate lower revenues and cash flows. We must be able to replace such older, depreciated assets with newer assets, or our ability to maintain or increase our revenues and cash flows will decline. In addition, if we dispose of an asset for a price that is less than the depreciated book value of the asset on our balance sheet or if we determine that an asset’s value has been impaired, we will recognize a related charge in our Consolidated Statement of Operations and such charge could be material.",
+          "source_section": "10-K - Page 20"
+        },
+        {
+          "statement": "We may not generate a sufficient amount of cash or generate sufficient free cash flow to fund our operations or repay our indebtedness. As of December 31, 2024, we had $3.4 billion of indebtedness outstanding. Our ability to make payments on our indebtedness depends on our ability to generate cash flow in the future. This ability, to a certain extent, is subject to general economic, financial, competitive, legislative, regulatory and other factors that are beyond our control. If we do not generate sufficient free cash flow to satisfy our debt obligations, including interest payments and the payment of principal at maturity, we may have to undertake alternative financing plans, such as refinancing or restructuring our debt, selling assets, reducing or delaying capital investments or seeking to raise additional capital. We cannot provide assurance that any refinancing would be possible, that any assets could be sold, or, if sold, of the timeliness and amount of proceeds realized from those sales, that additional financing could be obtained on acceptable terms, if at all, or that additional financing would be permitted under the terms of our various debt instruments then in effect. Furthermore, our ability to refinance would depend upon the condition of the finance and credit markets. Our inability to generate sufficient free cash flow to satisfy our debt obligations, or to refinance our obligations on commercially reasonable terms or on a timely basis, would materially affect our business, financial condition and results of operations.",
+          "source_section": "10-K - Page 20"
+        },
+        {
+          "statement": "Our use of joint ventures or partnerships may present unforeseen obstacles or costs. We have acquired and may in the future acquire interests in certain assets in cooperation with third-party partners or co-investors through jointly-owned acquisition vehicles, joint ventures or other structures. In these co-investment situations, our ability to control the management of such assets depends upon the nature and terms of the joint arrangements with such partners and our relative ownership stake in the asset, each of which will be determined by negotiation at the time of the investment. Such arrangements present risks not present with wholly-owned assets, such as the possibility that a co-investor becomes bankrupt, develops business interests or goals that conflict with our interests and goals in respect of the assets, all of which could materially adversely affect our business, prospects, financial condition, results of operations and cash flows.",
+          "source_section": "10-K - Page 20"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The Strategic Capital Initiative enables the company to maintain an asset-light business model while leveraging partnerships to acquire on-lease narrowbody aircraft at scale, potentially increasing operational efficiency and expanding market reach through minority investments and management services.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The company's strategy to acquire essential transportation assets in sectors with long-term macroeconomic growth opportunities suggests a focus on sustainable cash flow generation and potential asset appreciation, which could drive earnings growth.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Despite operating in highly competitive markets, the company's broad network and experience in sourcing assets globally through multiple channels may provide access to attractive acquisition opportunities.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The company's Aerospace Products segment includes maintenance, repair, and exchange activities, which, if managed effectively, could support operational resilience and customer retention even amid external disruptions.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The reliance on partnerships in the Strategic Capital Initiative exposes the company to risks related to the performance and capital raising ability of these partnerships, which could adversely affect management fee income and investment returns.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Operating in highly competitive markets with competitors that may have greater financial resources and lower costs of capital could limit the company's ability to successfully compete for acquisition opportunities and may lead to significant price competition, especially during downturns.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            3
+          ]
+        },
+        {
+          "interpretation": "The company's operational footprint is vulnerable to disruptions from labor issues, geopolitical events, natural disasters, and other uncontrollable factors, which could cause prolonged business interruptions and financial losses if insurance coverage is insufficient.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The existence of liens on assets under the revolving credit facility and industry practices could impair the company's ability to repossess, re-lease, or sell assets, potentially requiring payments to discharge liens and adversely impacting operating results and growth prospects.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Fluctuations in asset values due to market conditions, regulatory changes, and technological advances, combined with asset depreciation, could reduce profitability and cash flows, and may result in material impairment charges.",
+          "intensity": "High",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "The company's significant indebtedness and dependence on generating sufficient cash flow to meet debt obligations expose it to refinancing and liquidity risks, which could materially affect its financial condition and operations if cash flows are insufficient or market conditions deteriorate.",
+          "intensity": "High",
+          "source_fact_index": [
+            7
+          ]
+        },
+        {
+          "interpretation": "Use of joint ventures and partnerships introduces risks such as potential conflicts of interest, lack of control, and partner insolvency, which could materially adversely affect the company's business and financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            8
+          ]
+        }
+      ],
+      "dimension": "Business Model & Competitive Position"
+    },
+    {
+      "dimension": "Revenue Growth Drivers & Demand Outlook",
+      "facts": [],
+      "upside_thesis": [
+        {
+          "interpretation": "Insufficient disclosure for this dimension.",
+          "intensity": "N/A"
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Insufficient disclosure for this dimension.",
+          "intensity": "N/A"
+        }
+      ]
+    },
+    {
+      "dimension": "Pricing Power & Revenue Quality",
+      "facts": [],
+      "upside_thesis": [
+        {
+          "interpretation": "Insufficient disclosure for this dimension.",
+          "intensity": "N/A"
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Insufficient disclosure for this dimension.",
+          "intensity": "N/A"
+        }
+      ]
+    },
+    {
+      "facts": [
+        {
+          "statement": "Total expenses increased $665.9 million, driven by the following: Cost of sales increased by $323.8 million, primarily due to increases in CFM56-7B, CFM56-5B and V2500 engine and module sales, parts inventory sales, and directly corresponds to components of increases in Aerospace products revenue over the same period.",
+          "source_section": "10-K Page 58"
+        },
+        {
+          "statement": "Depreciation and amortization increased by $48.2 million, primarily driven by an increase in the number of assets owned and on lease, partially offset by an increase in the number of aircraft redelivered.",
+          "source_section": "10-K Page 58"
+        },
+        {
+          "statement": "Operating expenses increased by $5.7 million, primarily due to the acquisition of LMCES in Q3 2024.",
+          "source_section": "10-K Page 58"
+        },
+        {
+          "statement": "Management fees and incentive allocation to affiliate decreased by $9.6 million, due to a decrease in management and incentive fees to the Former Manager during 2024, with the Internalization effective May 28, 2024.",
+          "source_section": "10-K Page 58"
+        },
+        {
+          "statement": "Interest expense increased by $60.1 million, reflecting an increase in the average debt outstanding of approximately $779.3 million, primarily due to increases in Senior Notes due 2030, 2031, 2032, and 2033, partially offset by decreases in Senior Notes due 2025 and 2027 and the Revolving Credit Facility.",
+          "source_section": "10-K Page 58"
+        },
+        {
+          "statement": "Adjusted EBITDA increased by $220.6 million, primarily due to the changes noted above.",
+          "source_section": "10-K Page 67"
+        },
+        {
+          "statement": "Total Aerospace products revenue increased by $624.9 million, primarily due to a $546.0 million increase in CFM56-7B, CFM56-5B and V2500 engine and module sales, a $28.5 million increase in parts inventory sales, and other revenues of $47.7 million from the QuickTurn and LMCES acquisitions.",
+          "source_section": "10-K Page 67"
+        },
+        {
+          "statement": "Cost of sales increased by $393.6 million, primarily due to increases in CFM56-7B, CFM56-5B and V2500 engine and module sales, parts inventory sales, and directly corresponds to components of increases in Aerospace products revenue over the same period.",
+          "source_section": "10-K Page 67"
+        },
+        {
+          "statement": "Operating expenses increased by $3.4 million, primarily due to the acquisition of LMCES in Q3 2024.",
+          "source_section": "10-K Page 67"
+        },
+        {
+          "statement": "Depreciation and amortization increased by $6.0 million due to the acquisitions of LMCES in Q3 2024 and QuickTurn in Q4 2023.",
+          "source_section": "10-K Page 67"
+        },
+        {
+          "statement": "Provision for income taxes increased by $46.7 million, primarily due to the benefit from income taxes recorded in 2023 in connection with a tax law change in Bermuda as well as the increase in income from Aerospace Products activities in jurisdictions subject to taxes.",
+          "source_section": "10-K Page 67"
+        },
+        {
+          "statement": "Net income increased by $166.2 million, primarily due to the changes noted above.",
+          "source_section": "10-K Page 67"
+        },
+        {
+          "statement": "During the year ended December 31, 2024, we agreed to pay $150.0 million to the Former Manager as part of the termination of the Management Agreement. Following the internalization of management on May 28, 2024, we no longer pay a management fee or incentive distribution to the Former Manager or Master GP. Consequently, we have assumed general and administrative, and compensation and benefit expenses directly. We anticipate a savings in operation costs as a result of the Internalization.",
+          "source_section": "10-K Page 73"
+        },
+        {
+          "statement": "Operating leases with fixed rentals and step rentals are recognized on a straight-line basis over the term of the lease, assuming no renewals. Revenue is not recognized when collection is not reasonably assured. When collectability is not reasonably assured, the lessee is placed on non-accrual status and revenue is recognized when cash payments are received.",
+          "source_section": "10-K Page 75"
+        },
+        {
+          "statement": "Generally, under our aircraft lease and engine agreements, the lessee is required to make periodic maintenance payments calculated based on the lessee’s utilization of the leased asset or at the end of the lease. Typically, under our aircraft lease agreements, the lessee is responsible for maintenance, repairs and other operating expenses throughout the term of the lease. These periodic maintenance payments accumulate over the term of the lease to fund major maintenance events, and we are contractually obligated to return maintenance payments to the lessee up to the cost of maintenance paid by the lessee. In the event the total cost of maintenance events over the term of a lease is less than the cumulative maintenance payments, we are not required to return any unused or excess maintenance payments to the lessee.",
+          "source_section": "10-K Page 75"
+        },
+        {
+          "statement": "Estimates in recognizing revenue include mean time between removal, projected costs for engine maintenance and forecasted utilization of aircraft which are affected by historical usage patterns and overall industry, market and economic conditions. Significant changes to these estimates could have a material effect on the amount of revenue recognized in the period.",
+          "source_section": "10-K Page 75"
+        },
+        {
+          "statement": "The commercial aviation industry is historically cyclical and has been negatively affected in the past, and could be negatively affected in future periods, by geopolitical events, natural disasters, pandemics, supply chain disruptions, labor issues, environmental concerns (including climate change), lack of capital, cost inflation, and weak economic conditions.",
+          "source_section": "10-K Page 14"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The increase in Aerospace products revenue and corresponding cost of sales indicates strong demand and sales growth in key engine and module products, which supports improved operating margins as revenue growth outpaces cost increases.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The internalization of management functions eliminates external management fees and incentive distributions, which is expected to result in operational cost savings and improved margin sustainability.",
+          "intensity": "High",
+          "source_fact_index": [
+            13
+          ]
+        },
+        {
+          "interpretation": "Recognition of maintenance revenue and the structured maintenance payments under lease agreements provide a predictable revenue stream that supports margin stability and sustainability over the lease term.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            14,
+            15
+          ]
+        },
+        {
+          "interpretation": "Despite increased expenses such as depreciation and interest, the company’s adjusted EBITDA increased significantly, indicating operating leverage and effective cost management relative to revenue growth.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            5,
+            4
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The significant increase in cost of sales and operating expenses, including higher depreciation and interest expense due to increased debt, could pressure gross and operating margins, reducing profitability.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1,
+            4,
+            7
+          ]
+        },
+        {
+          "interpretation": "The company’s revenue recognition depends on estimates related to maintenance costs and aircraft utilization, which are subject to changes in industry, market, and economic conditions, potentially causing volatility in reported margins.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            15
+          ]
+        },
+        {
+          "interpretation": "The commercial aviation industry’s cyclical nature and exposure to cost inflation and economic uncertainties pose risks to margin sustainability and operating leverage, as adverse conditions could reduce demand and increase costs.",
+          "intensity": "High",
+          "source_fact_index": [
+            16
+          ]
+        },
+        {
+          "interpretation": "The termination of the Management Agreement and associated $150 million payment represent a one-time cost that increased expenses in 2024, which may impact short-term operating margins.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            13
+          ]
+        }
+      ],
+      "dimension": "Margins & Cost Structure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Cash flows from operating activities, plus the principal collections on finance leases and maintenance reserve collections were $(136.5) million, $163.0 million and $29.4 million during the years ended December 31, 2024, 2023, and 2022, respectively.",
+          "source_section": "10-K Page 73"
+        },
+        {
+          "statement": "Net cash used in operating activities $ (187,956) $ 128,982 $ (20,657) for years ended December 31, 2024, 2023, and 2022, respectively.",
+          "source_section": "10-K Page 73"
+        },
+        {
+          "statement": "Net cash used in operating activities increased $316.9 million, which primarily reflects (i) a decrease in our Net income of $235.1 million and increases in (ii) Changes in working capital of $178.5 million and (iii) Gain on sale of assets of $217.2 million, partially offset by certain adjustments to reconcile net income to cash used in operating activities including increases in (iv) Non-cash termination fee to affiliate (issuance of ordinary shares) of $150.0 million, (v) Deferred income taxes of $61.7 million, (vi) Depreciation and amortization of $48.2 million, a decrease in (vii) Security deposits and maintenance claims included in earnings of $23.8 million, an increase in (viii) Loss on extinguishment of debt of $17.1 million and a decrease in (ix) Other of $6.4 million.",
+          "source_section": "10-K Page 73"
+        },
+        {
+          "statement": "Net cash used in investing activities increased $96.1 million primarily due to increases in (i) Acquisition of leasing equipment of $397.6 million, (ii) Deposits for leasing equipment of $134.4 million, (iii) Acquisition of business, net of cash acquired of $118.0 million and (iv) Investments in financing receivables of $66.9 million, partially offset by higher (v) Proceeds from sale of assets of $491.4 million and (vi) Proceeds (refunds) from deposits on sale of leasing equipment of $78.4 million, and decreases in (vii) Acquisition of lease intangibles of $24.1 million, (viii) Investment in unconsolidated entities of $19.5 million and (ix) Investment in promissory notes of $11.5 million.",
+          "source_section": "10-K Page 73"
+        },
+        {
+          "statement": "Net cash used in operating activities decreased $14.5 million, primarily reflecting an increase in our Net income of $479.3 million and certain adjustments to reconcile net income to cash used in operating activities, including an increase in Deferred income taxes of $80.0 million; partially offset by decrease in Changes in net working capital of $249.9 million, decrease in Non-cash termination fee to affiliate of $150.0 million, increase in Gain on insurance recoveries of $54.3 million, increase in Gain on sale of assets of $50.4 million, increase in Gain on sale of assets to the 2025 Partnership of $50.1 million.",
+          "source_section": "10-Q Page 69"
+        },
+        {
+          "statement": "Net cash provided by investing activities increased $1.2 billion, primarily due to an increase in Proceeds from the sale of assets to the 2025 partnership of $485.1 million, increase in Proceeds from the sale of assets of $347.5 million, decrease in Acquisition of leasing equipment of $132.6 million, decrease in Acquisition of business, net of cash acquired of $106.5 million, decrease in Deposits for acquisition of leasing equipment of $104.1 million; partially offset by increase in Investment in unconsolidated entities of $188.7 million.",
+          "source_section": "10-Q Page 69"
+        },
+        {
+          "statement": "Net cash used in financing activities increased $806.2 million, primarily due to a decrease in Proceeds from debt of $1.6 billion, and increase in Redemption of preferred shares of $124.2 million; partially offset by decrease in Repayment of debt of $937.3 million.",
+          "source_section": "10-Q Page 69"
+        },
+        {
+          "statement": "Our material cash requirements include the following contractual and other obligations: Debt Obligations—As of September 30, 2025, we had outstanding principal and interest payment obligations of $3.5 billion and $1.2 billion, respectively, of which only interest payments of $228.8 million are due in the next twelve months.",
+          "source_section": "10-Q Page 69"
+        },
+        {
+          "statement": "Lease Obligations—As of September 30, 2025, we had outstanding operating and finance lease obligations of $41.0 million, of which $4.4 million is due in the next twelve months.",
+          "source_section": "10-Q Page 69"
+        },
+        {
+          "statement": "We expect to meet our future short-term liquidity requirements through cash on hand, unused borrowing capacity or future financings and net cash provided by our current operations. We expect that our operating subsidiaries will generate sufficient cash flow to cover operating expenses and the payment of principal and interest on our indebtedness as they become due.",
+          "source_section": "10-Q Page 69"
+        },
+        {
+          "statement": "Certain of our assets are currently subject to liens under our third amended and restated revolving credit facility (the “Revolving Credit Facility”). In the event of a default under the Revolving Credit Facility, the lenders thereunder would be permitted to take possession of or sell such assets. In addition, our currently owned assets and assets that we purchase in the future may be subject to other liens based on the industry practices relating to such assets. Until they are discharged, these liens could impair our ability to repossess, re-lease or sell our assets, and to the extent our lessees do not comply with their obligations to discharge any liens on the applicable assets, we may find it necessary to pay the claims secured by such liens in order to repossess such assets. Such payments could materially adversely affect our operating results and growth prospects.",
+          "source_section": "10-Q Page 77"
+        },
+        {
+          "statement": "The fair market values of our assets may decrease or increase depending on a number of factors, including the prevailing level of charter or lease rates from time to time, general economic and market conditions affecting our target markets, type and age of assets, supply and demand for assets, competition, new governmental or other regulations and technological advances, all of which could impact our profitability and our ability to lease, develop, operate, or sell such assets. In addition, our assets depreciate as they age and may generate lower revenues and cash flows. We must be able to replace such older, depreciated assets with newer assets, or our ability to maintain or increase our revenues and cash flows will decline. In addition, if we dispose of an asset for a price that is less than the depreciated book value of the asset on our balance sheet or if we determine that an asset’s value has been impaired, we will recognize a related charge in our Consolidated Statement of Operations and such charge could be material.",
+          "source_section": "10-Q Page 77"
+        },
+        {
+          "statement": "We may not generate a sufficient amount of cash or generate sufficient free cash flow to fund our operations or repay our indebtedness. As of September 30, 2025, we had $3.4 billion of indebtedness outstanding. Our ability to make payments on our indebtedness depends on our ability to generate cash flow in the future. This ability, to a certain extent, is subject to general economic, financial, competitive, legislative, regulatory and other factors that are beyond our control. If we do not generate sufficient free cash flow to satisfy our debt obligations, including interest payments and the payment of principal at maturity, we may have to undertake alternative financing plans, such as refinancing or restructuring our debt, selling assets, reducing or delaying capital investments or seeking to raise additional capital. We cannot provide assurance that any refinancing would be possible, that any assets could be sold, or, if sold, of the timeliness and amount of proceeds realized from those sales, that additional financing could be obtained on acceptable terms, if at all, or that additional financing would be permitted under the terms of our various debt instruments then in effect. Furthermore, our ability to refinance would depend upon the condition of the finance and credit markets. Our inability to generate sufficient free cash flow to satisfy our debt obligations, or to refinance our obligations on commercially reasonable terms or on a timely basis, would materially affect our business, financial condition and results of operations.",
+          "source_section": "10-Q Page 77"
+        },
+        {
+          "statement": "Included in net cash (used in) provided by operating activities are inflows from the sale of engine modules and parts that were on engines originally purchased and reported as Leasing equipment. The purchase of the original engine was reported as an outflow in net cash used in investing activities at the time of purchase through the Acquisition of leasing equipment line item. As part of the Aerospace products business, the Company breaks down generally unserviceable engines with the intent to manufacture modules and parts for creation and sale of new assets. To manufacture the modules and parts and bring them into a salable condition, the Company spends significant costs, often over multiple reporting periods, for new inventory and capitalizable labor (e.g., engineering) that are included in net cash (used in) provided by operating activities as components of the changes in the related working capital accounts. Therefore, when the costs to manufacture the assets are greater than (predominant to) the estimated value transferred from Leasing equipment into inventory, the related cash receipt has been recorded as an inflow in net cash (used in) provided by operating activities.",
+          "source_section": "10-K Page 97"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "Despite net cash used in operating activities in recent years, the company shows improvement in operating cash flow with a decrease in net cash used in operating activities by $14.5 million in the nine months ended September 30, 2025, reflecting increased net income and gains on asset sales, indicating potential for improved cash generation.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The company has significant proceeds from asset sales, including to the 2025 Partnership, which increased net cash provided by investing activities by $1.2 billion in the nine months ended September 30, 2025, demonstrating effective capital recycling and liquidity generation.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The company expects its operating subsidiaries to generate sufficient cash flow to cover operating expenses and debt service, and plans to meet short-term liquidity needs through cash on hand, unused borrowing capacity, or future financings, indicating confidence in ongoing cash flow generation and liquidity management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        },
+        {
+          "interpretation": "The company manages working capital actively, including manufacturing and sale of engine modules and parts, with related cash flows included in operating activities, reflecting operational cash conversion efforts within its Aerospace products business.",
+          "intensity": "Low",
+          "source_fact_index": [
+            16
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company has experienced net cash used in operating activities in recent years, including $(187.956) million in 2024 and $(131.666) million in the nine months ended September 30, 2025, indicating challenges in generating positive operating cash flow.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            0
+          ]
+        },
+        {
+          "interpretation": "Significant increases in working capital changes and non-cash charges such as a $150 million non-cash termination fee and deferred income taxes have negatively impacted operating cash flow, suggesting volatility and potential cash flow constraints.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The company has substantial outstanding debt obligations of $3.5 billion principal and $1.2 billion interest as of September 30, 2025, with only interest payments of $228.8 million due in the next twelve months, and notes risks related to refinancing and generating sufficient free cash flow to meet debt obligations, which could materially affect financial condition and results of operations.",
+          "intensity": "High",
+          "source_fact_index": [
+            7,
+            14
+          ]
+        },
+        {
+          "interpretation": "Certain assets are subject to liens under the revolving credit facility, and liens could impair the company's ability to repossess, re-lease, or sell assets, potentially requiring payments to discharge liens, which could materially adversely affect operating results and growth prospects.",
+          "intensity": "High",
+          "source_fact_index": [
+            10
+          ]
+        },
+        {
+          "interpretation": "The fair market values of assets may fluctuate due to various factors including economic conditions and asset age, with depreciation and potential impairments that could materially affect profitability and cash flows, indicating capital intensity and cash conversion risks.",
+          "intensity": "High",
+          "source_fact_index": [
+            11
+          ]
+        }
+      ],
+      "dimension": "Cash Flow Generation"
+    },
+    {
+      "facts": [
+        {
+          "statement": "The Strategic Capital Initiative, and its related partnerships, will allow us to maintain an asset-light business model while the partnerships actively acquire on-lease narrowbody aircraft at scale. We have agreed that the 2025 Partnership, and follow-on partnerships, will be the primary buyer of all future on-lease 737NG and A320ceo aircraft. In addition, the 2025 Partnership has agreed to acquire 46 on-lease narrowbody aircraft from us for an estimated net purchase price of $549 million and has signed an agreement through which our MRE business will exclusively provide replacement aircraft engines and modules for the life of the partnership. We will provide aircraft management services to the 2025 Partnership, and the Company will receive customary, market-based compensation for providing such services. The Company has also committed to make a minority investment in the 2025 Partnership. We expect to provide aircraft management services to, and make minority investments in, future partnerships.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our strategy is to acquire assets that are essential to the transportation of goods and people globally. We seek to acquire assets and businesses that we believe operate in sectors with long-term macroeconomic growth opportunities and that have significant cash flow and upside potential from earnings growth and asset appreciation. We approach markets and opportunities by first developing an asset acquisition strategy and then pursuing optimal opportunities within that strategy. In addition to relying on our own experience, we source new opportunities through our network of industry relationships in order to find, structure and execute attractive acquisitions. These relationships include senior executives at industry leading operators, end users of the assets as well as banks, lenders and other asset owners. We believe that sourcing assets both globally and through multiple channels will enable us to find the most attractive opportunities. We are selective in the assets we pursue and efficient in the manner in which we pursue them. Once attractive opportunities are identified, our Company performs detailed due diligence on each of our potential acquisitions. Due diligence on each of our assets always includes a comprehensive review of the asset itself as well as the industry and market dynamics, competitive positioning, and financial and operational performance. Where appropriate, our Company conducts physical inspections, a review of the credit quality of each of our counterparties, the regulatory environment, and a review of all material documentation. In some cases, third-party specialists are hired to physically inspect and/or value the target assets. We also spend a significant amount of time on structuring our acquisitions to minimize risks while also optimizing expected returns. We employ what we believe to be reasonable amounts of leverage in connection with our acquisitions. In determining the amount of leverage for each acquisition, we consider a number of characteristics, including, but not limited to, the existing cash flow, the length of the lease or contract term, and the specific counterparty.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "On May 28, 2024, the Company entered into definitive agreements with the Former Manager and Master GP to internalize the Company’s management function. As part of the termination of the Management Agreement, the Company (i) agreed to pay the Former Manager (for itself and on behalf of the Master GP, as applicable) $150.0 million (the “Cash Consideration”), the compensation accrued and payable, but not yet paid, under the Management Agreement and the expenses that were reimbursable, but not yet reimbursed, under the Management Agreement; (ii) issued to the Former Manager (for itself and on behalf of the Master GP, as applicable) the Share Consideration; (iii) purchased from Master GP all of its partnership interests in FTAI Aviation Holdco Ltd., a subsidiary of the Company, in exchange for $30 thousand. Following the Internalization, the Company no longer pays management fees or incentive distributions to the Former Manager and Master GP.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our principal uses of liquidity have been and continue to be (i) acquisitions of aircraft and engines, (ii) dividends to our ordinary and preferred shareholders, (iii) expenses associated with our operating activities, and (iv) debt service obligations associated with our investments. In the future, instead of acquiring on-lease aircraft directly, as part of the Strategic Capital Initiative, we will invest in the related partnerships and such partnerships will acquire on-lease aircraft.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "During 2024, we declared cash dividends of $121.6 million and $32.8 million on our ordinary shares and preferred shares, respectively.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We pay quarterly cash dividends on our ordinary shares and preferred shares, which are subject to change at the discretion of our Board of Directors.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We believe we have sufficient liquidity to satisfy our cash needs, however, we continue to evaluate and take action, as necessary, to preserve adequate liquidity and ensure that our business can continue to operate during various environments. This includes limiting discretionary spending across the organization and re-prioritizing our investments as necessary.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "On October 9, 2024, we issued $500.0 million aggregate principal amount of senior unsecured notes due 2033. Using a portion of the net proceeds, the Company redeemed the remaining $130.5 million aggregate principal amount of Senior Notes due 2027, plus accrued and unpaid interest. The Company used the remaining net proceeds to pay down in full the Company’s Revolving Credit Facility, with any excess proceeds intended for general corporate purposes, including funding acquisitions and investments.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Cash used for the purpose of making investments was $1,526.2 million, $861.5 million and $831.5 million during the years ended December 31, 2024, 2023, and 2022, respectively.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Distributions to shareholders, including cash dividends, were $154.3 million, $151.6 million and $155.6 million during the years ended December 31, 2024, 2023 and 2022, respectively.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We utilize leverage to finance many of our asset acquisitions, which entitles certain lenders to cash flows prior to retaining a return on our assets. While we target using only what we believe to be reasonable leverage, our strategy does not limit the amount of leverage we may incur with respect to any specific asset.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Although we currently intend to pay regular quarterly dividends to holders of our ordinary shares, we may change our dividend policy at any time. The declaration and payment of dividends to holders of our ordinary shares are at the discretion of our board of directors in accordance with applicable law after taking into account various factors, including actual results of operations, liquidity and financial condition, net cash provided by operating activities, restrictions imposed by applicable law, our taxable income, our operating expenses and other factors our board of directors deem relevant. There can be no assurance that we will continue to pay dividends in amounts or on a basis consistent with prior distributions to our investors, if at all.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The Strategic Capital Initiative enables the Company to maintain an asset-light business model while leveraging partnerships to acquire aircraft at scale, potentially enhancing capital efficiency and growth opportunities through minority investments and management services.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The Company employs a disciplined and selective acquisition strategy with thorough due diligence and risk management, including reasonable leverage, which may optimize returns and support sustainable growth.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            10
+          ]
+        },
+        {
+          "interpretation": "Internalizing management functions eliminates external management fees and incentive distributions, which could improve cost efficiency and align management interests with shareholders.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The Company has demonstrated consistent capital allocation towards acquisitions and dividends, indicating a balanced approach to growth and shareholder returns.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            4,
+            9
+          ]
+        },
+        {
+          "interpretation": "The Company has sufficient liquidity and actively manages its capital structure, including issuing senior notes and redeeming debt, to fund acquisitions and investments, supporting financial flexibility.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Relying on partnerships to acquire aircraft may expose the Company to risks related to conflicts of interest and dependence on third parties for capital deployment and asset management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The use of leverage in acquisitions, while targeted to be reasonable, is not capped, which could increase financial risk and reduce returns if market conditions deteriorate.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            10
+          ]
+        },
+        {
+          "interpretation": "Internalization of management involved significant cash and share payments, which could impact liquidity and shareholder dilution in the short term.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Dividends are discretionary and subject to change by the Board, with no assurance of continuation at prior levels, which may introduce uncertainty for income-focused investors.",
+          "intensity": "High",
+          "source_fact_index": [
+            5,
+            11
+          ]
+        },
+        {
+          "interpretation": "The Company’s liquidity management includes debt issuance and repayment activities that may increase interest costs and financial obligations, potentially impacting cash flows available for other capital uses.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        }
+      ],
+      "dimension": "Capital Allocation & Investment Discipline"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Net cash provided by financing activities increased $399.6 million primarily due to increases in (i) Proceeds from debt of $1,630.2 million and (ii) Receipt of maintenance deposits under operating lease agreements of $19.0 million, partially offset by increases in (iii) Repayment of debt of $1,067.3 million and (iv) Redemption of preferred shares of $105.4 million, a decrease in (v) Proceeds from issuance of preferred shares, net of underwriter's discount and issuance costs of $61.7 million, and increases in (vi) Release of maintenance deposits under operating lease agreements of $6.9 million and (vii) Payment of deferred financing costs of $5.2 million.",
+          "source_section": "10-K - Page 75"
+        },
+        {
+          "statement": "As of December 31, 2024, we had outstanding principal and interest payment obligations of $3.5 billion and $1.4 billion through the maturity date of the debt, respectively, of which only interest payments of $229.8 million are due in the next twelve months.",
+          "source_section": "10-K - Page 75"
+        },
+        {
+          "statement": "During 2024, we declared cash dividends of $121.6 million and $32.8 million on our ordinary shares and preferred shares, respectively.",
+          "source_section": "10-K - Page 75"
+        },
+        {
+          "statement": "We expect to meet our future short-term liquidity requirements through cash on hand, unused borrowing capacity or future financings and net cash provided by our current operations. We expect that our operating subsidiaries will generate sufficient cash flow to cover operating expenses and the payment of principal and interest on our indebtedness as they become due. We may elect to meet certain long-term liquidity requirements or to continue to pursue strategic opportunities through utilizing cash on hand, cash generated from our current operations and the issuance of securities in the future. Management believes adequate capital and borrowings are available from various sources to fund our commitments to the extent required.",
+          "source_section": "10-K - Page 75"
+        },
+        {
+          "statement": "Certain of our assets are currently subject to liens under our third amended and restated revolving credit facility (the “Revolving Credit Facility”). In the event of a default under the Revolving Credit Facility, the lenders thereunder would be permitted to take possession of or sell such assets. In addition, our currently owned assets and assets that we purchase in the future may be subject to other liens based on the industry practices relating to such assets. Until they are discharged, these liens could impair our ability to repossess, re-lease or sell our assets, and to the extent our lessees do not comply with their obligations to discharge any liens on the applicable assets, we may find it necessary to pay the claims secured by such liens in order to repossess such assets. Such payments could materially adversely affect our operating results and growth prospects.",
+          "source_section": "10-K - Page 20"
+        },
+        {
+          "statement": "As of December 31, 2024, we had $3.4 billion of indebtedness outstanding. Our ability to make payments on our indebtedness depends on our ability to generate cash flow in the future. This ability, to a certain extent, is subject to general economic, financial, competitive, legislative, regulatory and other factors that are beyond our control. If we do not generate sufficient free cash flow to satisfy our debt obligations, including interest payments and the payment of principal at maturity, we may have to undertake alternative financing plans, such as refinancing or restructuring our debt, selling assets, reducing or delaying capital investments or seeking to raise additional capital. We cannot provide assurance that any refinancing would be possible, that any assets could be sold, or, if sold, of the timeliness and amount of proceeds realized from those sales, that additional financing could be obtained on acceptable terms, if at all, or that additional financing would be permitted under the terms of our various debt instruments then in effect. Furthermore, our ability to refinance would depend upon the condition of the finance and credit markets. Our inability to generate sufficient free cash flow to satisfy our debt obligations, or to refinance our obligations on commercially reasonable terms or on a timely basis, would materially affect our business, financial condition and results of operations.",
+          "source_section": "10-K - Page 20"
+        },
+        {
+          "statement": "As of September 30, 2025, we had $3.4 billion of indebtedness outstanding. Our ability to make payments on our indebtedness depends on our ability to generate cash flow in the future. This ability, to a certain extent, is subject to general economic, financial, competitive, legislative, regulatory and other factors that are beyond our control. If we do not generate sufficient free cash flow to satisfy our debt obligations, including interest payments and the payment of principal at maturity, we may have to undertake alternative financing plans, such as refinancing or restructuring our debt, selling assets, reducing or delaying capital investments or seeking to raise additional capital. We cannot provide assurance that any refinancing would be possible, that any assets could be sold, or, if sold, of the timeliness and amount of proceeds realized from those sales, that additional financing could be obtained on acceptable terms, if at all, or that additional financing would be permitted under the terms of our various debt instruments then in effect. Furthermore, our ability to refinance would depend upon the condition of the finance and credit markets. Our inability to generate sufficient free cash flow to satisfy our debt obligations, or to refinance our obligations on commercially reasonable terms or on a timely basis, would materially affect our business, financial condition and results of operations.",
+          "source_section": "10-Q - Page 77"
+        },
+        {
+          "statement": "We expect to meet our future short-term liquidity requirements through cash on hand, unused borrowing capacity or future financings and net cash provided by our current operations.",
+          "source_section": "10-K - Page 75"
+        },
+        {
+          "statement": "We have used and may continue to employ leverage to finance our operations. Accordingly, our ability to successfully execute our business strategy and maintain our operations depends on the availability and cost of debt and equity capital. Additionally, our ability to borrow against our assets is dependent, in part, on the appraised value of such assets. If the appraised value of such assets declines, we may be required to reduce the principal outstanding under our debt facilities or otherwise be unable to incur new borrowings. We can give no assurance that the capital we need will be available to us on favorable terms, or at all. Our inability to obtain sufficient capital, or to renew or expand our credit facilities, could result in increased funding costs and would limit our ability to: meet the terms and maturities of our existing and future debt facilities; purchase new assets or refinance existing assets; fund our working capital needs and maintain adequate liquidity; and finance other growth initiatives.",
+          "source_section": "10-Q - Page 89"
+        },
+        {
+          "statement": "Our determination of how much leverage to use to finance our acquisitions may adversely affect our return on our assets and may reduce funds available for distribution. We utilize leverage to finance many of our asset acquisitions, which entitles certain lenders to cash flows prior to retaining a return on our assets. While we target using only what we believe to be reasonable leverage, our strategy does not limit the amount of leverage we may incur with respect to any specific asset. The return we are able to earn on our assets and funds available for distribution to our shareholders may be significantly reduced due to changes in market conditions, which may cause the cost of our financing to increase relative to the income that can be derived from our assets.",
+          "source_section": "10-K - Page 43"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has demonstrated active management of its financing activities, with significant proceeds from debt issuance ($1.63 billion) exceeding repayments ($1.07 billion), indicating access to capital markets and ability to raise funds to support operations and growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "With only $229.8 million of interest payments due in the next twelve months against total debt obligations of $3.5 billion, the company has manageable near-term debt servicing requirements, supporting liquidity and operational stability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Management believes adequate capital and borrowings are available from various sources to fund commitments, and expects operating subsidiaries to generate sufficient cash flow to cover expenses and debt payments, indicating confidence in liquidity and funding access.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            7
+          ]
+        },
+        {
+          "interpretation": "The company maintains dividend payments on ordinary and preferred shares, reflecting ongoing cash flow generation and financial health to support shareholder returns.",
+          "intensity": "Low",
+          "source_fact_index": [
+            2
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company has substantial outstanding indebtedness ($3.4 billion) and significant contractual obligations, which depend heavily on future cash flow generation that is subject to economic, regulatory, and competitive risks beyond the company's control.",
+          "intensity": "High",
+          "source_fact_index": [
+            5,
+            6
+          ]
+        },
+        {
+          "interpretation": "Assets are subject to liens under the revolving credit facility, and in the event of default, lenders could take possession or sell assets, potentially impairing the company's ability to repossess, re-lease, or sell assets, which could materially adversely affect operating results and growth prospects.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The company acknowledges risks related to refinancing its debt, including uncertainty about the availability and terms of future financing, which could materially affect business, financial condition, and results of operations if refinancing is not achieved on commercially reasonable terms or timely basis.",
+          "intensity": "High",
+          "source_fact_index": [
+            5,
+            6
+          ]
+        },
+        {
+          "interpretation": "The company's reliance on leverage to finance acquisitions exposes it to risks that changes in market conditions could increase financing costs relative to income from assets, reducing returns and funds available for distribution to shareholders.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        },
+        {
+          "interpretation": "The company may face limitations in borrowing capacity if appraised asset values decline, which could restrict its ability to incur new borrowings or refinance existing debt, potentially constraining liquidity and growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8
+          ]
+        }
+      ],
+      "dimension": "Balance Sheet Strength & Liquidity"
+    },
+    {
+      "facts": [
+        {
+          "statement": "New or expanded platforms with new technologies typically carry risks associated with design responsibility, development of new production tools, hiring and training of qualified personnel, increased capital and funding commitments, ability to meet customer specifications, delivery schedules and unique contractual requirements, supplier performance, subcontractor performance, ability of the lessee to meet its contractual obligations to us, and our ability to accurately estimate costs associated with such platforms. We may face financial risks in connection with new or expanded platforms or technologies if we are not able to reduce the costs of these products over time, through experience and other measures, including the introduction of new designs, technologies, manufacturing methods and suppliers. In addition, any new or expanded platform may not generate sufficient demand or may experience technological problems or significant delays in the regulatory certification or manufacturing and delivery schedule. If we were unable to perform our obligations under new or expanded platforms to the customer’s satisfaction or expectations or manufacture products at our estimated costs, if we were to experience unexpected fluctuations in raw material prices or other fluctuations in supplier costs leading to cost overruns, if we were unable to successfully perform under revised design and manufacturing plans or successfully and equitably resolve claims and assertions, or if a new or expanded platform in which we had made a significant investment was terminated or experienced weak demand, delays or technological problems, our business, financial condition and results of operations could be adversely affected.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "To perform on new or expanded platforms, we may be required to construct or acquire new facilities, requiring additional up-front investment costs. In the case of significant platform delays and/or platform cancellations, we could be required to bear certain unrecoverable construction and maintenance costs and incur potential impairment charges for the new facilities. We also may need to expend additional resources to determine an alternate revenue generating use for the facilities. Likewise, significant delays in the construction or acquisition of a plant site could impact production schedules.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The failure to effectively complete the transition of these services to a fully internal basis, efficiently manage the transition with the Former Manager or find adequate internal replacements for these services, could impede our ability to achieve the targeted cost savings of the Internalization and adversely affect our operations. In addition, complexities arising from the Internalization could increase our overhead costs and detract from management’s ability to focus on operating our business.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We remain reliant on the Former Manager during the period of the Transition Services Agreement, and the loss of these transition services could adversely affect our operations. We are subject to the risk that the Former Manager will default on its obligation to provide the transition services to which we are entitled under the Transition Services Agreement, or that we or the Former Manager will terminate the Transition Services Agreement pursuant to its termination provisions, and that we will not be able to find a suitable replacement for the transition services provided under the Transition Services Agreement in a timely manner, at a reasonable cost or at all. In addition, the Former Manager’s liability to us if it defaults on its obligation to provide transition services to us during the transition period is limited by the terms of the Transition Services Agreement, and we may not recover the full cost of any losses related to such a default. We may also be adversely affected by operational risks, including cybersecurity attacks, that could disrupt the Former Manager’s financial, accounting and other data processing systems during the period of the transition services.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Projects in the aerospace products and services sector are exposed to unplanned interruptions caused by breakdown or failure of equipment, aging infrastructure, employee error or contractor or subcontractor failure, limitations that may be imposed by equipment conditions or environmental, safety or other regulatory requirements, fuel supply or fuel transportation reductions or interruptions, labor or legal disputes, difficulties with the implementation or operation of information systems, power outages, pipeline or electricity line ruptures, catastrophic events, such as hurricanes, cyclones, earthquakes, landslides, floods, explosions, fires, or other disasters. Any equipment or system outage or constraint can, among other things, reduce sales, increase costs and affect the ability to meet regulatory service metrics, customer expectations and regulatory reliability and security requirements. Operational disruption, as well as supply disruption, and increased government oversight could adversely impact the cash flows available from these assets. In addition, the cost of repairing or replacing damaged assets could be considerable. Repeated or prolonged interruption may result in temporary or permanent loss of customers, substantial litigation or penalties for regulatory or contractual non-compliance, and any loss from such events may not be recoverable under relevant insurance.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Uncertainty and negative trends in general economic conditions in the United States and abroad, including significant tightening of credit markets and commodity price volatility, historically have created difficult operating environments for owners and operators in the aviation industry. As a provider of products and services to the commercial aviation industry, we are greatly affected by the overall economic conditions and other trends that affect our customers and lessees in that industry, including any projected market growth that may not materialize or be sustainable. The commercial aviation industry is historically cyclical and has been negatively affected in the past, and could be negatively affected in future periods, by geopolitical events, natural disasters, pandemics, supply chain disruptions, labor issues, environmental concerns (including climate change), lack of capital, cost inflation, and weak economic conditions.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Approximately 68% of our workforce in Canada is covered by collective bargaining agreements. We have not encountered any significant union-related work stoppages and maintain satisfactory relationships with our employees and labor unions.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s acknowledgment of risks related to new or expanded platforms indicates a proactive approach to managing complex operational challenges, including design, production, and supplier coordination, which could lead to improved efficiencies and innovation over time.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Investments in new facilities and infrastructure, despite potential delays or cancellations, demonstrate the company’s commitment to scaling operations and meeting future demand, which could enhance production capacity and revenue generation.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The structured Transition Services Agreement with the Former Manager provides a clear framework for service continuity during internalization, potentially enabling a smooth operational transition and cost savings realization.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            3
+          ]
+        },
+        {
+          "interpretation": "The company’s awareness and disclosure of potential operational interruptions and their impacts suggest preparedness and risk management strategies that could mitigate adverse effects and maintain service reliability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The company’s recognition of macroeconomic and industry-specific challenges reflects an understanding of external factors, which could allow for strategic adjustments to maintain resilience and capitalize on market recoveries.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Maintaining satisfactory labor relations and a significant portion of the workforce covered by collective bargaining agreements indicates workforce stability and potentially lower risk of labor disruptions.",
+          "intensity": "Low",
+          "source_fact_index": [
+            6
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The extensive risks associated with new or expanded platforms, including design, production, supplier, and cost estimation challenges, could lead to significant operational failures, cost overruns, and loss of customer satisfaction, adversely affecting financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Delays or cancellations in new facility construction or acquisition could result in unrecoverable costs and impair production schedules, negatively impacting operational capacity and financial performance.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Dependence on the Former Manager for transition services poses risks of service disruption, increased overhead, and management distraction, which could hinder operational efficiency and cost savings from internalization.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            3
+          ]
+        },
+        {
+          "interpretation": "Exposure to unplanned operational interruptions from equipment failures, natural disasters, labor disputes, and other disruptions could cause significant sales reductions, increased costs, regulatory penalties, and potential loss of customers.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Macroeconomic uncertainties, including tightening credit markets, commodity price volatility, and cyclical industry downturns, may reduce demand, cause contract non-performance, and limit capital availability, adversely affecting operations and financial condition.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Although labor relations are currently satisfactory, the significant coverage by collective bargaining agreements could pose risks of future labor disputes or work stoppages that may disrupt operations.",
+          "intensity": "Low",
+          "source_fact_index": [
+            6
+          ]
+        }
+      ],
+      "dimension": "Operational & Supply Chain Risks"
+    },
+    {
+      "facts": [
+        {
+          "statement": "changes in economic conditions generally and specifically in our industry sectors, and other risks relating to the global economy, including, but not limited to, the Russia-Ukraine conflict, and any related responses or actions by businesses and governments;",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Uncertainty relating to macroeconomic conditions, including those that affect the commercial aviation industry, may reduce the demand for our assets, result in non-performance of contracts by our lessees or charterers, limit our ability to obtain additional capital to finance new investments, or have other unforeseen negative effects.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Uncertainty and negative trends in general economic conditions in the United States and abroad, including significant tightening of credit markets and commodity price volatility, historically have created difficult operating environments for owners and operators in the aviation industry.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The commercial aviation industry is historically cyclical and has been negatively affected in the past, and could be negatively affected in future periods, by geopolitical events, natural disasters, pandemics, supply chain disruptions, labor issues, environmental concerns (including climate change), lack of capital, cost inflation, and weak economic conditions.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "A number of governments have implemented, or are considering implementing, a broad variety of governmental actions or new regulations for the financial markets.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Instability in geographies where we have assets or where we derive revenue could have a material adverse effect on our business, customers, lessees, operations and financial results.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Various countries in which we operate are experiencing and may continue to experience military action and civil and political unrest. We have assets in the emerging market economies of Eastern Europe, including some assets in Russia. In late February 2022, Russian military forces launched significant military action against Ukraine. The conflict remains ongoing and sustained conflict and disruption in the region is likely.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The impact to Russia and Ukraine, as well as actions taken by other countries, including new and stricter export controls and sanctions by Canada, the United Kingdom, the European Union, the U.S. and other countries and organizations against officials, individuals, regions, and industries in Russia and Ukraine, and each country’s potential response to such sanctions, tensions and military actions, could have a material adverse effect on our business and delay or prevent us from accessing certain of our assets.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We may make acquisitions in emerging markets throughout the world, and investments in emerging markets are subject to greater risks than developed markets and could adversely affect our business, prospects, financial condition, results of operations and cash flows.",
+          "source_section": "10-Q Item 1A"
+        },
+        {
+          "statement": "Emerging market countries have less developed economies and infrastructure and are often more vulnerable to economic and geopolitical challenges and may experience significant fluctuations in gross domestic product, interest rates and currency exchange rates, as well as civil disturbances, government instability, nationalization and expropriation of private assets and the imposition of taxes or other charges by government authorities.",
+          "source_section": "10-Q Item 1A"
+        },
+        {
+          "statement": "In addition, the currencies in which investments are denominated may be unstable, may be subject to significant depreciation and may not be freely convertible or may be subject to the imposition of other monetary or fiscal controls and restrictions.",
+          "source_section": "10-Q Item 1A"
+        },
+        {
+          "statement": "Emerging markets are still in relatively early stages of their development and accordingly may not be highly or efficiently regulated. Moreover, emerging markets tend to be shallower and less liquid than more established markets which may adversely affect our ability to realize profits from our assets in emerging markets when we desire to do so or receive what we perceive to be their fair value in the event of a realization.",
+          "source_section": "10-Q Item 1A"
+        },
+        {
+          "statement": "Economic instability in emerging markets could adversely affect the value of our assets subject to leases in such countries, or the ability of our lessees, which operate in these markets, to meet their contractual obligations. As a result, lessees that operate in emerging market countries may be more likely to default under their contractual obligations than those that operate in developed countries.",
+          "source_section": "10-Q Item 1A"
+        },
+        {
+          "statement": "Liquidity and volatility limitations in these markets may also adversely affect our ability to dispose of our assets at the best price available or in a timely manner.",
+          "source_section": "10-Q Item 1A"
+        },
+        {
+          "statement": "The impact of trade disputes, including the imposition of new or increased tariffs, sanctions or other restrictions, and the legislative/regulatory environment and exposure to increased economic regulation;",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Actions taken by national, state, or provincial governments, including nationalization, or the imposition of new taxes, could materially impact the financial performance or value of our assets;",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Exposure to environmental risks, including natural disasters, increasing environmental legislation and the broader impacts of climate change;",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Changes in interest rates and/or credit spreads, as well as the success of any hedging strategy we may undertake in relation to such changes;",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Foreign currency risk and risk management activities;",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s awareness and disclosure of macroeconomic and geopolitical risks, including the Russia-Ukraine conflict and global economic conditions, demonstrate a comprehensive risk management approach that could help the company navigate and adapt to changing environments effectively.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1,
+            2,
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The company’s active evaluation of acquisitions in emerging markets, despite the risks, indicates potential for growth and diversification into new geographic areas that may offer higher returns.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8
+          ]
+        },
+        {
+          "interpretation": "The company’s recognition of regulatory and policy changes, including trade disputes, tariffs, and environmental legislation, suggests it is positioned to comply with evolving requirements, potentially maintaining operational continuity and market access.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "interpretation": "The company’s identification of interest rate and foreign currency risks and mention of risk management activities imply proactive financial risk mitigation strategies that could stabilize earnings and cash flows.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            17,
+            18
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company faces significant exposure to macroeconomic uncertainties and geopolitical conflicts, such as the ongoing Russia-Ukraine war, which could materially disrupt operations, reduce asset demand, and impair access to assets in affected regions.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1,
+            2,
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "Investments and acquisitions in emerging markets expose the company to heightened risks including economic instability, currency depreciation, political unrest, and less developed regulatory environments, which could adversely affect financial results and asset values.",
+          "intensity": "High",
+          "source_fact_index": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "interpretation": "The company is vulnerable to adverse impacts from trade disputes, increased tariffs, sanctions, nationalization, new taxes, and environmental regulations, any of which could materially affect asset values and financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "interpretation": "Exposure to fluctuations in interest rates and foreign currency exchange rates, if not effectively hedged, could increase financing costs and reduce net income, thereby negatively impacting cash flows and financial stability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            17,
+            18
+          ]
+        }
+      ],
+      "dimension": "Market, Macro & Regulatory Exposure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "On May 28, 2024, the Company entered into the Internalization Agreement with the Former Manager and Master GP. Pursuant to the Internalization Agreement, the Management Agreement was terminated effective May 28, 2024, except that certain indemnification and other obligations survive, and the Company was no longer required to pay management fees or incentive distributions with respect to any period thereafter. As a result of the Internalization, the Company ceased to be externally managed and operates as an internally managed company.",
+          "source_section": "10-K - Page 89"
+        },
+        {
+          "statement": "In connection with the termination of the Management Agreement, the Company (i) agreed to pay the Former Manager (for itself and on behalf of the Master GP, as applicable) $150.0 million (the “Cash Consideration”), the compensation accrued and payable, but not yet paid, under the Management Agreement, and the expenses that were reimbursable, but not yet reimbursed, under the Management Agreement; (ii) issued to the Former Manager (for itself and on behalf of the Master GP, as applicable) 1,866,949 ordinary shares of the Company (the “Share Consideration”); and (iii) purchased from Master GP all of its partnership interests in FTAI Aviation Holdco Ltd., a subsidiary of the Company, in exchange for $30 thousand.",
+          "source_section": "10-K - Page 89"
+        },
+        {
+          "statement": "On May 28, 2024, the Company also entered into a Transition Services Agreement (the “Transition Services Agreement”) with the Former Manager. Under the Transition Services Agreement, the Former Manager was required to continue to provide the Company and its affiliates with all of the services provided by the Former Manager to the Company and its affiliates immediately prior to May 28, 2024 (the “Services”) for a transition period until October 31, 2024, during which the Company procured replacements for the Services. The Services were provided to the Company for a fee equal to the Former Manager’s cost of providing the Services, plus a mark-up of ten percent (10%). In addition, the Former Manager is required to continue to provide the services that are reasonably required by the Company to prepare its quarterly and annual financial statements until May 31, 2025.",
+          "source_section": "10-K - Page 89"
+        },
+        {
+          "statement": "In connection with the Internalization and termination of the Management Agreement, the Company agreed to pay a total of $300.0 million to its Former Manager (for itself and on behalf of the Master GP, as applicable). At closing, the Company issued 1,866,949 ordinary shares valued at $150.0 million. The remaining balance was paid in cash on June 17, 2024. The restructuring charge paid in connection with the Internalization and termination of the Management Agreement is reflected in Internalization Fee to Affiliate expense in the Consolidated Statements of Operations for the year ended December 31, 2024.",
+          "source_section": "10-K - Page 127"
+        },
+        {
+          "statement": "On December 30, 2024, the Company announced the launch of a Strategic Capital Initiative in collaboration with third-party institutional investors. The first partnership under the initiative, the 2025 Partnership, focuses on acquiring 737NG and A320ceo aircraft. The Strategic Capital Initiative, and its related partnerships, allow us to maintain an asset-light business model while the partnerships actively acquire on-lease narrowbody aircraft at scale. The 2025 Partnership, and follow-on partnerships, will be the primary buyer of on-lease 737NG and A320ceo aircraft. We provide aircraft management services to the 2025 Partnership, and the Company receives customary, market-based compensation for providing such services. The Company has also made a minority investment and will make future investments in the 2025 Partnership. We expect to provide aircraft management services to, and make minority investments in, future partnerships.",
+          "source_section": "10-Q - Page 77"
+        },
+        {
+          "statement": "Our Strategic Capital Initiative is subject to certain risks, which include, but are not limited to: Market Risk. Difficult market conditions may adversely affect our Strategic Capital Initiative in many ways, including by negatively impacting the 2025 Partnership and future partnerships’ ability to raise or deploy capital, lowering management fee income and incentive income, increasing the cost of financial instruments and executing transactions.",
+          "source_section": "10-Q - Page 77"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The Internalization Agreement and termination of the external Management Agreement allow the Company to operate as an internally managed entity, potentially reducing management fees and incentive distributions, which could improve operational efficiency and profitability.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The Strategic Capital Initiative enables the Company to maintain an asset-light business model while leveraging partnerships to acquire on-lease narrowbody aircraft at scale, potentially expanding the Company's market presence and revenue streams through management services and minority investments.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The termination of the Management Agreement required a significant restructuring charge of $300 million, including cash and share payments, which could materially impact the Company's financial condition and results of operations.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The Strategic Capital Initiative faces market risks such as difficult market conditions that may negatively impact the partnerships’ ability to raise or deploy capital, reduce management fee and incentive income, and increase costs, which could adversely affect the Company's financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        }
+      ],
+      "dimension": "Management Strategy & Execution"
+    }
+  ]
+}

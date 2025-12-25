@@ -1,0 +1,32 @@
+================================================================================
+USAGE METRICS & COST SUMMARY - LSCC
+Generated: 2025-12-25T12:25:27.415433
+================================================================================
+
+API CALLS:
+  • LLM Calls (Chat):        10
+  • Embedding Calls:         9
+  • Total API Calls:         19
+
+TOKEN USAGE:
+  • Prompt Tokens:           134,239
+  • Completion Tokens:       19,186
+  • Embedding Tokens:        60,322
+  • Total LLM Tokens:        153,425
+  • Grand Total Tokens:      213,747
+
+EXECUTION TIME:
+  • Total Duration:          3m 17s (197.6s)
+  • Avg per LLM Call:        19.8s
+
+ESTIMATED COST (Azure OpenAI):
+  • LLM Input:               $0.0403
+  • LLM Output:              $0.0230
+  • Embeddings:              $0.0012
+  • TOTAL COST:              $0.0645
+
+EFFICIENCY METRICS:
+  • Embedding Cache Hits:    635 unique texts cached
+  • Tokens per LLM Call:     15342 avg
+  • Cost per LLM Call:       $0.0063 avg
+================================================================================

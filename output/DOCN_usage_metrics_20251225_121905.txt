@@ -1,0 +1,32 @@
+================================================================================
+USAGE METRICS & COST SUMMARY - DOCN
+Generated: 2025-12-25T12:19:05.497380
+================================================================================
+
+API CALLS:
+  • LLM Calls (Chat):        11
+  • Embedding Calls:         10
+  • Total API Calls:         21
+
+TOKEN USAGE:
+  • Prompt Tokens:           130,894
+  • Completion Tokens:       21,036
+  • Embedding Tokens:        91,783
+  • Total LLM Tokens:        151,930
+  • Grand Total Tokens:      243,713
+
+EXECUTION TIME:
+  • Total Duration:          4m 27s (267.5s)
+  • Avg per LLM Call:        24.3s
+
+ESTIMATED COST (Azure OpenAI):
+  • LLM Input:               $0.0393
+  • LLM Output:              $0.0252
+  • Embeddings:              $0.0018
+  • TOTAL COST:              $0.0663
+
+EFFICIENCY METRICS:
+  • Embedding Cache Hits:    452 unique texts cached
+  • Tokens per LLM Call:     13812 avg
+  • Cost per LLM Call:       $0.0059 avg
+================================================================================

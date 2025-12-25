@@ -1,0 +1,1206 @@
+{
+  "upside_thesis_summary": "• The company’s focus on exceptional customer service, broad product offerings, and competitive pricing, combined with a skilled local sales force advising homebuilders on cost reduction and efficiency, positions it to build strong customer relationships and generate new business.\n• The fragmented market presents substantial acquisition opportunities, and the company’s proven ability to integrate acquisitions and expand product offerings allows it to quickly scale and leverage local customer relationships, enhancing competitive positioning.\n• The national manufacturing footprint and emphasis on higher margin value-added products address growing demand for efficient homebuilding solutions, enabling the company to capture above-market growth and become a preferred distributor for large and custom homebuilders.\n• The company maintains a strong liquidity position with $2.1 billion available from cash and borrowing capacity, and no outstanding borrowings under its Revolving Facility as of September 30, 2025, providing financial flexibility.\n• The company’s disciplined capital allocation strategy, including a focus on strategic acquisitions in fragmented markets and a history of significant share repurchases, suggests a proactive approach to growth, value creation, and shareholder returns.",
+  "downside_thesis_summary": "• The highly fragmented and competitive nature of the market, with low barriers to entry, means the company faces ongoing competition from local, regional, and national players, which could pressure margins and market share.\n• The company’s growth strategy depends heavily on successful acquisitions and integration; failure to identify suitable acquisition targets or to integrate them effectively could limit growth and adversely affect financial performance.\n• The company’s exposure to unstable global economic conditions and geopolitical conflicts, including unpredictable impacts on commodity and energy prices, supply chains, and financial markets, poses significant risks that could materially harm business operations and financial condition.\n• The company’s gross margins are negatively impacted by shifts in sales mix towards lower margin segments such as large single-family homebuilders and commodity lumber products, coupled with recent margin compression and increased operating expenses, which could pressure profitability.\n• Failure to attract and retain key employees, including senior management, combined with labor shortages and potential unionization, could impair execution of business plans, increase operating costs, and reduce revenue.",
+  "raw_dimensions": [
+    {
+      "facts": [
+        {
+          "statement": "Our strategy is to attract and retain customers through exceptional customer service, leading product quality, broad product and service offerings, and competitive pricing. This strategy is centered on building and maintaining strong customer relationships rather than traditional marketing and advertising. We strive to add value for the homebuilders through shorter lead times, lower total project costs, faster project completion and higher quality.",
+          "source_section": "10-K - Page 12"
+        },
+        {
+          "statement": "Our experienced, locally focused sales force is at the core of our sales effort. This sales effort involves deploying salespeople who are skilled in housing construction to meet with a homebuilder’s construction superintendent, local purchasing agent, or local executive with the goal of becoming their primary product supplier. If selected by the homebuilder, the salesperson and his or her team review blueprints for the contracted homes and advise the homebuilder in areas, such as opportunities for cost reduction, increased energy efficiencies, and regional aesthetic preferences.",
+          "source_section": "10-K - Page 12"
+        },
+        {
+          "statement": "The highly fragmented nature of the Pro Segment of the U.S. residential new construction building products supply market presents substantial acquisition opportunities. Our long-term acquisition strategy is focused on pursuing potential acquisitions that present opportunities to add manufacturing capabilities in a relatively short period of time, or that provide opportunities to advance our position in desirable geographies or key product segments. We believe that our proven operating model can be successfully adapted to these markets and where homebuilders, many of whom we currently serve elsewhere, would value our broad product and service offering, professional expertise, and superior customer service.",
+          "source_section": "10-K - Page 12"
+        },
+        {
+          "statement": "When entering a new market, our strategy is to acquire market-leading distributors and subsequently expand their product offerings or add manufacturing facilities while integrating their operations into our centralized platform. This strategy allows us to quickly achieve the scale required to better serve our customers and leverage existing customer relationships in the local market.",
+          "source_section": "10-K - Page 12"
+        },
+        {
+          "statement": "We have successfully integrated over 75 acquisitions since 1998, including the company-transforming BMC and ProBuild transactions.",
+          "source_section": "10-K - Page 12"
+        },
+        {
+          "statement": "Our national manufacturing footprint and differentiated capabilities will allow us to capture growth in our higher margin value-added products, including trusses, wall panels and millwork. We believe our value-added products address the growing demand for ways to build homes more efficiently, addressing labor constraints and rising costs.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "By focusing on our differentiated platform and broad product mix, we are able to offer a complete array of products and services that would otherwise need to be sourced from various distributors, providing us an opportunity to capture a greater share of wallet. This operational platform often will make us a preferred distributor for large-scale national homebuilders as well as local and custom homebuilders looking for more efficient ways to build a home.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "We have also made significant investments in digital solutions that we believe position us to take advantage of long-term digitization trends in the homebuilding and remodel industries. We believe that customers continue to place an increased value on these capabilities, which further differentiates us from our competitors.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "Our comprehensive product offering, experienced sales force, strong strategic vendor relationships, location coverage in important markets, and tenured senior management team position us well to capitalize on demand in the new home construction market and the repair and remodel segment.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "Our large delivery fleet, professional drivers, well-positioned locations, and comprehensive inventory management enable us to provide “just-in-time” product delivery, ensuring a smoother and faster production cycle for the homebuilder. Our comprehensive network of products, services and facilities provides a strategically advantaged service model which enhances our value to our customers and provides a strong platform to drive growth.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "We continue to focus on standardizing and automating processes and technology-based workflows to minimize costs, streamline our operations and enhance working capital efficiency. We are implementing operational excellence initiatives that are designed to further improve efficiency, as well as customer service. These initiatives, including distribution and logistics, pricing and margin management, back-office efficiencies, customer integration and systems-enabled process improvements, should yield significant cost savings.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "The building products supply industry is highly fragmented and competitive. We face, and will continue to face, significant competition from local, regional and other national building materials chains, as well as from privately-owned single site enterprises and new entrants into the market, due to the low barrier to, and cost of, entry.",
+          "source_section": "10-K - Page 20"
+        },
+        {
+          "statement": "Our success depends in part on our ability to attract, hire, train and retain qualified managerial, operational, sales and other personnel. We face significant competition for these types of employees in our industry and from other industries. We may be unsuccessful in attracting and retaining the personnel we require to conduct and expand our operations successfully.",
+          "source_section": "10-K - Page 26"
+        },
+        {
+          "statement": "We have a broad network of distribution and manufacturing facilities in 43 states throughout the U.S. Based on available 2024 U.S. Census data, we have operations in 48 of the top 50 and 91 of the top 100 U.S. MSAs, as ranked by single family housing permits in 2024.",
+          "source_section": "10-K - Page 44"
+        },
+        {
+          "statement": "We own approximately 190 actively operating facilities, including our recent acquisition of Alpine Lumber, and contractually lease 400 actively operating facilities. These leases typically have an initial lease term of five to 15 years and most provide options to renew for specified periods of time.",
+          "source_section": "10-K - Page 44"
+        },
+        {
+          "statement": "Through our emphasis on local market flexibility and strategically placed locations, we minimize shipping and freight costs while maintaining a high degree of local market expertise. Through knowledge of local homebuilder needs, customer coordination and rapid restocking ability, we reduce working capital requirements and improve customer service.",
+          "source_section": "10-K - Page 44"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company's focus on exceptional customer service, broad product offerings, and competitive pricing, combined with a skilled local sales force that advises homebuilders on cost reduction and efficiency, positions it to build strong customer relationships and generate new business.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1
+          ]
+        },
+        {
+          "interpretation": "The fragmented market presents substantial acquisition opportunities, and the company's proven ability to integrate acquisitions and expand product offerings allows it to quickly scale and leverage local customer relationships, enhancing competitive positioning.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "interpretation": "The national manufacturing footprint and focus on higher margin value-added products address growing demand for efficient homebuilding solutions, enabling the company to capture above-market growth and become a preferred distributor for large and custom homebuilders.",
+          "intensity": "High",
+          "source_fact_index": [
+            5,
+            6
+          ]
+        },
+        {
+          "interpretation": "Significant investments in digital solutions and operational excellence initiatives improve efficiency, customer service, and cost management, which can yield substantial cost savings and further differentiate the company from competitors.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7,
+            10
+          ]
+        },
+        {
+          "interpretation": "A comprehensive network of products, services, facilities, and a large delivery fleet enables just-in-time delivery and a strategically advantaged service model, enhancing value to customers and supporting growth.",
+          "intensity": "High",
+          "source_fact_index": [
+            8,
+            9
+          ]
+        },
+        {
+          "interpretation": "The company's extensive geographic footprint with operations in most top U.S. metropolitan areas, combined with ownership and long-term leases of numerous facilities, supports local market flexibility and efficient distribution, reducing costs and improving customer service.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            13,
+            14,
+            15
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company's reliance on building strong customer relationships through a local sales force and advisory services may be challenged if competitors develop superior products or services or if customer preferences shift, potentially impacting sales growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0,
+            1,
+            11
+          ]
+        },
+        {
+          "interpretation": "The highly fragmented and competitive nature of the market, with low barriers to entry, means the company faces ongoing competition from local, regional, and national players, which could pressure margins and market share.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            11
+          ]
+        },
+        {
+          "interpretation": "The company's growth strategy depends heavily on successful acquisitions and integration; failure to identify suitable acquisition targets or to integrate them effectively could limit growth and adversely affect financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "interpretation": "Dependence on a broad network of facilities and a large delivery fleet requires significant capital and operational management; disruptions or inefficiencies in these areas could increase costs and reduce service levels.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "interpretation": "The company faces significant competition for qualified employees, and failure to attract and retain key personnel could impair execution of business strategies and negatively impact financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            12
+          ]
+        },
+        {
+          "interpretation": "Operational excellence and digital initiatives require ongoing investment and successful implementation; failure to realize anticipated benefits or to keep pace with competitors' technology could result in lost market share or inefficiencies.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7,
+            10
+          ]
+        }
+      ],
+      "dimension": "Business Model & Competitive Position"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Our long-term strategy depends in part on growing our sales of prefabricated components and other value-added products, increasing our market share, and implementing various initiatives to increase our operational efficiency, improve our margins, optimize our pricing strategies, and streamline the customer experience.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our long-term business plan also provides for continued growth through strategic acquisitions and organic growth through the construction of new facilities or the expansion of existing facilities.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Through September 30, 2025, we have completed the acquisitions of Alpine Lumber, Cluss Lumber, Truckee Tahoe, and St. George Truss for an aggregate purchase price of approximately $910.8 million, net of cash acquired. Among other opportunities, these acquisitions further expand our market footprint and provide additional operations in our value-added product categories and allow us to better serve our customers in these markets.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "Homebuilders are increasingly using prefabricated components in order to realize increased efficiency, overcome skilled construction labor shortages and improve quality. Shortening cycle times from start to completion is a key imperative of the homebuilders during periods of strong consumer demand. As the availability of skilled construction labor remains limited, we continue to see the demand for prefabricated components increasing within the residential new construction market.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The homebuilding industry continues to undergo consolidation, and the larger homebuilders continue to increase their market share. We expect that trend to continue as larger homebuilders have better liquidity and land positions relative to the smaller, less capitalized homebuilders. Our focus is on maintaining relationships and market share with these customers while balancing the competitive pressures we face in servicing large homebuilders with certain profitability expectations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We have also expanded our operational footprint in the multi-family and light commercial markets to position us for further growth in these end markets.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our contracts with most of our professional customers typically provide that we supply particular products or services for a certain period of time when and if ordered by the customer. Should our customers purchase our products in significantly lower quantities than they have in the past, such decreased purchases could have a material adverse effect on our financial condition, operating results and cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We have historically experienced, and in the future will continue to experience, variability in revenues, earnings and cash flows on a quarterly basis. The factors expected to contribute to this variability include, among others: (1) the volatility of prices of lumber, wood products and other building products, (2) the cyclical nature of the homebuilding industry, (3) general economic conditions in the markets that we serve, (4) the intense competition in the industry, including expansion and growth strategies by competitors, (5) the production schedules of our customers and suppliers, (6) the effects of the weather and (7) labor costs, labor shortages and available capacity to meet customer demand for our products.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Home affordability can be a key driver in demand for our products and home prices have increased meaningfully over the past several years. Home affordability is influenced by a number of economic factors, such as the level of employment, consumer confidence, consumer income, supply of houses, the availability of financing and interest rates. Changes in the inventory of available homes as well as economic factors relative to home prices may result in homes becoming less affordable. Furthermore, consumer preferences could shift to smaller homes in the future. This could cause homebuyer demand to soften or shift substantially which could have an adverse impact on our financial condition, operating results and cash flows if we are unable to respond to the new market demands effectively.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We believe our value-added products address the growing demand for ways to build homes more efficiently, addressing labor constraints and rising costs. We plan to accelerate this growth by further expanding our national manufacturing footprint to serve locations that do not currently have adequate access to these higher margin products.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Our customers continue to emphasize the importance of local access, competitive pricing, a broad product portfolio, sales force knowledge, labor-saving manufactured products, on-site services and overall “ease of use” with their building products suppliers. Our comprehensive product offering, experienced sales force, strong strategic vendor relationships, location coverage in important markets, and tenured senior management team position us well to capitalize on demand in the new home construction market and the repair and remodel segment.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "We have also made significant investments in digital solutions that we believe position us to take advantage of long-term digitization trends in the homebuilding and remodel industries. We believe that customers continue to place an increased value on these capabilities, which further differentiates us from our competitors.",
+          "source_section": "10-K Item 1"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s strategic focus on growing sales of prefabricated components and value-added products, supported by acquisitions and expansion of manufacturing footprint, indicates strong potential for revenue growth and market share gains.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1,
+            2,
+            9
+          ]
+        },
+        {
+          "interpretation": "Increasing demand for prefabricated components driven by labor shortages and efficiency needs in homebuilding suggests sustained customer demand and market expansion opportunities.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The company’s emphasis on maintaining relationships with large, consolidating homebuilders and expanding into multi-family and light commercial markets positions it well to capture growth in these segments.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4,
+            5
+          ]
+        },
+        {
+          "interpretation": "Investments in digital solutions and operational excellence initiatives enhance the company’s competitive differentiation and ability to meet evolving customer needs, potentially driving increased sales and customer loyalty.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            11,
+            12
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company’s reliance on customers ordering products on a discretionary basis with contracts that do not guarantee purchase volumes creates uncertainty and risk of significant revenue declines if customer demand decreases.",
+          "intensity": "High",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "Revenue and earnings variability due to factors such as commodity price volatility, cyclical homebuilding industry, economic conditions, competition, weather, and labor shortages may lead to inconsistent financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            7
+          ]
+        },
+        {
+          "interpretation": "Changes in home affordability and consumer preferences, including shifts toward smaller homes, could soften or shift demand substantially, adversely impacting financial results if the company cannot adapt effectively.",
+          "intensity": "High",
+          "source_fact_index": [
+            8
+          ]
+        },
+        {
+          "interpretation": "While the company invests in expanding manufacturing and digital capabilities, failure of these initiatives to deliver expected benefits or to compete effectively could limit growth and profitability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0,
+            11,
+            12
+          ]
+        }
+      ],
+      "dimension": "Revenue Growth Drivers & Demand Outlook"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Short-term changes in the cost and/or availability of these materials, some of which are subject to significant fluctuations, are often passed on to our customers, but our pricing quotation periods and market competition may limit our ability to pass on such price changes. We may also be limited in our ability to pass on increases on in-bound freight costs on our products. Our inability to pass on material price increases to our customers could adversely impact our operating results.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The contracts into which we have entered with most of our professional customers typically provide that we supply particular products or services for a certain period of time when and if ordered by the customer. Should our customers purchase our products in significantly lower quantities than they have in the past, such decreased purchases could have a material adverse effect on our financial condition, operating results and cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Short-term changes in the cost of these materials and the related in-bound freight costs, some of which are subject to significant fluctuations, are sometimes, but not always, passed on to our customers. Delays in our ability to pass on material price increases to our customers can adversely impact our operating results.",
+          "source_section": "10-K Item 7A"
+        },
+        {
+          "statement": "Our customer mix is a balance of large national homebuilders, regional homebuilders, local and custom homebuilders and repair and remodeling contractors as well as multi-family builders. For the year ended December 31, 2024, our top 10 customers accounted for 15% of our net sales, with our largest customer accounting for 4% of net sales.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "The contracts into which we have entered with most of our professional customers typically provide that we supply particular products or services for a certain period of time when and if ordered by the customer.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We may be forced to provide alternative materials as substitution for contracted orders. Our inability to pass on material price increases to our customers could adversely impact our operating results.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has established contracts with professional customers that provide supply for a certain period, which may offer some revenue durability as long as customers continue ordering.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            4
+          ]
+        },
+        {
+          "interpretation": "The diverse customer mix, including large national homebuilders and various other builder types, reduces concentration risk and may support stable revenue streams.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The company often passes short-term material cost increases to customers, which can help maintain margins despite fluctuations in input costs.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0,
+            2
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company’s ability to pass on material price increases to customers is limited by pricing quotation periods and market competition, which could compress margins and adversely affect operating results.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            2
+          ]
+        },
+        {
+          "interpretation": "Contracts supply products only when ordered by customers, so a significant reduction in customer purchases could materially harm financial condition and cash flows, indicating revenue durability risk.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            4
+          ]
+        },
+        {
+          "interpretation": "The need to provide alternative materials as substitutions for contracted orders due to supply challenges may disrupt customer relationships and impact operating results negatively.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        }
+      ],
+      "dimension": "Pricing Power & Revenue Quality"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Gross margins on sales to single-family, multi-family, commercial and other contractors vary based on a variety of factors, including the purchase volumes of the individual customer, the mix of products sold to that customer, the cost to serve that customer, the size and selling price of the project being constructed and the number of upgrades added to the project before or during its construction.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We generate significant business from the large single-family homebuilders; however, our gross margins on sales to them tend to be lower than our gross margins on sales to other market segments. A shift in our sales mix towards the larger homebuilders could negatively impact our gross margins.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "In addition, we typically realize higher gross margins on more highly engineered and customized products, or ancillary products that are often purchased based on convenience and are therefore less price sensitive to our customers.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Sales of lumber and lumber sheet goods tend to generate lower gross margins due to their commodity nature and the relatively low switching costs of sourcing those products from different suppliers.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Structural components and millwork, doors and windows often generate higher gross margins relative to other products due to their increased complexity and opportunity for efficiency gains.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "A shift in our sales mix towards the lumber and lumber sheet goods product category could negatively impact our gross margins.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Gross margin decreased $0.5 billion to $3.6 billion, and our gross margin percentage decreased to 30.5% for the nine months ended September 30, 2025, from 33.0% in the nine months ended September 30, 2024, a 2.5% decrease. This decrease was primarily attributed to a lower starts environment.",
+          "source_section": "10-Q Page 33"
+        },
+        {
+          "statement": "Selling, general and administrative expenses increased $31.5 million, or 1.1%. This increase was primarily due to additional operating expenses from locations acquired within the last twelve months and our ongoing ERP system implementation, partially offset by lower variable compensation due to decreased sales and the absence of prior year asset write-offs.",
+          "source_section": "10-Q Page 33"
+        },
+        {
+          "statement": "As a percentage of net sales, selling, general and administrative expenses increased to 24.4% up from 22.7% for the nine months ended September 30, 2025 and 2024, respectively, primarily attributable to reduced operating leverage.",
+          "source_section": "10-Q Page 33"
+        },
+        {
+          "statement": "Gross margin decreased $0.6 billion to $5.4 billion due to decreased sales. Our gross margin percentage decreased to 32.8% in 2024 from 35.2% in 2023, a 2.4% decrease. This decrease was attributable to single-family and multi-family margin normalization.",
+          "source_section": "10-K Page 57"
+        },
+        {
+          "statement": "Selling, general and administrative expenses decreased $48.2 million, or 1.3%. This decrease in expenses was primarily due to decreased variable compensation costs related to decreased sales and profitability, and reduced intangible amortization expense, partially offset by additional operating expenses from locations acquired within the last twelve months and asset write-offs.",
+          "source_section": "10-K Page 57"
+        },
+        {
+          "statement": "As a percentage of net sales, selling, general and administrative expenses increased to 23.1% from 22.4% in 2023. This increase was primarily due to decreased cost leverage on lower net sales during the period.",
+          "source_section": "10-K Page 57"
+        },
+        {
+          "statement": "Short-term changes in the cost of these materials, some of which are subject to significant fluctuations, are oftentimes, but not always, passed on to our customers. Our delayed ability to pass on material price increases to our customers could adversely impact our financial condition, operating results and cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Prices of building materials, including wood products, are subject to cyclical market fluctuations, which may adversely impact operating income when prices rapidly rise or fall within a relatively short period of time.",
+          "source_section": "10-K Page 52"
+        },
+        {
+          "statement": "We closely manage our working capital and operating expenses, and we pay careful attention to our logistics function and its effect on our shipping and handling costs. However, we do have significant fixed costs and declines in our customer demand could have an adverse impact on our operating results.",
+          "source_section": "10-K Page 52"
+        },
+        {
+          "statement": "Selling, general and administrative expenses increased as a percentage of net sales primarily attributable to reduced operating leverage.",
+          "source_section": "10-Q Page 33"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s focus on higher margin, highly engineered and customized products, such as structural components, millwork, doors and windows, suggests potential for improved gross margins by shifting sales mix towards these value-added products.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            4
+          ]
+        },
+        {
+          "interpretation": "Despite recent decreases in gross margin percentages, the company’s operational excellence initiatives and investments in supply chain and technology could lead to future cost savings and margin improvements.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7,
+            14
+          ]
+        },
+        {
+          "interpretation": "The company’s ability to manage working capital and operating expenses carefully, along with attention to logistics, supports margin sustainability even in a challenging demand environment.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            14
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company’s gross margins are negatively impacted by shifts in sales mix towards lower margin segments such as large single-family homebuilders and commodity lumber products, which could pressure overall profitability.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            3,
+            5
+          ]
+        },
+        {
+          "interpretation": "Recent decreases in gross margin percentages and increases in selling, general and administrative expenses as a percentage of net sales indicate margin compression and reduced operating leverage, which could adversely affect operating results.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            8,
+            9,
+            11,
+            15
+          ]
+        },
+        {
+          "interpretation": "Significant fluctuations in the cost of materials and delays in passing on price increases to customers could adversely impact financial condition and operating results, posing a risk to margin sustainability.",
+          "intensity": "High",
+          "source_fact_index": [
+            12,
+            13
+          ]
+        }
+      ],
+      "dimension": "Margins & Cost Structure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Cash provided by operating activities was $1.0 billion for the nine months ended September 30, 2025, compared to cash provided by operating activities of $1.5 billion for the nine months ended September 30, 2024. The decrease in cash provided by operating activities was largely the result of lower net income in the first nine months of 2025.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "For the year ended December 31, 2024, the Company used $42.4 million more cash to invest compared to the prior year ended December 31, 2023, primarily due to $97.8 million more spent on acquisitions, offset by $63.0 million less as a net investment in property, plant and equipment.",
+          "source_section": "10-K - Page 60"
+        },
+        {
+          "statement": "Capital expenditures vary depending on prevailing business factors, including current and anticipated market conditions. Historically, capital expenditures have, for the most part, remained at relatively low levels in comparison to the operating cash flows generated during the corresponding periods. We expect our 2025 capital expenditures to be in the range of $350 million to $450 million primarily related to rolling stock, equipment and facility expansion and improvements to support our operations.",
+          "source_section": "10-K - Page 60"
+        },
+        {
+          "statement": "Our primary capital requirements are to fund working capital needs and operating expenses, meet required interest and principal payments, and to fund capital expenditures and potential future growth opportunities. Our capital resources at September 30, 2025, consist of cash on hand and borrowing availability under our Revolving Facility.",
+          "source_section": "10-Q - Page 33"
+        },
+        {
+          "statement": "Our Revolving Facility is primarily used for working capital, general corporate purposes and funding capital expenditures and growth opportunities. In addition, we may use borrowings under the Revolving Facility to facilitate debt repayment and consolidation, and to fund share repurchases.",
+          "source_section": "10-Q - Page 33"
+        },
+        {
+          "statement": "As of September 30, 2025, we had no outstanding borrowings under our Revolving Facility, and our net excess borrowing availability was $1.8 billion after being reduced by outstanding letters of credit totaling $79.6 million.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "The composition and level of working capital typically change during periods of increasing sales as we carry more inventory and receivables. Working capital levels typically increase in the first and second quarters of the year due to higher sales during the peak residential construction season. These increases may result in negative operating cash flows during this peak season, which historically have been financed through available cash and borrowing availability under credit facilities. Generally, collection of receivables and reduction in inventory levels following the peak building and construction season positively impact cash flow.",
+          "source_section": "10-K - Page 52"
+        },
+        {
+          "statement": "Our liquidity at September 30, 2025, was $2.1 billion, which consists of net borrowing availability under the Revolving Facility and cash on hand.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "Our level of indebtedness results in significant interest expense and could have the effect of, among other things, reducing our flexibility to respond to changing business and economic conditions.",
+          "source_section": "10-K - Page 32"
+        },
+        {
+          "statement": "We actively monitor our working capital to align our needs with market demand signals and the size of our top-line.",
+          "source_section": "10-K - Page 12"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company generates substantial operating cash flow, evidenced by $1.0 billion cash provided by operating activities in the first nine months of 2025, supporting its ability to fund operations and investments.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Capital expenditures have historically been low relative to operating cash flows, indicating capital intensity is manageable and the company expects to maintain capital expenditures within a moderate range ($350 million to $450 million) in 2025 to support operations and growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The company maintains strong liquidity with $2.1 billion available from cash and borrowing capacity, and no outstanding borrowings under its Revolving Facility as of September 30, 2025, providing financial flexibility.",
+          "intensity": "High",
+          "source_fact_index": [
+            5,
+            7
+          ]
+        },
+        {
+          "interpretation": "Working capital management is actively aligned with market demand and sales cycles, with typical seasonal increases in inventory and receivables during peak sales periods that are financed through available cash and credit facilities, indicating effective cash conversion management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6,
+            9
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Operating cash flow decreased from $1.5 billion in the first nine months of 2024 to $1.0 billion in the same period of 2025, reflecting lower net income and potentially reduced cash generation capacity.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The company’s level of indebtedness results in significant interest expense and may reduce its flexibility to respond to changing business and economic conditions, potentially constraining liquidity and operational funding.",
+          "intensity": "High",
+          "source_fact_index": [
+            8
+          ]
+        },
+        {
+          "interpretation": "Working capital levels increase seasonally during peak construction periods, which may cause negative operating cash flows temporarily and require reliance on cash and credit facilities, potentially stressing liquidity during those periods.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "The company used $42.4 million more cash for investing activities in 2024 compared to 2023, primarily due to increased acquisitions, which could increase capital intensity and cash outflows.",
+          "intensity": "Low",
+          "source_fact_index": [
+            1
+          ]
+        }
+      ],
+      "dimension": "Cash Flow Generation"
+    },
+    {
+      "facts": [
+        {
+          "statement": "For the year ended December 31, 2024, the Company used $42.4 million more cash to invest compared to the prior year ended December 31, 2023, primarily due to $97.8 million more spent on acquisitions, offset by $63.0 million less as a net investment in property, plant and equipment.",
+          "source_section": "10-K - Page 60"
+        },
+        {
+          "statement": "Cash used in financing activities was $1.1 billion in 2024 which consisted primarily of $1.5 billion for repurchases of common stock and $0.5 billion net payments on the Revolving Facility, offset by a net $1.0 billion received for the issuance of the 6.375% 2034 notes.",
+          "source_section": "10-K - Page 60"
+        },
+        {
+          "statement": "Capital expenditures vary depending on prevailing business factors, including current and anticipated market conditions. Historically, capital expenditures have, for the most part, remained at relatively low levels in comparison to the operating cash flows generated during the corresponding periods. We expect our 2025 capital expenditures to be in the range of $350 million to $450 million primarily related to rolling stock, equipment and facility expansion and improvements to support our operations.",
+          "source_section": "10-K - Page 60"
+        },
+        {
+          "statement": "Disciplined Capital Allocation Pursue strategic acquisitions. The highly fragmented nature of the Pro Segment of the U.S. residential new construction building products supply market presents substantial acquisition opportunities. Our long-term acquisition strategy is focused on pursuing potential acquisitions that present opportunities to add manufacturing capabilities in a relatively short period of time, or that provide opportunities to advance our position in desirable geographies or key product segments. We believe that our proven operating model can be successfully adapted to these markets and where homebuilders, many of whom we currently serve elsewhere, would value our broad product and service offering, professional expertise, and superior customer service. When entering a new market, our strategy is to acquire market-leading distributors and subsequently expand their product offerings or add manufacturing facilities while integrating their operations into our centralized platform. This strategy allows us to quickly achieve the scale required to better serve our customers and leverage existing customer relationships in the local market. Our management has shown the capability to effectively and efficiently integrate newly acquired businesses, increase productivity, and drive value. We have successfully integrated over 75 acquisitions since 1998, including the company-transforming BMC and ProBuild transactions. Consistent capital allocation priorities. In addition to our acquisition strategy, we continue to focus on disciplined capital allocation to drive value creation. We actively monitor our working capital to align our needs with market demand signals and the size of our top-line. We allocate capital to opportunities that we believe maximize returns on investment, including value-added products, digital solutions, and automation. Additionally, our focus remains on maintaining a strong balance sheet, with a low net leverage ratio, providing multiple paths for capital deployment, including returning excess capital to shareholders through opportunistic share repurchases at an attractive long-term cost basis.",
+          "source_section": "10-K - Page 12"
+        },
+        {
+          "statement": "For the nine months ended September 30, 2025, cash used in investing activities increased $0.6 billion compared to the nine months ended September 30, 2024, primarily due to using an additional $0.6 billion of cash for acquisitions.",
+          "source_section": "10-Q - Page 33"
+        },
+        {
+          "statement": "Cash provided by financing activities was $0.3 billion for the nine months ended September 30, 2025, which consisted primarily of a net $0.7 billion received for the issuance of the 6.75% 2035 Notes, offset by $0.4 billion for repurchases of common stock.",
+          "source_section": "10-Q - Page 33"
+        },
+        {
+          "statement": "As of September 30, 2025, we had no outstanding borrowings under our Revolving Facility, and our net excess borrowing availability was $1.8 billion after being reduced by outstanding letters of credit totaling $79.6 million.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "Our liquidity at September 30, 2025, was $2.1 billion, which consists of net borrowing availability under the Revolving Facility and cash on hand.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "From time to time, based on market conditions and other factors and subject to compliance with applicable laws and regulations, we may repurchase or call our notes, repay, refinance or modify our debt or otherwise enter into transactions regarding our capital structure.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "On February 21, 2024, the Company’s board of directors authorized the repurchase of up to $1.0 billion of the Company’s outstanding shares of common stock, inclusive of the approximately $200 million remaining outstanding in the prior share repurchase plan authorized in April 2023. Share repurchases under this program were completed in May 2024. On August 5, 2024, the Company’s board of directors authorized a new repurchase plan of up to $1.0 billion of the Company’s outstanding shares of common stock.",
+          "source_section": "10-K - Page 49"
+        },
+        {
+          "statement": "Under share repurchase programs authorized by the board of directors since August 2021, the Company has repurchased a total of 95.9 million shares of common stock, or 46.5% of the Company’s total shares outstanding, at an average price of $79.56, inclusive of fees and taxes, including 8.9 million shares of common stock at an average price of $170.74, inclusive of fees and taxes, in 2024. As of December 31,2024, the Company had $500.0 million authorization remaining under its current share repurchase program.",
+          "source_section": "10-K - Page 49"
+        },
+        {
+          "statement": "On February 29, 2024, the Company completed a private offering of $1.0 billion in aggregate principal amount of 6.375% senior unsecured notes due 2034 (“6.375% 2034 notes”) at an issue price equal to 100% of par value. The net proceeds from the offering were used to pay related transaction fees and expenses, repay indebtedness outstanding under the Revolving Facility and for general corporate purposes.",
+          "source_section": "10-K - Page 54"
+        },
+        {
+          "statement": "During 2024 we completed a number of acquisitions for a combined $345.4 million purchase price, net of cash acquired, including the acquisitions of (i) Quality Door & Millwork, Inc., (ii) Hanson Truss Components, Inc., (iii) RPM Wood Products, Inc., (iv) Schoeneman Bros. Company, (v) TRSMI, LLC, (vi) Western Truss & Components, (vii) CRi SoCal, (viii) Wyoming Millwork Co., (ix) Sunrise Wood Designs, LLC, (x) Reno Truss, Inc., (xi) High Mountain Door and Trim, Inc., (xii) Douglas Lumber, Kitchens and Home Center, and (xiii) Kleet Lumber.",
+          "source_section": "10-K - Page 54"
+        },
+        {
+          "statement": "On January 2, 2025, we completed our previously announced acquisition of Alpine Lumber Company, the largest independently operated supplier of building materials in Colorado and northern New Mexico. On February 3, 2025, we completed the acquisition of O.C. Cluss Lumber, a lumber and building supplies provider in southwestern Pennsylvania, western Maryland and northern West Virginia.",
+          "source_section": "10-K - Page 54"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The Company’s disciplined capital allocation strategy, including a focus on strategic acquisitions in fragmented markets, suggests a proactive approach to growth and value creation by expanding manufacturing capabilities and geographic presence.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            12,
+            13
+          ]
+        },
+        {
+          "interpretation": "The Company maintains a strong liquidity position with $2.1 billion available through cash and borrowing capacity, supporting flexibility in capital deployment including acquisitions and share repurchases.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The Company has a history of significant share repurchases authorized and executed, indicating a commitment to returning excess capital to shareholders and managing capital structure effectively.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            9,
+            10
+          ]
+        },
+        {
+          "interpretation": "Capital expenditures are expected to remain moderate relative to operating cash flows, focusing on operational support such as rolling stock and facility improvements, which may enhance efficiency without excessive capital strain.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The issuance of long-term notes and repayment of revolving facility debt demonstrate active management of the capital structure to optimize financing costs and maintain financial flexibility.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            11
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The Company’s increased cash use for acquisitions and significant share repurchases could strain liquidity or increase leverage, potentially limiting financial flexibility in adverse market conditions.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1,
+            4,
+            5,
+            9
+          ]
+        },
+        {
+          "interpretation": "The reliance on debt issuance and revolving credit facilities to fund acquisitions and share repurchases may expose the Company to refinancing risk and interest expense increases, especially if market conditions deteriorate.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            6,
+            11
+          ]
+        },
+        {
+          "interpretation": "Capital expenditures, while moderate, are subject to variability based on market conditions, which could lead to underinvestment or overextension depending on economic cycles.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The share repurchase programs, although sizable, are discretionary and may be suspended or discontinued at any time, introducing uncertainty about the consistency of capital returns to shareholders.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        },
+        {
+          "interpretation": "The Company’s acquisition strategy, while growth-oriented, involves integration risks and potential for overpayment, which could impact future financial performance if not managed effectively.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            12,
+            13
+          ]
+        }
+      ],
+      "dimension": "Capital Allocation & Investment Discipline"
+    },
+    {
+      "facts": [
+        {
+          "statement": "As of September 30, 2025, we had no outstanding borrowings under our Revolving Facility, and our net excess borrowing availability was $1.8 billion after being reduced by outstanding letters of credit totaling $79.6 million. Excess availability must equal or exceed a minimum specified amount, currently $187.0 million, or we are required to meet a fixed charge coverage ratio of 1.00 to 1.00. We were not in violation of any covenants or restrictions imposed by any of our debt agreements at September 30, 2025.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "Our liquidity at September 30, 2025, was $2.1 billion, which consists of net borrowing availability under the Revolving Facility and cash on hand.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "Our level of indebtedness results in significant interest expense and could have the effect of, among other things, reducing our flexibility to respond to changing business and economic conditions.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "From time to time, based on market conditions and other factors and subject to compliance with applicable laws and regulations, we may repurchase or call our notes, repay, refinance or modify our debt or otherwise enter into transactions regarding our capital structure.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "If industry conditions deteriorate or if we pursue additional acquisitions, we may be required to raise additional funds through the sale of capital stock or debt in the public capital markets or in privately negotiated transactions. There can be no assurance that any of these financing options would be available on favorable terms, if at all.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "Alternatives to help supplement our liquidity position could include, but are not limited to, idling or permanently closing additional facilities, adjusting our headcount in response to current business conditions, attempts to renegotiate leases, managing our working capital and/or divesting of non-core businesses. There are no assurances that these steps would prove successful or materially improve our liquidity position.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "Cash provided by operating activities was $1.0 billion for the nine months ended September 30, 2025, compared to cash provided by operating activities of $1.5 billion for the nine months ended September 30, 2024. The decrease in cash provided by operating activities was largely the result of lower net income in the first nine months of 2025.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "Cash provided by financing activities was $0.3 billion for the nine months ended September 30, 2025, which consisted primarily of a net $0.7 billion received for the issuance of the 6.75% 2035 Notes, offset by $0.4 billion for repurchases of common stock.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "As of December 31, 2024, we had no outstanding borrowings under our Revolving Facility and our net excess borrowing availability was $1.6 billion after being reduced by outstanding letters of credit of $0.1 billion. Excess availability must equal or exceed a minimum specified amount, currently $171.4 million, or we are required to meet a fixed charge coverage ratio of 1.00 to 1.00. We were not in violation of any covenants or restrictions imposed by any of our debt agreements at December 31, 2024.",
+          "source_section": "10-K - Page 58"
+        },
+        {
+          "statement": "Our liquidity at December 31, 2024, was $1.8 billion, which consists of net borrowing availability under the Revolving Facility and cash on hand.",
+          "source_section": "10-K - Page 58"
+        },
+        {
+          "statement": "Our level of indebtedness results in significant interest expense and could have the effect of, among other things, reducing our flexibility to respond to changing business and economic conditions.",
+          "source_section": "10-K - Page 58"
+        },
+        {
+          "statement": "Should the current industry conditions deteriorate or we pursue additional acquisitions, we may be required to raise additional funds through the sale of capital stock or debt in the public capital markets or in privately negotiated transactions. There can be no assurance that any of these financing options would be available on favorable terms, if at all.",
+          "source_section": "10-K - Page 58"
+        },
+        {
+          "statement": "Alternatives to help supplement our liquidity position could include, but are not limited to, idling or permanently closing additional facilities, adjusting our headcount in response to current business conditions, attempts to renegotiate leases, managing our working capital and/or divesting of non-core businesses. There are no assurances that these steps would prove successful or materially improve our liquidity position.",
+          "source_section": "10-K - Page 58"
+        },
+        {
+          "statement": "On May 20, 2025, the Company amended the Revolving Facility to increase the existing revolving commitments of $1.8 billion with the new revolving commitments of $2.2 billion, and to extend the maturity date to May 20, 2030.",
+          "source_section": "10-Q - Page 29"
+        },
+        {
+          "statement": "Interest expense was $206.1 million in the nine months ended September 30, 2025, an increase of $51.5 million from the nine months ended September 30, 2024. Interest expense increased primarily due to higher average debt balances.",
+          "source_section": "10-Q - Page 33"
+        },
+        {
+          "statement": "Interest expense, net was $207.7 million in 2024, an increase of $15.6 million from 2023. Interest expense increased primarily due to higher debt balances and average interest rates in 2024 compared to 2023, partially offset by interest income received in 2024.",
+          "source_section": "10-K - Page 31"
+        },
+        {
+          "statement": "Our primary capital requirements are to fund working capital needs and operating expenses, meet required interest and principal payments, and to fund capital expenditures and potential future growth opportunities. Our capital resources at September 30, 2025, consist of cash on hand and borrowing availability under our Revolving Facility.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "Our Revolving Facility is primarily used for working capital, general corporate purposes and funding capital expenditures and growth opportunities. In addition, we may use borrowings under the Revolving Facility to facilitate debt repayment and consolidation, and to fund share repurchases.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "Availability under the Revolving Facility is determined by a borrowing base. Our borrowing base consists of accounts receivable, inventory, and qualified cash that all meet specific criteria contained within the credit agreement, minus agent specified reserves. Net excess borrowing availability is equal to the maximum borrowing amount minus outstanding borrowings and letters of credit.",
+          "source_section": "10-Q - Page 35"
+        },
+        {
+          "statement": "The following table shows our borrowing base and excess availability as of September 30, 2025: Accounts receivable availability $842.5 million; Inventory availability $881.8 million; Gross availability $1,724.3 million; Less agent reserves $(47.3) million; Plus cash in qualified accounts $192.5 million; Borrowing base $1,869.5 million.",
+          "source_section": "10-Q - Page 33"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company had no outstanding borrowings under its Revolving Facility as of September 30, 2025, with substantial net excess borrowing availability of $1.8 billion, indicating strong liquidity and access to funding if needed.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1,
+            18,
+            19
+          ]
+        },
+        {
+          "interpretation": "The amendment to increase revolving commitments from $1.8 billion to $2.2 billion and extend maturity to 2030 enhances the company's financial flexibility and long-term funding access.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            13
+          ]
+        },
+        {
+          "interpretation": "The company was not in violation of any debt covenants or restrictions as of September 30, 2025, and December 31, 2024, demonstrating compliance with financial obligations and covenant constraints.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            8
+          ]
+        },
+        {
+          "interpretation": "The company has significant liquidity, with $2.1 billion at September 30, 2025, and $1.8 billion at December 31, 2024, consisting of cash and borrowing availability, supporting operational and growth needs.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            9
+          ]
+        },
+        {
+          "interpretation": "The company actively manages its capital structure, including repurchasing or calling notes, repaying or refinancing debt, and share repurchases, which could optimize financial health and shareholder value.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            7
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Despite no outstanding borrowings under the Revolving Facility, the company’s level of indebtedness results in significant interest expense, which may reduce financial flexibility to respond to changing business and economic conditions.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            10
+          ]
+        },
+        {
+          "interpretation": "The company may need to raise additional funds through equity or debt if industry conditions deteriorate or acquisitions are pursued, but there is no assurance that financing would be available on favorable terms or at all, posing refinancing and funding access risks.",
+          "intensity": "High",
+          "source_fact_index": [
+            4,
+            11
+          ]
+        },
+        {
+          "interpretation": "Alternatives to supplement liquidity, such as closing facilities, adjusting headcount, renegotiating leases, managing working capital, or divesting non-core businesses, have no assurance of success or material improvement in liquidity, indicating potential liquidity constraints.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5,
+            12
+          ]
+        },
+        {
+          "interpretation": "Cash provided by operating activities decreased from $1.5 billion to $1.0 billion in the nine months ended September 30, 2025, largely due to lower net income, which may pressure cash flow and liquidity.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "The company’s borrowing base and excess availability are subject to agent reserves and letters of credit, which reduce net borrowing capacity and could constrain liquidity under certain conditions.",
+          "intensity": "Low",
+          "source_fact_index": [
+            19
+          ]
+        }
+      ],
+      "dimension": "Balance Sheet Strength & Liquidity"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Product shortages, loss of key suppliers, and our dependence on third-party suppliers and manufacturers could affect our financial health. Our ability to offer a wide variety of products to our customers is dependent upon our ability to obtain adequate product supply from manufacturers and other suppliers. Historically, our products were obtainable from various sources and in sufficient quantities. However, the loss of, or an ongoing substantial decrease in the availability of products from our suppliers or the loss of key supplier arrangements could adversely impact our financial condition, operating results, and cash flows. Although in many instances we have agreements with our suppliers, these agreements are generally terminable by either party on limited notice. Failure by our suppliers to continue to supply us with products on commercially reasonable terms, or at all, could put pressure on our operating margins or have a material adverse effect on our financial condition, operating results and cash flows. Short-term changes in the cost of these materials, some of which are subject to significant fluctuations, are oftentimes, but not always, passed on to our customers. Our delayed ability to pass on material price increases to our customers could adversely impact our financial condition, operating results and cash flows. Furthermore, the inability of our suppliers to meet our supply needs in a timely manner or our quality standards could cause delays to delivery date requirements of our customers. Such failures could result in the cancellation of orders, customers’ refusal to accept deliveries, a reduction in purchase prices, and ultimately, termination of customer relationships, any of which could have a material adverse effect on our business, financial condition, results of operations and liquidity. In that case, we may be required to seek alternative sources of materials or products. Our inability to identify and secure alternative sources of supply could have a material and adverse effect on our ability to satisfy customer orders. While we have largely been able to manage these supply chain disruptions to date, there is no guarantee that we will be able to do so in the future.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Failure to attract and retain our key employees may adversely impact our ability to successfully execute our business strategies. Our success depends in part on our ability to attract, hire, train and retain qualified managerial, operational, sales and other personnel. We face significant competition for these types of employees in our industry and from other industries. We may be unsuccessful in attracting and retaining the personnel we require to conduct and expand our operations successfully. In addition, key personnel may leave us and compete against us. Our success also depends to a significant extent on the continued service of our senior management team. We may be unsuccessful in replacing key managers who either resign or retire. The loss of any member of our senior management team or other experienced senior employees could impair our ability to execute our business plan, cause us to lose customers and reduce our net sales, or lead to employee morale problems and/or the loss of other key employees. In any such event, our financial condition, operating results and cash flows could be adversely affected. In addition, continued competition for non-management employees has resulted in higher labor costs and labor shortages at our facilities. Consequently, we may continue to face higher operating expenses and may lose revenue opportunities if we lack capacity to meet customer demands due to labor shortages. While only a small percentage of our workforce is unionized, there can be no assurance that additional employees will not conduct union organization campaigns or become union members in the future and a failure to renew existing collective bargaining agreements on favorable terms could lead to further labor shortages and higher labor costs.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our operations are dependent upon our information technology systems, which encompass all of our major business functions. Our primary ERP systems are proprietary systems that have been highly customized by our computer programmers. Our centralized financial reporting system currently draws data from our ERP systems. We are also currently implementing a new ERP system and there is no guarantee that such implementation will be successful or that we will not experience disruptions in connection with the new ERP system. We rely upon our information technology systems to run critical accounting and financial information systems, process receivables, manage and replenish inventory, fill and ship customer orders on a timely basis, and coordinate our sales activities across all products and services. A substantial disruption in our information technology systems for any prolonged time period could result in problems and delays in generating critical financial and operational information, processing receivables, receiving inventory and supplies and filling customer orders. These disruptions could adversely affect our operating results as well as our customer service and",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our failure to make successful acquisitions or to build or expand needed facilities, including manufacturing facilities, produce saleable product, or meet customer demand in a timely manner could adversely affect our financial condition, operating results, and cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Short-term changes in the cost and/or availability of these materials, some of which are subject to significant fluctuations, are often passed on to our customers, but our pricing quotation periods and market competition may limit our ability to pass on such price changes. We may also be limited in our ability to pass on increases on in-bound freight costs on our products. We may also experience challenges sourcing suitable products for our customers and may be forced to provide alternative materials as substitution for contracted orders. Our inability to pass on material price increases to our customers could adversely impact our operating results.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We may continue to face higher operating expenses and may lose revenue opportunities if we lack capacity to meet customer demands due to labor shortages.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has historically been able to manage supply chain disruptions and maintain product availability from various sources, indicating operational resilience and adaptability to supply challenges.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The company’s focus on attracting, hiring, training, and retaining qualified personnel, along with a small unionized workforce, suggests proactive human resource management that could support stable operations and execution of business strategies.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The implementation of a new ERP system and reliance on proprietary IT systems demonstrate the company’s commitment to technological advancement and operational efficiency, which could enhance coordination and customer service if successful.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The company’s strategy to grow through acquisitions and facility expansions reflects an active approach to increasing capacity and market presence, which could support meeting customer demand and operational growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The company attempts to pass on material price increases to customers, which could help mitigate margin pressures from fluctuating material costs and freight expenses.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Despite labor shortages, the company’s awareness and management of labor costs and capacity constraints may help minimize lost revenue opportunities and maintain operational capacity.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Dependence on third-party suppliers with agreements terminable on short notice and potential inability to secure alternative sources could materially disrupt supply chains, delay deliveries, and adversely affect financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Failure to attract and retain key employees, including senior management, combined with labor shortages and potential unionization, could impair execution of business plans, increase operating costs, and reduce revenue.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            5
+          ]
+        },
+        {
+          "interpretation": "The ongoing implementation of a new ERP system carries risks of operational disruptions that could delay critical processes such as order fulfillment and financial reporting, negatively impacting customer service and operating results.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Inability to successfully complete acquisitions or expand facilities in a timely manner could limit capacity to meet customer demand and adversely affect financial condition and growth prospects.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Limitations in passing on material price increases due to pricing quotation periods and market competition could compress margins and negatively impact operating results amid fluctuating material and freight costs.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        }
+      ],
+      "dimension": "Operational & Supply Chain Risks"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Unstable global economic conditions and geopolitical conflicts may have serious adverse consequences on our business, financial condition, and operations. We are operating in an uncertain economic environment. The global credit and financial markets have experienced extreme volatility and disruptions, including severely diminished liquidity and credit availability, declines in consumer confidence, declines in economic growth, increases in unemployment rates, high rates of inflation, and uncertainty about economic stability and a potential recession. While our management team continually monitors market conditions and economic factors throughout our footprint, we are unable to predict the duration or severity of such conditions or factors. If conditions were to worsen nationally, regionally or locally, then we could see a decrease in housing starts, which would adversely affect our business, financial condition, operating results, and cash flows. In addition, the financial markets and the global economy may also be adversely affected by ongoing geopolitical conflicts, including those in Ukraine and the Middle East. These conflicts have impacted, and may continue to impact, commodity and energy prices, global supply chains and financial markets. In addition, sanctions imposed by the U.S. and other countries in response to the conflict in Ukraine could further adversely impact the financial markets and the global economy, and any economic countermeasures by the affected countries or others could exacerbate market and economic instability. The specific consequences of these geopolitical conflicts on our business are difficult to predict at this time, but in addition to inflationary pressures affecting our operations, any shortages of fuel or significant fuel cost increases could seriously disrupt our ability to distribute products to our customers.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We are subject to potential exposure to environmental liabilities and are subject to environmental regulation. We are subject to various federal, state and local environmental laws, ordinances and regulations. Although we believe that our facilities are in material compliance with such laws, ordinances, and regulations, as owners and lessees of real property, we can be held liable for the investigation or remediation of contamination on such properties, in some circumstances, without regard to whether we knew of or were responsible for such contamination. No assurance can be provided that remediation may not be required in the future as a result of spills or releases of petroleum products or hazardous substances, the discovery of unknown environmental conditions, more stringent standards regarding existing residual contamination, or changes in legislation, laws, rules or regulations. More burdensome environmental regulatory requirements may increase our general and administrative costs and adversely affect our financial condition, operating results and cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The building products industry is highly dependent on new home and multi-family construction as well as repair and remodel, which in turn are dependent upon a number of factors, outside of our control, including interest rates, consumer confidence, employment rates, foreclosure rates, housing inventory levels and occupancy, housing demand and the health of the U.S. economy and mortgage markets. Unfavorable changes in demographics, credit markets, including rising mortgage and other interest rates, consumer confidence, household incomes, inflation, housing affordability, or housing inventory levels and occupancy, or a weakening of the U.S. economy or of any regional or local economy in which we operate could adversely affect consumer spending, result in decreased demand for our products, and adversely affect our business. Production of new homes and multi-family buildings may also decline because of shortages of qualified tradesmen, reliance on inadequately capitalized builders and sub-contractors, shortages of suitable building lots and material, and lack of financing or more expensive financing available to homebuilders. In addition, the building industry is subject to various local, state, and federal statutes, ordinances, and regulations concerning zoning, building design and safety, construction, energy and water conservation and similar matters, including regulations that impose restrictive zoning and density requirements in order to limit the number of homes that can be built within the boundaries of a particular area or in order to maintain certain areas as primarily or exclusively residential. Regulatory restrictions may increase our customers’ operating expenses and limit the availability of suitable building lots for our customers, which could negatively affect our sales and earnings. Because we have substantial fixed costs, relatively modest declines in our customers’ production levels could have a significant adverse effect on our financial condition, operating results and cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Prices of building products are subject to fluctuations arising from changes in supply and demand, national and international economic conditions, including inflation and interest rates, labor costs, competition, market speculation, government regulation, and trade policies, as well as from periodic delays in the delivery of lumber and other products, all of which are outside our control. The prices of wood products directly affect our sales and earnings. In particular, low prices for wood products over a sustained period can adversely affect our financial condition, operating results and cash flows. Our lumber and lumber sheet goods product category represented 26% of total net sales for the year ended December 31, 2024. As such, if lumber or structural panel prices were to significantly decline from current levels, our sales and profits could be negatively affected. We have limited ability to manage the timing and amount of pricing changes for building products. In addition, the supply of building products fluctuates based on available manufacturing capacity. Excess capacity in the industry can result in significant declines in prices for those building products, often within a short period of time. Such price fluctuations can adversely affect our financial condition, operating results and cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our financing arrangements, including the agreements governing our debt instruments, contain various provisions that limit our ability to, among other things: transfer or sell assets, including the equity interests of our restricted subsidiaries, or use asset sale proceeds; incur additional debt; pay dividends or distributions on our capital stock or repurchase our capital stock; make certain restricted payments or investments; create liens to secure debt; enter into transactions with affiliates; merge or consolidate with another company or continue to receive the benefits of these financing arrangements under a “change in control” scenario (as defined in those agreements); and engage in unrelated business activities. The agreement governing the Revolving Facility contains a financial covenant requiring the satisfaction of a minimum fixed charge ratio of 1.00 to 1.00 if our excess availability falls below the greater of $80.0 million or 10% of the maximum borrowing amount, which was $171.4 million as of December 31, 2024. These provisions may restrict our ability to expand or fully pursue our business strategies or return capital to our shareholders through share repurchases. Our ability to comply with the agreements governing our debt instruments may be affected by changes in our operating and financial performance, changes in general business and economic conditions, adverse regulatory developments, a change in control or other events beyond our control. The breach of any of these provisions could result in a default under our indebtedness, which could cause those and other obligations to become due and payable.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Interest rates may increase in the future. As a result, interest rates on our Revolving Facility could be higher or lower than current levels. As of December 31, 2024, we had no outstanding debt at variable interest rates. If interest rates increase, our debt service obligations on the variable rate indebtedness would increase even though the amount borrowed remained the same, and our net income and cash flows, including cash available for servicing our indebtedness, would correspondingly decrease. The Revolving Facility also assesses variable commitment and outstanding letter of credit fees based on quarterly average loan utilization. Further, an increase in interest rates could also trigger a limitation on the deductibility of those interest costs, increasing our tax expense and further decreasing our net income and cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "If conditions in the housing industry continue to deteriorate, we may need to take goodwill and/or asset impairment charges relating to certain of our reporting units. Any such non-cash charges would have an adverse effect on our financial results. In addition, in response to industry conditions, we may have to temporarily idle or permanently close certain facilities in under-performing markets. Widespread facility closures could have a significant adverse effect on our financial condition, operating results and cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Short-term changes in the cost of these materials and the related in-bound freight costs, some of which are subject to significant fluctuations, are sometimes, but not always, passed on to our customers. Delays in our ability to pass on material price increases to our customers can adversely impact our operating results.",
+          "source_section": "10-K Item 7A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "Despite the uncertain global economic environment and geopolitical conflicts, management's active monitoring of market conditions and economic factors throughout its footprint suggests a proactive approach to mitigating adverse impacts, which could help sustain business operations and financial stability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Compliance with environmental laws and regulations and belief that facilities are in material compliance indicate the company is managing environmental risks effectively, potentially avoiding costly liabilities and supporting sustainable operations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The company's awareness and management of regulatory restrictions and market dependencies demonstrate an understanding of industry dynamics, which could enable strategic adjustments to maintain sales and earnings despite external challenges.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The company's significant share of lumber and lumber sheet goods sales and its ability to manage pricing changes, even with limited control, suggest it can leverage market conditions to maintain revenue streams when prices are favorable.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The presence of covenants and financial provisions in debt agreements indicates disciplined financial management, which could help maintain creditworthiness and support strategic business initiatives.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Having no outstanding variable rate debt as of the reporting date reduces immediate exposure to interest rate fluctuations, potentially stabilizing interest expenses and supporting predictable financial planning.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The company's ability to respond to industry conditions by potentially idling or closing under-performing facilities may allow it to optimize operations and preserve financial health during downturns.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "The practice of passing on material price increases to customers, when possible, helps mitigate the impact of cost fluctuations on operating results, supporting margin stability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company's exposure to unstable global economic conditions and geopolitical conflicts, including unpredictable impacts on commodity and energy prices, supply chains, and financial markets, poses significant risks that could materially harm business operations and financial condition.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Potential environmental liabilities and the possibility of future remediation requirements due to contamination or regulatory changes could increase costs and adversely affect financial condition and cash flows.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Dependence on external factors such as interest rates, consumer confidence, employment rates, and regulatory restrictions creates vulnerability to adverse changes that could reduce demand, sales, and profitability.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Fluctuations in building product prices, especially lumber, and limited ability to control pricing timing and amounts expose the company to risks of declining sales and profits during sustained low price periods or excess industry capacity.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Restrictive covenants in debt agreements may limit operational flexibility and strategic initiatives, and breaches could trigger defaults, leading to accelerated debt obligations and financial distress.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Potential increases in interest rates could raise debt service costs on variable rate borrowings, reduce net income and cash flows, and increase tax expenses, negatively impacting financial performance.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Deterioration in the housing industry could force goodwill or asset impairment charges and require facility closures, which would adversely affect financial results and operational capacity.",
+          "intensity": "High",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "Delays or inability to pass on material price increases to customers could negatively impact operating results, especially amid significant cost fluctuations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7
+          ]
+        }
+      ],
+      "dimension": "Market, Macro & Regulatory Exposure"
+    },
+    {
+      "dimension": "Management Strategy & Execution",
+      "facts": [],
+      "upside_thesis": [
+        {
+          "interpretation": "Insufficient disclosure for this dimension.",
+          "intensity": "N/A"
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Insufficient disclosure for this dimension.",
+          "intensity": "N/A"
+        }
+      ]
+    }
+  ]
+}

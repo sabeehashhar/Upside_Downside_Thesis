@@ -1,0 +1,32 @@
+================================================================================
+USAGE METRICS & COST SUMMARY - CSW
+Generated: 2025-12-25T12:14:37.838139
+================================================================================
+
+API CALLS:
+  • LLM Calls (Chat):        11
+  • Embedding Calls:         8
+  • Total API Calls:         19
+
+TOKEN USAGE:
+  • Prompt Tokens:           128,497
+  • Completion Tokens:       19,074
+  • Embedding Tokens:        81,467
+  • Total LLM Tokens:        147,571
+  • Grand Total Tokens:      229,038
+
+EXECUTION TIME:
+  • Total Duration:          3m 45s (225.8s)
+  • Avg per LLM Call:        20.5s
+
+ESTIMATED COST (Azure OpenAI):
+  • LLM Input:               $0.0385
+  • LLM Output:              $0.0229
+  • Embeddings:              $0.0016
+  • TOTAL COST:              $0.0631
+
+EFFICIENCY METRICS:
+  • Embedding Cache Hits:    349 unique texts cached
+  • Tokens per LLM Call:     13416 avg
+  • Cost per LLM Call:       $0.0056 avg
+================================================================================

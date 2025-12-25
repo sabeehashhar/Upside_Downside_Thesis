@@ -1,0 +1,1383 @@
+{
+  "upside_thesis_summary": "• The company’s accelerated product innovation and disciplined investments in expanding IaaS, PaaS, and AI/ML offerings, along with strategic acquisitions and partnerships, demonstrate strong commitment to capturing expanding market opportunities and enhancing platform capabilities.\n• A global, simple, scalable, and reliable cloud platform supported by 16 data centers across nine regions provides optimized performance and low latency, strengthening competitive positioning and enabling customers to focus on their applications.\n• The company’s focus on Higher Spend Customers, who represent a significant majority of revenue and growth, combined with tailored products and targeted services, suggests strong potential for revenue growth and customer retention.\n• The company has successfully raised significant capital through convertible notes and credit facilities, maintains strong liquidity with sufficient cash and credit availability, and actively manages its capital structure through share and debt repurchases.\n• Emphasis on retaining and attracting highly qualified personnel, proactive restructuring to improve financial efficiency, and continued investment in infrastructure and product development support sustained growth and operational success.",
+  "downside_thesis_summary": "• The company faces significant risks from the need for continued disciplined investments to expand offerings, which may pressure profitability if revenue growth does not keep pace, alongside operational risks from maintaining high-performance infrastructure and cybersecurity threats.\n• Concentration of revenue among Higher Spend Customers poses material risk if these customers reduce spending or churn, and reliance on strategic partnerships and acquisitions introduces integration and execution risks.\n• Rising costs related to data center expansion, energy prices, and increased operating expenses may pressure margins, with uncertainty around sustaining profitability if revenue growth slows.\n• The company’s reliance on multiple external financing sources, significant outstanding debt, and fixed lease obligations could constrain cash flow and liquidity, while equity and debt financings pose dilution and financing risk.\n• Operational risks include potential disruptions from customer configuration errors, inability to hire sufficient support personnel, dependence on third-party vendors, capacity constraints, and exposure to macroeconomic, geopolitical, regulatory, and market uncertainties that could adversely affect growth and financial performance.",
+  "raw_dimensions": [
+    {
+      "facts": [
+        {
+          "statement": "We have accelerated the pace of product innovation and made disciplined investments to expand our offerings for our IaaS and PaaS offerings, as well as our newer AI/ML offerings. In 2024, we released a number of new products and product features, including GPU Droplets, our GenAI platform, Autonomous on our Managed Hosting offering to automatically scale resources based on website traffic, and enhancements to our role-based access control functionality and Backups offering.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "We attract a large number of developers to our website and platform and we are committed to supporting and expanding this community of innovators and technologists by continuing to produce high-quality educational content and hosting developer-focused programs and events around the world. Supporting and educating the developer community is not only one of our values, but it also fosters brand loyalty, expands our customer base and drives increased adoption of our products.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "In recent years, we completed acquisitions of Paperspace, which launched our AI/ML offerings, and Cloudways, which added our Managed Hosting offering to our platform. In addition, we have entered into partnerships to augment our product offerings. For example, in 2024, we announced a partnership with Hugging Face, which allows customers to quickly and easily deploy the most popular third-party models on GPU Droplets and significantly simplifies the model deployment process for our customers.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "We have designed our global cloud platform to ensure a simple, scalable and approachable cloud computing experience for our customer base of growing technology companies. This entails maintaining a high-performance and reliable global infrastructure, offering a highly curated set of solutions and providing a superior customer experience. The combination of these elements enables our customers to focus their time and attention on building and running their applications or businesses rather than managing the underlying infrastructure.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "Our global infrastructure and technology network, built on the foundation of open source scalable cloud-native technologies, allows us to deliver an exceptional developer experience and suite of infrastructure and software solutions to our customers spread across the globe. Our infrastructure is offered to our customers across 16 data centers worldwide that are connected by a high-speed private backbone, enabling our customers to deploy their solutions across nine different geographic regions.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "We lease data centers in the New York, San Francisco and Atlanta metropolitan areas in the United States, as well as in Australia, Canada, Germany, India, the Netherlands, Singapore and the United Kingdom. We plan to open our new Atlanta data center in 2025. These data center locations were selected for their proximity to key customer markets and to allow access to global internet exchange points to provide consistent low-latency connectivity to large end-user networks.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "Our global data center network allows our customers to choose where best to deploy the solution to optimize performance and minimize latency for their users. In addition, we utilize points of presence locations situated across the globe to improve website and application performance by allowing geographically dispersed users to receive content from a location nearest to them.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "We work closely with leading hardware manufacturers when designing our server platforms to continue to reduce acquisition costs while at the same time aligning our long-term server strategy to future technology advancements. We optimize reliability and performance for our customers by providing physical security and availability for our customers; managing the physical server capacity to ensure that we are able to meet our customers’ demands; operating the global networking backbone to ensure that we are making the best connectivity peering agreements to get customer traffic to the destination via the best available path; and actively monitoring the cloud environment and responding to network incidents to ensure that customer impact is minimized and service availability is managed.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "We focus heavily on securing our network, products and customer data from potential security threats, leveraging a dedicated team of security professionals. We have implemented a cybersecurity risk management program that includes administrative, technical and physical safeguards designed to maintain the confidentiality, integrity, and availability of our ...",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "The market opportunity for our services continues to expand and we expect to make additional investments to offer an enhanced and tailored suite of IaaS, PaaS/SaaS and AI/ML offerings that address the changing needs of our customers.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "We believe that strategic partnerships and acquisitions will allow us to accelerate our key platform, product and marketing initiatives. We intend to actively pursue both strategic partnerships and acquisitions that we believe will be complementary to our business, accelerate customer acquisition, increase usage of our platform and/or expand our product offerings in our core markets.",
+          "source_section": "10-K - Page 10"
+        },
+        {
+          "statement": "We refer to our Builders, Scalers and Scalers+ customers collectively as our Higher Spend Customers. We believe the total number of our Higher Spend Customers is an important indicator of the growth of our business and future revenue opportunity, and the trends relating to our Builders, Scalers and Scalers+ is of particular importance to us as these customers represent a significant majority of our revenue and revenue growth, and they are representative of growing technology companies that scale on our platform and use multiple products.",
+          "source_section": "10-K - Page 60"
+        },
+        {
+          "statement": "We have designed our platform to allow customers to scale with us as they grow, differentiates us from the many niche competitors who have less robust and extensible offerings.",
+          "source_section": "10-K - Page 17"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s accelerated product innovation and disciplined investments in expanding IaaS, PaaS, and AI/ML offerings, including new products like GPU Droplets and GenAI platform, demonstrate a strong commitment to meeting evolving customer needs and capturing expanding market opportunities.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            9
+          ]
+        },
+        {
+          "interpretation": "A large and engaged developer community supported by high-quality educational content and global events fosters brand loyalty, expands the customer base, and drives increased adoption of the company’s products, strengthening its competitive positioning.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Strategic acquisitions and partnerships, such as those with Paperspace, Cloudways, and Hugging Face, enhance the company’s platform capabilities, accelerate customer acquisition, and expand product offerings, positioning the company well in its core markets.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            10
+          ]
+        },
+        {
+          "interpretation": "The company’s global cloud platform is designed to be simple, scalable, and approachable, supported by a high-performance and reliable global infrastructure, enabling customers to focus on their applications rather than infrastructure management, which is a key value proposition.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "A global infrastructure with 16 data centers across nine geographic regions, connected by a high-speed private backbone and strategically located near key customer markets, provides customers with optimized performance and low latency, enhancing the company’s competitive advantage.",
+          "intensity": "High",
+          "source_fact_index": [
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "interpretation": "Close collaboration with leading hardware manufacturers to reduce costs and align server strategy with future technology advancements, combined with active monitoring and management of network incidents, supports reliability and performance, which are critical differentiators.",
+          "intensity": "High",
+          "source_fact_index": [
+            7
+          ]
+        },
+        {
+          "interpretation": "A dedicated cybersecurity risk management program with administrative, technical, and physical safeguards underscores the company’s commitment to securing its network, products, and customer data, which is vital for customer trust and competitive positioning.",
+          "intensity": "High",
+          "source_fact_index": [
+            8
+          ]
+        },
+        {
+          "interpretation": "The company’s focus on Higher Spend Customers, who represent a significant majority of revenue and growth and are growing technology companies scaling on the platform, indicates a strong and growing customer base that drives future revenue opportunities.",
+          "intensity": "High",
+          "source_fact_index": [
+            11
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company’s continued need to make disciplined investments to expand offerings and address changing customer needs may require significant capital and operational resources, which could pressure profitability if revenue growth does not keep pace.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            9
+          ]
+        },
+        {
+          "interpretation": "Reliance on a large developer community for brand loyalty and product adoption may expose the company to risks if it fails to maintain engagement or if competitors better capture developer interest.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Dependence on strategic partnerships and acquisitions to accelerate growth and expand offerings introduces integration risks and potential challenges in realizing expected benefits, which could adversely affect business performance.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            10
+          ]
+        },
+        {
+          "interpretation": "The company’s value proposition of a simple, scalable, and approachable platform relies heavily on maintaining high-performance and reliable infrastructure; any failure or degradation could negatively impact customer satisfaction and competitive positioning.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Operating a global network of 16 data centers across multiple regions involves complexity and exposure to risks such as outages, latency issues, or inability to expand capacity timely, which could impair service quality and customer retention.",
+          "intensity": "High",
+          "source_fact_index": [
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "interpretation": "The company’s reliance on third-party hardware manufacturers and the need to continuously reduce acquisition costs may expose it to supply chain disruptions, cost fluctuations, or misalignment with technology advancements, potentially affecting service delivery.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7
+          ]
+        },
+        {
+          "interpretation": "Despite a dedicated cybersecurity program, the inherent risks of security threats and potential breaches remain, which could lead to data loss, reputational damage, and regulatory consequences adversely affecting the business.",
+          "intensity": "High",
+          "source_fact_index": [
+            8
+          ]
+        },
+        {
+          "interpretation": "Concentration of revenue among Higher Spend Customers means that loss or reduced spending by these customers could materially impact revenue growth and financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            11
+          ]
+        }
+      ],
+      "dimension": "Business Model & Competitive Position"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Our existing customer base represents a significant opportunity for further sales expansion through increased usage of our platform and adoption of additional product offerings. We are highly focused on gaining a better understanding of the needs and growth plans of our existing customers, increasing our feature velocity and shaping our product roadmap around the needs of Higher Spend Customers, and introducing an account management function to provide more direct coverage of our top spending accounts. This deeper relationship with our customers will help us identify opportunities to educate our customer base on ways to utilize the platform more effectively for their individual use cases, as well as provide a feedback loop to inform our product roadmap, in order to build trust with customers and encourage them to run more of their critical cloud workloads on our platform. We closely monitor our net dollar retention (NDR), which reflects our ability to retain and grow revenue from our existing customers. While NDR decreased from 101% in 2023 to 98% in 2024 as we lapped the effects of the 2022 price increases, we expect to increase our revenue in the future from existing customers through the introduction of new products and features tailored to our Higher Spend Customers through expanded customer outreach, and targeted services to support our customers in migrating additional workloads from other cloud providers to DigitalOcean.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We believe there is a substantial opportunity to further expand our customer base. We are investing in strategies that we believe will drive adoption by new Higher Spend Customers, including new marketing initiatives that further optimize our self-service revenue funnel to identify potential Higher Spend Customers, enhanced research and development to build our product roadmap around the needs of Higher Spend Customers, the creation of a new migration services team to support migration to our platform from other cloud providers, and a dedicated AI sales team with deep AI expertise to help prospective customers understand our offerings and the process to onboard onto our platform.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We have a history of, and will continue to invest significantly in, delivering innovative products, features and functionality for our Higher Spend Customers. Our product strategy is anchored in addressing the needs of our Higher Spend Customers and other growing technology companies and on continuously innovating to meet those needs in a simple, scalable and approachable way. We have accelerated the pace of product innovation and made disciplined investments to expand our offerings for our IaaS and PaaS offerings, as well as our newer AI/ML offerings. In 2024, we released a number of new products and product features, including GPU Droplets, our GenAI platform, Autonomous on our Managed Hosting offering to automatically scale resources based on website traffic, and enhancements to our role-based access control functionality and Backups offering. The market opportunity for our services continues to expand and we expect to make additional investments to offer an enhanced and tailored suite of IaaS, PaaS/SaaS and AI/ML offerings that address the changing needs of our customers.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We attract a large number of developers to our website and platform and we are committed to supporting and expanding this community of innovators and technologists by continuing to produce high-quality educational content and hosting developer-focused programs and events around the world. Supporting and educating the developer community is not only one of our values, but it also fosters brand loyalty, expands our customer base and drives increased adoption of our products.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "In addition to organic growth, we believe that strategic partnerships and acquisitions will allow us to accelerate our key platform, product and marketing initiatives. In recent years, we completed acquisitions of Paperspace, which launched our AI/ML offerings, and Cloudways, which added our Managed Hosting offering to our platform. In addition, we have entered into partnerships to augment our product offerings. For example, in 2024, we announced a partnership with Hugging Face, which allows customers to quickly and easily deploy the most popular third-party models on GPU Droplets and significantly simplifies the model deployment process for our customers. We intend to actively pursue both strategic partnerships and acquisitions that we believe will be complementary to our business, accelerate customer acquisition, increase usage of our platform and/or expand our product offerings in our core markets.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Revenue from our Higher Spend Customers as a percentage of total revenue was 89% in the three months ended September 30, 2025, up from approximately 88% in the three months ended September 30, 2024. We had approximately 177,000 Higher Spend Customers using our platform to build, deploy and scale applications as of September 30, 2025, up from approximately 163,000 as of September 30, 2024. Our average revenue per customer (ARPU) has increased from $102.51 in the three months ended September 30, 2024 to $116.20 in the three months ended September 30, 2025. Our annual run-rate (ARR) as of September 30, 2025 was $919 million, up from $794 million as of September 30, 2024.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "We have a highly efficient self-service customer acquisition model, which we complement with a sales force focused on inside sales, targeted outside sales and partnership opportunities to drive revenue growth. The efficiency of our go-to-market model and our focus on the needs of digital native enterprises have enabled us to drive organic growth and establish a truly global customer base across a broad range of industries. Our customers are spread across approximately 190 countries and around two-thirds of our revenue has historically come from customers located outside the United States. For the three months ended September 30, 2025, 40% of our revenue was generated from North America, 27% from Europe, 23% from Asia and 10% from the rest of the world.",
+          "source_section": "10-Q Item 2"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s focus on increasing usage and adoption among its existing customer base, particularly Higher Spend Customers, along with tailored new products and features, suggests strong potential for revenue growth from a loyal and expanding customer segment.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Significant investments in product innovation, including new AI/ML offerings and platform enhancements, position the company to capitalize on expanding market opportunities and evolving customer needs, potentially driving increased market share and revenue.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The company’s large and growing community of developers, supported by educational content and events, fosters brand loyalty and expands the customer base, which could lead to increased product adoption and revenue growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Strategic partnerships and acquisitions, such as those with Paperspace, Cloudways, and Hugging Face, enhance the company’s product offerings and accelerate customer acquisition, which may contribute to accelerated revenue growth and market expansion.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The increase in Higher Spend Customers, ARPU, and ARR demonstrates tangible growth in customer demand and revenue, indicating strong business momentum and effective customer acquisition and retention strategies.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "A highly efficient self-service acquisition model combined with targeted sales efforts and a broad global customer base across 190 countries supports scalable and diversified revenue growth opportunities.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The decrease in net dollar retention (NDR) from 101% to 98% in 2024, despite expectations to increase revenue from existing customers, may indicate challenges in retaining and expanding revenue within the existing customer base.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The company’s reliance on continuous investment in product innovation and feature velocity to meet the needs of Higher Spend Customers may require sustained capital and resources, which could pressure margins if growth does not materialize as expected.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "While the developer community supports brand loyalty and adoption, dependence on this community for growth may be routine and not sufficient alone to drive significant market expansion or revenue growth.",
+          "intensity": "Low",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Strategic partnerships and acquisitions, while potentially beneficial, also carry integration risks and may not always result in accelerated growth or expanded product offerings as planned.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Although the number of Higher Spend Customers and ARR have increased, the growth rates may moderate over time, and the concentration of revenue among these customers could pose risks if customer demand shifts.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The global customer base and self-service model, while efficient, may face challenges from competitive pressures or market saturation in certain regions, potentially limiting future growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        }
+      ],
+      "dimension": "Revenue Growth Drivers & Demand Outlook"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We closely monitor our net dollar retention (NDR), which reflects our ability to retain and grow revenue from our existing customers. While NDR decreased from 101% in 2023 to 98% in 2024 as we lapped the effects of the 2022 price increases, we expect to increase our revenue in the future from existing customers through the introduction of new products and features tailored to our Higher Spend Customers through expanded customer outreach, and targeted services to support our customers in migrating additional workloads from other cloud providers to DigitalOcean.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We are highly focused on gaining a better understanding of the needs and growth plans of our existing customers, increasing our feature velocity and shaping our product roadmap around the needs of Higher Spend Customers, and introducing an account management function to provide more direct coverage of our top spending accounts.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We believe there is a substantial opportunity to further expand our customer base. We are investing in strategies that we believe will drive adoption by new Higher Spend Customers, including new marketing initiatives that further optimize our self-service revenue funnel to identify potential Higher Spend Customers, enhanced research and development to build our product roadmap around the needs of Higher Spend Customers, the creation of a new migration services team to support migration to our platform from other cloud providers, and a dedicated AI sales team with deep AI expertise to help prospective customers understand our offerings and the process to onboard onto our platform.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Being approachable also extends into our pricing model, which is transparent and predictable, eliminating surprises for our customers. Like everything we do, we approach billing with a customer-first focus, enabling our customers to spend more time developing and deploying innovative applications rather than interpreting and navigating convoluted invoices.",
+          "source_section": "10-K Page 9"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s focus on understanding existing customers’ needs and tailoring products to Higher Spend Customers, combined with targeted services to support workload migration, suggests strong potential for revenue growth and customer retention despite recent NDR decline.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1
+          ]
+        },
+        {
+          "interpretation": "Investments in marketing, R&D, and specialized teams to attract and support Higher Spend Customers indicate a strategic approach to expanding the customer base and increasing revenue from higher-value clients.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "A transparent and predictable pricing model with a customer-first billing approach enhances customer trust and satisfaction, potentially leading to increased platform adoption and revenue durability.",
+          "intensity": "Low",
+          "source_fact_index": [
+            3
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The decrease in net dollar retention from 101% to 98% as a result of lapping prior price increases may indicate challenges in maintaining pricing power and revenue growth from existing customers.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The need to introduce new products, features, and targeted services to maintain and grow revenue from existing customers suggests potential vulnerability in the current product offering and customer engagement.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0,
+            1
+          ]
+        },
+        {
+          "interpretation": "While the company is investing in strategies to attract Higher Spend Customers, reliance on marketing initiatives and specialized teams may not guarantee successful expansion, posing a risk to revenue durability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Although the pricing model is described as transparent and predictable, the absence of explicit mention of pricing power or ability to raise prices could imply limited pricing flexibility.",
+          "intensity": "Low",
+          "source_fact_index": [
+            3
+          ]
+        }
+      ],
+      "dimension": "Pricing Power & Revenue Quality"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Gross profit increased to 60% for the three months ended September 30, 2025 from 59% for the three months ended September 30, 2024 primarily due to higher revenue, offset by an increase in co-location costs driven by our data center expansion.",
+          "source_section": "10-Q - Page 46"
+        },
+        {
+          "statement": "Cost of revenue increased $10.8 million, or 13%, for the three months ended September 30, 2025 compared to the three months ended September 30, 2024. The change is primarily due to increases of $8.3 million in co-location costs as a result of our data center expansion, $1.2 million in costs related to our revenue share programs, and $1.2 million in other costs, net.",
+          "source_section": "10-Q - Page 46"
+        },
+        {
+          "statement": "Operating expenses: Research and development expenses increased $1.8 million, or 5%, for the three months ended September 30, 2025 compared to the three months ended September 30, 2024. The change is primarily due to an increase of $1.9 million in personnel costs mainly driven by higher headcount, offset by a decrease of $0.1 million in other costs, net.",
+          "source_section": "10-Q - Page 46"
+        },
+        {
+          "statement": "Sales and marketing expenses increased $6.0 million, or 39%, for the three months ended September 30, 2025 compared to the three months ended September 30, 2024. The change is primarily due to increases of $3.6 million in personnel costs mainly driven by higher headcount, $2.1 million in advertising expenses, and $0.1 million in other costs, net.",
+          "source_section": "10-Q - Page 46"
+        },
+        {
+          "statement": "General and administrative expenses decreased $7.8 million, or 19%, for the three months ended September 30, 2025 compared to the three months ended September 30, 2024. The change is primarily due to decreases of $7.9 million in personnel costs, primarily due to costs incurred in the third quarter of 2024 related to acquisition-related deferred compensation and lower share-based compensation due to forfeited or fully vested RSUs, and $0.7 million in other costs, net, partially offset by increases of $1.0 million in professional services costs.",
+          "source_section": "10-Q - Page 46"
+        },
+        {
+          "statement": "If we overestimate our data center capacity requirements and capital expenditures, and therefore secure excess data center capacity and servers or other equipment, our operating margins could be materially reduced.",
+          "source_section": "10-K - Page 27"
+        },
+        {
+          "statement": "Finally, the costs of operating our data centers have increased and may increase in the future due to rising energy prices as a result of global geopolitical issues.",
+          "source_section": "10-K - Page 27"
+        },
+        {
+          "statement": "We intend to continue to invest additional resources in our infrastructure to support our product portfolio and the scalability of our customer base. The level, timing and relative investment in our infrastructure could affect our cost of revenue in the future.",
+          "source_section": "10-K - Page 63"
+        },
+        {
+          "statement": "We expect research and development expenses to increase in absolute dollars as we continue to invest in our platform and product offerings.",
+          "source_section": "10-K - Page 63"
+        },
+        {
+          "statement": "Sales and marketing expenses ... We expect sales and marketing expenses to increase in absolute dollars as we enhance our product offerings and implement new marketing and sales strategies.",
+          "source_section": "10-K - Page 63"
+        },
+        {
+          "statement": "General and administrative expenses may increase in absolute dollars as we continue to grow our business.",
+          "source_section": "10-K - Page 63"
+        },
+        {
+          "statement": "While we have experienced revenue growth in recent periods, we are not certain whether or when we will obtain a high enough volume of sales to sustain or increase our growth or maintain profitability in the future. We also expect our costs and expenses will increase in future periods, which could negatively affect our future results of operations if our revenue also does not increase.",
+          "source_section": "10-K - Page 19"
+        },
+        {
+          "statement": "Our efforts to grow our business may be costlier than we expect, or the rate of our growth in revenue may be slower than we expect, and we may not be able to increase our revenue enough to offset our increased operating expenses.",
+          "source_section": "10-K - Page 19"
+        },
+        {
+          "statement": "If our revenue growth does not meet our expectations in future periods, our business, financial position and results of operations may be harmed, and we may not sustain profitability in the future.",
+          "source_section": "10-K - Page 20"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has demonstrated an increase in gross profit margin from 59% to 60% year-over-year, indicating improved profitability driven by higher revenue despite increased co-location costs, suggesting operational efficiency.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The company is actively investing in infrastructure, research and development, and sales and marketing to support growth and scalability, which could enhance future revenue and margin expansion.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "interpretation": "Decreases in general and administrative expenses, particularly personnel costs, indicate effective cost management which may support margin sustainability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Rising costs, including a 13% increase in cost of revenue primarily due to data center expansion and increased energy prices, could pressure operating margins and profitability.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            6
+          ]
+        },
+        {
+          "interpretation": "The company acknowledges uncertainty in sustaining profitability due to potential increases in costs and expenses that may not be offset by revenue growth, posing a risk to margin sustainability.",
+          "intensity": "High",
+          "source_fact_index": [
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "interpretation": "If the company overestimates data center capacity needs, resulting excess capacity and capital expenditures could materially reduce operating margins.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Increases in research and development and sales and marketing expenses, driven by higher headcount and advertising, may increase operating expenses and pressure margins if not matched by revenue growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            3
+          ]
+        }
+      ],
+      "dimension": "Margins & Cost Structure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We have funded our operations since inception primarily with cash flow generated by operations, offerings of our equity and debt securities, borrowings under our credit facilities, and equipment financing arrangements. Cash provided from these sources is used primarily for operating expenses, such as personnel and co-location costs, and capital expenditures, including our investments in AI/ML and other core product offerings. From time to time, we may also use excess cash and/or debt for share repurchases and investments in marketable securities and cash equivalents.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "We believe our existing cash and cash equivalents, cash flow from operations and availability under our 2025 Credit Facility will be sufficient to support working capital and capital expenditure requirements and our outstanding contractual commitments for at least the next 12 months and in the long term.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "As of September 30, 2025, we had $236.6 million in cash and cash equivalents. Our cash and cash equivalents primarily consist of cash and money market funds.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "We have historically repurchased our common stock pursuant to repurchase programs approved by our Board of Directors. In February 2024, our Board of Directors approved additional repurchase program of up to an aggregate of $140 million of our common stock which we completed in July 2025. In August 2025, we adopted the 2025 Share Buyback Program which authorizes the repurchase of up to $100 million of our common stock. The 2025 Share Buyback Program will expire on July 31, 2027. For the nine months ended September 30, 2025, we repurchased and retired 2.4 million shares of common stock for an aggregate purchase price of $82.1 million.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "As of September 30, 2025, we had $84.6 million of estimated undiscounted fixed payment obligations for leases of co-location space at data center facilities that have not yet commenced and were not included on the condensed consolidated balance sheets. These leases are expected to commence between October 2025 and December 2025, and have a weighted-average lease term of 7.2 years.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "In August 2025, we completed a private offering of our 2030 Convertible Notes with an aggregate principal amount of $625.0 million. The total net proceeds from the offering, after deducting issuance costs, were $606.1 million. The 2030 Convertible Notes mature on August 15, 2030, unless earlier converted, redeemed or repurchased by us. In connection with the 2030 Convertible Notes, we entered into capped call transactions, which are expected to reduce the potential dilution of our common stock upon any conversion of the 2030 Convertible Notes and/or offset any cash payments we could be required to make in excess of the principal amount of the converted notes, with such reduction and/or offset subject to a cap based on a cap price initially equal to $66.51 per share, which is subject to certain adjustments under the terms of the capped call transactions.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "In August 2025, we drew down $380.0 million on Term Loan A under our 2025 Credit Facility, which we entered into on May 5, 2025.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "We used the proceeds from our 2030 Convertible Notes and Term Loan A along with cash on hand to repurchase $1,187.7 million of principal outstanding of our 2026 Convertible Notes for an aggregate amount of $1,131.5 million, and to purchase the 2030 Capped Calls for an aggregate purchase price of $83.9 million.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "The outstanding principal of $312,322 of the 2026 Convertible Notes will mature on December 1, 2026 unless earlier converted, redeemed, or repurchased.",
+          "source_section": "10-Q - Page 25"
+        },
+        {
+          "statement": "We have funded our operations since inception primarily with cash flow generated by operations, private offerings of our equity and debt securities, borrowings under our existing credit facility and capital expenditure financings. Cash provided from these sources is used primarily for operating expenses, such as personnel and co-location costs, and capital expenditures, including our investments in AI/ML and other core product offerings.",
+          "source_section": "10-K - Page 67"
+        },
+        {
+          "statement": "We believe our existing cash and cash equivalents, cash flow from operations and availability under our Credit Facility will be sufficient to support working capital and capital expenditure requirements and our outstanding contractual commitments for at least the next 12 months and in the long term.",
+          "source_section": "10-K - Page 67"
+        },
+        {
+          "statement": "As of December 31, 2024, we had $428.4 million in cash and cash equivalents. Our cash and cash equivalents primarily consist of cash and money market funds.",
+          "source_section": "10-K - Page 67"
+        },
+        {
+          "statement": "As of December 31, 2024, we had $88.8 million of estimated undiscounted fixed payment obligations for leases of co-location space at data center facilities that have not yet commenced and were not included on the Consolidated Balance Sheets. These leases are expected to commence between January 2025 and August 2025, and have a weighted average lease term of 6.2 years.",
+          "source_section": "10-K - Page 67"
+        },
+        {
+          "statement": "Net cash used in financing activities (76,446) (468,903) (610,363). Increase (decrease) in cash, cash equivalents and restricted cash 111,210 167,176 (1,563,618). Cash, cash equivalents and restricted cash - beginning of period 318,983 151,807 1,715,425. Cash, cash equivalents and restricted cash - end of period $ 430,193 $ 318,983 $ 151,807.",
+          "source_section": "10-K - Page 84"
+        },
+        {
+          "statement": "Cash paid for interest $ 1,048 $ 916 $ 475. Cash paid for taxes, net of refunds 19,667 2,723 4,567. Operating cash flows paid for operating leases 83,070 74,248 49,870.",
+          "source_section": "10-K - Page 84"
+        },
+        {
+          "statement": "Property and equipment received but not yet paid, included in Accounts payable and Accrued other expenses 55,260 4,826 15,689.",
+          "source_section": "10-K - Page 84"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has a history of generating cash flow from operations and has multiple sources of funding including equity and debt offerings, which supports its ability to fund operating expenses and capital investments, indicating stable cash flow generation.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0,
+            9
+          ]
+        },
+        {
+          "interpretation": "The company believes its current cash, cash equivalents, operational cash flow, and credit facility availability are sufficient to meet working capital and capital expenditure needs for at least the next 12 months and beyond, suggesting strong liquidity and capital resource management.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            10
+          ]
+        },
+        {
+          "interpretation": "The company actively manages its capital structure by repurchasing convertible notes and common stock, which may reflect confidence in its cash flow and capital position.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            7
+          ]
+        },
+        {
+          "interpretation": "The company maintains significant cash and cash equivalents primarily in liquid forms such as cash and money market funds, supporting liquidity and flexibility in capital deployment.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            11
+          ]
+        },
+        {
+          "interpretation": "The company has planned capital commitments in the form of leases for co-location space with long weighted-average lease terms, indicating ongoing investment in infrastructure to support operations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4,
+            12
+          ]
+        },
+        {
+          "interpretation": "The company has successfully raised substantial capital through convertible notes and credit facilities, using proceeds to refinance existing debt and manage capital structure efficiently.",
+          "intensity": "High",
+          "source_fact_index": [
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The company’s net increase in cash and cash equivalents over recent periods, despite financing outflows, indicates positive cash conversion and operational cash flow generation.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            13
+          ]
+        },
+        {
+          "interpretation": "The company’s capital expenditures include significant property and equipment acquisitions, some of which are not yet paid, reflecting ongoing capital intensity aligned with growth and operational needs.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            15
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company relies on multiple external financing sources including equity and debt offerings to fund operations and capital expenditures, which may indicate that operational cash flow alone may not be sufficient to support growth or ongoing expenses.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0,
+            9
+          ]
+        },
+        {
+          "interpretation": "Although the company believes its liquidity is sufficient for the next 12 months and long term, this is a forward-looking statement and actual cash flow generation may vary, potentially impacting working capital and capital expenditure capabilities.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            10
+          ]
+        },
+        {
+          "interpretation": "The company has significant outstanding convertible notes and lease obligations that represent fixed payment commitments, which could constrain cash flow availability and increase capital intensity.",
+          "intensity": "High",
+          "source_fact_index": [
+            4,
+            8,
+            12
+          ]
+        },
+        {
+          "interpretation": "The company’s repurchase of convertible notes and common stock involves substantial cash outflows, which could reduce liquidity and cash available for other operational needs.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            7
+          ]
+        },
+        {
+          "interpretation": "The company has a notable amount of property and equipment received but not yet paid, which could indicate capital expenditure commitments that will require future cash outflows, impacting cash conversion.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            15
+          ]
+        },
+        {
+          "interpretation": "The company’s net cash used in financing activities is significant, which may reflect substantial debt repayments or other financing outflows that could pressure liquidity.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            13
+          ]
+        }
+      ],
+      "dimension": "Cash Flow Generation"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We may from time to time seek to retire or purchase our outstanding equity or debt, including the repurchase of our common stock or the Convertible Notes, through cash purchases and/or exchanges for equity securities, in open market purchases, privately negotiated transactions or otherwise. Such repurchases or exchanges, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions, and other factors. The amounts involved in any such transactions, individually or in the aggregate, may be material. Further, any such purchases or exchanges may result in us acquiring and retiring a substantial amount of such indebtedness, which could impact the trading liquidity of such indebtedness.",
+          "source_section": "10-K Item 8 (Page 68)"
+        },
+        {
+          "statement": "Net cash used in financing activities of $76.4 million and $468.9 million for the years ended December 31, 2024 and 2023, respectively, was primarily due to the repurchase and retirement of our common stock for $59.8 million and $488.5 million, respectively.",
+          "source_section": "10-K Item 8 (Page 68)"
+        },
+        {
+          "statement": "We have historically funded our operations through equity and debt financings and sales of our products. We cannot be certain if our operations will continue to generate sufficient cash to fully fund our ongoing operations or the growth of our business. If our ongoing operations, growth and any other investments to support our business cannot be funded by our operations, we may be required to engage in equity or debt financings to secure additional funds. Additional financing may not be available on terms favorable to us, if at all. If adequate funds are not available on acceptable terms, we may be unable to invest in future growth opportunities, which could harm our business, operating results, and financial condition.",
+          "source_section": "10-K Item 1A (Page 36)"
+        },
+        {
+          "statement": "In August 2025, we completed a private offering of our 2030 Convertible Notes with an aggregate principal amount of $625.0 million. The total net proceeds from the offering, after deducting issuance costs, were $606.1 million. The 2030 Convertible Notes mature on August 15, 2030, unless earlier converted, redeemed or repurchased by us. In connection with the 2030 Convertible Notes, we entered into capped call transactions, which are expected to reduce the potential dilution of our common stock upon any conversion of the 2030 Convertible Notes and/or offset any cash payments we could be required to make in excess of the principal amount of the converted notes, with such reduction and/or offset subject to a cap based on a cap price initially equal to $66.51 per share, which is subject to certain adjustments under the terms of the capped call transactions.",
+          "source_section": "10-Q (Page 50)"
+        },
+        {
+          "statement": "We used the proceeds from our 2030 Convertible Notes and Term Loan A along with cash on hand to repurchase $1,187.7 million of principal outstanding of our 2026 Convertible Notes for an aggregate amount of $1,131.5 million, and to purchase the 2030 Capped Calls for an aggregate purchase price of $83.9 million.",
+          "source_section": "10-Q (Page 50)"
+        },
+        {
+          "statement": "We believe our existing cash and cash equivalents, cash flow from operations and availability under our 2025 Credit Facility will be sufficient to support working capital and capital expenditure requirements and our outstanding contractual commitments for at least the next 12 months and in the long term.",
+          "source_section": "10-Q (Page 50)"
+        },
+        {
+          "statement": "From time to time, we may seek to retire or purchase our outstanding equity or debt, including the repurchase of our common stock or outstanding convertible notes, through cash purchases and/or exchanges for equity securities, in open market purchases, privately negotiated transactions or otherwise. Such repurchases or exchanges, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions, and other factors. The amounts involved in any such transactions, individually or in the aggregate, may be material. Further, any such purchases or exchanges may result in us acquiring and retiring a substantial amount of such indebtedness, which could impact the trading liquidity of such indebtedness.",
+          "source_section": "10-Q (Page 50)"
+        },
+        {
+          "statement": "We plan to repurchase, repay, acquire or otherwise settle the remaining outstanding principal of our 2026 Convertible Notes by drawing on the remaining capacity under our 2025 Credit Facility, in whole or in part, and using cash on hand or generated from our operations.",
+          "source_section": "10-Q (Page 50)"
+        },
+        {
+          "statement": "In February 2024, our Board of Directors approved additional repurchase program of up to an aggregate of $140 million of our common stock which we completed in July 2025. In August 2025, we adopted the 2025 Share Buyback Program which authorizes the repurchase of up to $100 million of our common stock. The 2025 Share Buyback Program will expire on July 31, 2027.",
+          "source_section": "10-Q (Page 50)"
+        },
+        {
+          "statement": "During the nine months ended September 30, 2025, we repurchased and retired 2.4 million shares of common stock for an aggregate purchase price of $82.1 million.",
+          "source_section": "10-Q (Page 50)"
+        },
+        {
+          "statement": "We expect to issue additional capital stock in the future that will result in dilution to all other stockholders. We expect to grant equity awards to employees, directors and consultants under our equity incentive plans. We may also raise capital through equity financings in the future. As part of our business strategy, we may acquire or make investments in companies, products or technologies and issue equity securities to pay for any such acquisition or investment. Any such issuances of additional capital stock may cause stockholders to experience significant dilution of their ownership interests and the per share value of our common stock to decline.",
+          "source_section": "10-K Item 1A (Page 48)"
+        },
+        {
+          "statement": "As part of our business strategy, we may acquire or make investments in companies, products or technologies and issue equity securities to pay for any such acquisition or investment.",
+          "source_section": "10-K Item 1A (Page 19)"
+        },
+        {
+          "statement": "We expect to continue to expend substantial financial and other resources on: our technology infrastructure, including systems architecture, scalability, availability, performance, security, hardware, equipment and other capital expenditures, including expenses to increase or maintain data center capacity and to successfully optimize and operate data center facilities; product development, including the development of new products and new functionality for our platform as well as investments in both further optimizing our existing products and infrastructure; our sales and marketing organization to engage our existing and prospective customers, increase brand awareness and drive adoption of our products; strategic investments and acquisitions;",
+          "source_section": "10-K Item 1A (Page 19)"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company actively manages its capital structure by repurchasing outstanding equity and debt, which can enhance shareholder value and reduce interest expenses, reflecting disciplined capital allocation.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            1,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "interpretation": "The company has successfully raised significant capital through convertible notes and credit facilities, providing liquidity to support operations, growth, and strategic initiatives including acquisitions and share repurchases.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The company plans to continue investing substantially in technology infrastructure, product development, sales and marketing, and strategic acquisitions, indicating a focus on growth and innovation.",
+          "intensity": "High",
+          "source_fact_index": [
+            11,
+            12
+          ]
+        },
+        {
+          "interpretation": "The company has established share repurchase programs approved by the Board, demonstrating a commitment to returning capital to shareholders and managing equity dilution.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8,
+            9
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company’s reliance on equity and debt financings to fund operations and growth introduces risks of dilution to existing shareholders and potential unfavorable financing terms, which could adversely affect financial condition and stock value.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            10
+          ]
+        },
+        {
+          "interpretation": "Repurchases of debt and equity, while potentially beneficial, depend on market conditions, liquidity, and contractual restrictions, which may limit the company’s flexibility and could impact trading liquidity of its securities.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0,
+            6
+          ]
+        },
+        {
+          "interpretation": "Issuance of additional capital stock for acquisitions or investments may dilute existing shareholders and depress the market price of common stock, posing a risk to shareholder value.",
+          "intensity": "High",
+          "source_fact_index": [
+            10,
+            11
+          ]
+        },
+        {
+          "interpretation": "The company’s significant ongoing expenditures on infrastructure, product development, and acquisitions may increase costs and financial risk if not matched by revenue growth or operational efficiencies.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            12
+          ]
+        }
+      ],
+      "dimension": "Capital Allocation & Investment Discipline"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Any other indebtedness we incur could impact our business and financial condition in one or more of the following ways: requiring a substantial portion of cash flow from operations to be dedicated to the payment of principal and interest on our indebtedness; exposing us to increased interest expense; making it more difficult for us to satisfy our obligations with respect to our indebtedness; restricting us from making strategic acquisitions; limiting our ability to obtain additional financing for working capital, capital expenditures, product development, satisfaction of debt service requirements, acquisitions and general corporate or other purposes; increasing our vulnerability to adverse economic, industry or competitive developments; and limiting our flexibility in planning for, or reacting to, changes in our business or market conditions and placing us at a competitive disadvantage compared to our competitors who may be better positioned to take advantage of opportunities that our leverage prevents us from exploiting.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The terms of any future indebtedness we may incur could include more restrictive covenants. We cannot assure you that we will be able to maintain compliance with these covenants in the future and, if we fail to do so, that we will be able to obtain waivers from the lenders or amend the covenants. Our failure to comply with any of the existing restrictions described above or any other restrictions associated with the terms of any future indebtedness from time to time could result in an event of default, which, if not cured or waived, could result in our being required to repay these borrowings before their due date.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We may require additional capital to support the growth of our business, and this capital might not be available on acceptable terms, if at all. We have historically funded our operations through equity and debt financings and sales of our products. We cannot be certain if our operations will continue to generate sufficient cash to fully fund our ongoing operations or the growth of our business. If our ongoing operations, growth and any other investments to support our business cannot be funded by our operations, we may be required to engage in equity or debt financings to secure additional funds. Additional financing may not be available on terms favorable to us, if at all.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "If adequate funds are not available on acceptable terms, we may be unable to invest in future growth opportunities, which could harm our business, operating results, and financial condition. If we incur additional debt, the debt holders would have rights senior to holders of common stock to make claims on our assets, and the terms of any debt could restrict our operations, including our ability to pay dividends on our common stock. Furthermore, if we issue additional equity securities, stockholders will experience dilution, and the new equity securities could have rights senior to those of our common stock.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We have funded our operations since inception primarily with cash flow generated by operations, offerings of our equity and debt securities, borrowings under our credit facilities, and equipment financing arrangements. Cash provided from these sources is used primarily for operating expenses, such as personnel and co-location costs, and capital expenditures, including our investments in AI/ML and other core product offerings.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "In August 2025, we completed a private offering of our 2030 Convertible Notes with an aggregate principal amount of $625.0 million. The total net proceeds from the offering, after deducting issuance costs, were $606.1 million. The 2030 Convertible Notes mature on August 15, 2030, unless earlier converted, redeemed or repurchased by us.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "In August 2025, we drew down $380.0 million on Term Loan A under our 2025 Credit Facility, which we entered into on May 5, 2025.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "We used the proceeds from our 2030 Convertible Notes and Term Loan A along with cash on hand to repurchase $1,187.7 million of principal outstanding of our 2026 Convertible Notes for an aggregate amount of $1,131.5 million, and to purchase the 2030 Capped Calls for an aggregate purchase price of $83.9 million.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "As of September 30, 2025, we had $1,317.3 million aggregate principal amount outstanding under our 2030 Convertible Notes, 2026 Convertible Notes and our Term Loan A, with $420.0 million of borrowing capacity available under our 2025 Credit Facility.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "We believe our existing cash and cash equivalents, cash flow from operations and availability under our 2025 Credit Facility will be sufficient to support working capital and capital expenditure requirements and our outstanding contractual commitments for at least the next 12 months and in the long term.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "As of September 30, 2025, we had $236.6 million in cash and cash equivalents. Our cash and cash equivalents primarily consist of cash and money market funds.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "The credit agreement that governs our credit facility imposes significant operating and financial restrictions on us. These restrictions limit the ability of our subsidiaries, and effectively limit our ability to, among other things: incur or guarantee additional debt or issue disqualified equity interests.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The Credit Facility contains certain financial and operational covenants, including a maximum senior secured net leverage ratio financial covenant of 3.50x. As of December 31, 2024, the Company was in compliance with all covenants under the Credit Facility.",
+          "source_section": "10-K Item 8 Note 8 Debt"
+        },
+        {
+          "statement": "As of December 31, 2024, the Company had available borrowing capacity of $250,000 on the Credit Facility. The Credit Facility will mature on the earlier of (a) March 29, 2027 and (b) 90 days before the maturity date applicable to any outstanding convertible notes issued by the Company in an aggregate principal amount equal to or greater than $100,000.",
+          "source_section": "10-K Item 8 Note 8 Debt"
+        },
+        {
+          "statement": "In November 2021, the Company issued $1,500,000 aggregate principal amount of Convertible Notes in a private offering, including the exercise in full of the over-allotment option granted to the initial purchasers of $200,000. The Convertible Notes are senior unsecured obligations of the Company and do not bear interest, and the principal amount of the Convertible Notes does not accrete. The Convertible Notes will mature on December 1, 2026 unless earlier converted, redeemed, or repurchased.",
+          "source_section": "10-K Item 8 Note 8 Debt"
+        },
+        {
+          "statement": "On August 14, 2025, the Company repurchased approximately $1,187,678 aggregate principal amount of the 2026 Convertible Notes for approximately $1,131,458 in cash from the proceeds under the 2030 Convertible Notes and Term Loan A and wrote-off $7,847 related issuance costs. The repurchase was accounted as an extinguishment resulting in a gain on extinguishment of debt of $48,373 recorded in other income, net on the Company’s condensed consolidated statements of operations during the three months ended September 30, 2025. The outstanding principal of $312,322 of the 2026 Convertible Notes will mature on December 1, 2026 unless earlier converted, redeemed, or repurchased.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "As of December 31, 2024, we had cash, cash equivalents and marketable securities of $428 million, which were held for working capital purposes. Our cash equivalents consist of highly liquid investments in money market funds.",
+          "source_section": "10-K Item 7A"
+        },
+        {
+          "statement": "As of September 30, 2025, we had $84.6 million of estimated undiscounted fixed payment obligations for leases of co-location space at data center facilities that have not yet commenced and were not included on the condensed consolidated balance sheets. These leases are expected to commence between October 2025 and December 2025, and have a weighted-average lease term of 7.2 years.",
+          "source_section": "10-Q Item 2"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company has successfully raised significant capital through a private offering of 2030 Convertible Notes and a Term Loan, demonstrating access to debt markets and the ability to refinance existing debt, which can be viewed positively for liquidity and funding access.",
+          "intensity": "High",
+          "source_fact_index": [
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The company believes its existing cash, cash equivalents, cash flow from operations, and available credit facility borrowing capacity will be sufficient to support working capital, capital expenditures, and contractual commitments for at least the next 12 months and in the long term, indicating a stable liquidity position.",
+          "intensity": "High",
+          "source_fact_index": [
+            9,
+            10
+          ]
+        },
+        {
+          "interpretation": "The company is in compliance with all covenants under its Credit Facility, which includes a maximum senior secured net leverage ratio financial covenant, suggesting manageable leverage and covenant compliance.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            12
+          ]
+        },
+        {
+          "interpretation": "The company has repurchased a substantial portion of its 2026 Convertible Notes using proceeds from new debt and cash on hand, which may reduce near-term debt obligations and interest costs.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7,
+            15
+          ]
+        },
+        {
+          "interpretation": "The company maintains a significant amount of cash and cash equivalents, primarily in highly liquid money market funds, supporting operational liquidity and capital expenditure needs.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            16
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company acknowledges that incurring additional indebtedness could require a substantial portion of cash flow to service debt, increase interest expense, restrict strategic acquisitions, limit financing options, and reduce flexibility, which could adversely impact financial condition and competitive position.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "There is uncertainty about the company's ability to maintain compliance with debt covenants in the future, and failure to comply could trigger events of default requiring early repayment of borrowings, potentially harming financial condition.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The company may require additional capital to support growth, but such capital might not be available on acceptable terms or at all, which could limit investment in growth opportunities and harm business and financial condition.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            3
+          ]
+        },
+        {
+          "interpretation": "The credit agreement imposes significant operating and financial restrictions, including limitations on incurring additional debt or issuing disqualified equity interests, which may constrain operational flexibility and growth initiatives.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            11
+          ]
+        },
+        {
+          "interpretation": "The company has significant outstanding debt, including convertible notes and term loans, with maturities and repayment obligations that may require refinancing or repayment from cash flow, posing refinancing risk.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8,
+            14,
+            15
+          ]
+        },
+        {
+          "interpretation": "The company has estimated undiscounted fixed payment obligations for leases of co-location space that have not yet commenced, representing future financial commitments that are not currently reflected on the balance sheet.",
+          "intensity": "Low",
+          "source_fact_index": [
+            17
+          ]
+        }
+      ],
+      "dimension": "Balance Sheet Strength & Liquidity"
+    },
+    {
+      "facts": [
+        {
+          "statement": "In order to deliver appropriate customer support and engagement, we must successfully assist our customers in deploying and continuing to use our platform and products, resolving performance issues, addressing interoperability challenges with the customers’ existing IT infrastructure, and responding to security threats and cyber-attacks and performance and reliability problems that may arise from time to time. Because our platform and products are designed to be highly configurable and to rapidly implement customers’ reconfigurations, if customers make errors in configuring our platform and products, they may experience significant disruption to their workloads on our platform. Increased demand for customer support, without corresponding increases in revenue, could increase our costs and adversely affect our business, results of operations, and financial condition.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "There can be no assurance that we will be able to hire sufficient support personnel as and when needed, particularly if our sales exceed our internal forecasts. To the extent that we are unsuccessful in hiring, training, and retaining adequate support resources, our ability to provide high-quality and timely support to our customers will be negatively impacted, and our customers’ satisfaction and their usage of our platform could be adversely affected.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Any interruptions resulting in our inability to timely deliver our products, or materially impacting the efficiency or cost with which we provide our products, would harm our brand, profitability and ability to conduct business.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "If third-party vendors increase their prices and we are unable to successfully pass those costs on to our customers, it could have a substantial effect on our results of operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We rely on third-party software providers and other partners for many essential financial and operational services to support our business, including, without limitation, encryption and authentication technology, infrastructure operations, certain database services, employee email, content delivery to customers, back-office support, credit card processing and other functions. These vendors provide their services to us via a cloud-based model instead of software that is installed on our premises. As a result, we depend upon these vendors to provide us with services that are always available and are free of errors or defects that could cause disruptions in our business processes. Any failure by these vendors to do so, or any disruption in our ability to access the internet, would materially and adversely affect our ability to manage our operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "It may become increasingly difficult to maintain and improve our platform performance, especially during peak usage times and as our customer base grows and our platform becomes more complex. If our platform is unavailable or if our customers are unable to access our platform within a reasonable amount of time or at all, we may experience a loss of customers, lost or delayed market acceptance of our platform, delays in payment to us by customers, injury to our reputation and brand, legal claims against us, significant cost of remedying these problems and the diversion of our resources.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "To the extent that we do not effectively address capacity constraints, upgrade our systems as needed and continually develop our technology and network architecture to accommodate actual and anticipated changes in technology, our business, financial condition and results of operations, as well as our reputation, may be adversely affected.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We and our data centers have experienced, and may in the future experience, disruptions, outages and other performance problems due to a variety of factors, including infrastructure changes and capacity constraints, due to an overwhelming number of customers accessing our platform simultaneously.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Data center facilities housing our network infrastructure may also be subject to local administrative actions, changes to legal or permitting requirements, labor disputes, litigation to stop, limit, or delay operations, and other legal challenges, including local government agencies seeking to gain access to customer accounts for law enforcement or other reasons.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "While we have entered into various agreements for the lease of data center space, equipment, maintenance and other services, the third party could fail to live up to the contractual obligations under those agreements.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Other factors, many of which are beyond our control, that can affect the delivery, performance, and availability of our platform and products include: the development, maintenance, and functioning of the infrastructure of the internet as a whole; the performance and availability of third-party telecommunications services with the necessary speed, data capacity, and security for providing reliable internet access and services; the failure of our redundancy systems, in the event of a service disruption at one of the facilities hosting our network infrastructure, to redistribute load to other components of our network; the failure of our disaster recovery and business continuity plans; and decisions by the owners and operators of the co-location and ISP-partner facilities where our network infrastructure is deployed or by global telecommunications service provider partners who provide us with network bandwidth to terminate our contracts, discontinue services to us, shut down operations or facilities, increase prices, change service levels, limit bandwidth, declare bankruptcy, breach their contracts with us, or prioritize the traffic of other parties.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Unfavorable conditions in the economy both in the United States and abroad, including conditions resulting from trade tension and/or the imposition of trade restrictions (including recent U.S. tariffs imposed and/or threatened to be imposed and any retaliatory actions taken by other countries), changes in gross domestic product growth, supply chain disruptions, inflationary pressures, high interest rates, financial and credit market fluctuations, volatility in the capital markets, liquidity concerns at, and failures of, banks and other financial institutions, geopolitical tensions, political turmoil, political instability and transitions of power in regions where we operate, natural catastrophes, outbreaks of contagious diseases, warfare and terrorist attacks on the United States, Europe or elsewhere, including military actions affecting Russia, Ukraine, the Middle East or elsewhere, could cause a decrease in business investments in information technology and negatively affect the growth of our business and our results of operations.",
+          "source_section": "10-Q Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s focus on delivering high-quality customer support and engagement, including assisting customers with deployment, performance issues, and security, demonstrates a commitment to customer satisfaction and platform reliability, which could foster customer loyalty and platform adoption.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The company’s efforts to hire, train, and retain support personnel as needed indicate proactive management of labor resources to maintain service quality, which could support sustained customer satisfaction and platform usage.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The company’s reliance on third-party vendors and cloud-based services, while a potential risk, also allows for scalable and flexible operational support, which could enable efficient management of infrastructure and services.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The company’s recognition of capacity constraints and platform complexity suggests awareness and potential for ongoing system upgrades and technology development to meet customer demand and maintain performance.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "The company’s leasing of data center space across multiple global locations and agreements for equipment and maintenance indicate a diversified infrastructure strategy that could mitigate localized disruptions and support platform availability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8,
+            9
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Errors by customers in configuring the highly configurable platform could cause significant disruptions to workloads, increasing support demands and costs without corresponding revenue increases, potentially harming financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The inability to hire, train, and retain sufficient support personnel, especially if sales exceed forecasts, could degrade customer support quality and satisfaction, negatively impacting platform usage and business outcomes.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Dependence on third-party vendors for essential services and cloud-based operations exposes the company to risks of service disruptions, errors, or increased costs, which could materially and adversely affect business operations and financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Capacity constraints, infrastructure disruptions, and performance problems, including those caused by overwhelming customer access or third-party data center issues, could lead to service interruptions, loss of customers, reputational damage, and increased costs.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7,
+            8,
+            10
+          ]
+        },
+        {
+          "interpretation": "Unfavorable macroeconomic conditions, including supply chain disruptions, inflationary pressures, geopolitical tensions, and other external factors, could reduce business investments in information technology, negatively affecting the company’s growth and results of operations.",
+          "intensity": "High",
+          "source_fact_index": [
+            11
+          ]
+        }
+      ],
+      "dimension": "Operational & Supply Chain Risks"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Unfavorable conditions in our industry or the global economy, or reductions in information technology spending, could limit our ability to grow our business and negatively affect our results of operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our current operations are international in scope, and we plan further geographic expansion, creating a variety of operational challenges.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Geopolitical risks, including those arising from trade tension and/or the imposition of trade tariffs (including recent U.S. tariffs imposed or threatened to be imposed and any retaliatory actions taken by other countries), terrorist activity or acts of civil or international hostility, are increasing. While we do not currently have employees or direct operations in any region with ongoing military conflict, we may have customers with business activities in these countries and regions. Based on ongoing military conflicts and associated sanctions imposed by the U.S. government, our ability to receive payments from customers in those regions and our ability to realize revenues from those customers may be impacted. Further, due to political uncertainty and military actions, we and the third parties upon which we rely may be vulnerable to a heightened risk of cyber-attacks, computer malware, viruses, supply chain attacks, social engineering (including spear phishing and ransomware attacks) and general hacking that could materially disrupt our systems and operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Further, fluctuations in inflation rates and interest rates could have a material and adverse effect on our business, financial condition or results of operations. Economic weakness, customer financial difficulties and constrained spending on information technology operations could adversely affect our customers’ ability or willingness to subscribe to our service offerings, delay purchasing decisions and lengthen our sales cycles, reduce the usage of our products and services, or increase churn, all of which could have an adverse effect on our sales and operating results.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our current and future international business and operations involve a variety of risks, including: slower than anticipated availability and adoption of cloud-based infrastructures and platforms by international businesses; the need to adapt and localize our products for specific countries; potential changes in laws, regulations, sanctions or trade relations; more stringent regulations relating to data privacy and security and the unauthorized use of, or access to, commercial and personal data, particularly in Europe; challenges inherent in efficiently managing, and the increased costs associated with, an increased number of employees over large geographic distances, including the need to implement appropriate systems, policies, benefits, and compliance programs that are specific to each jurisdiction; greater difficulty collecting accounts receivable and longer payment cycles; payment issues and other foreign currency risks, including fluctuations in exchange rates; inflation in certain regions where we operate; laws and business practices favoring local competitors or general market preferences for local vendors; political instability or terrorist activities; an outbreak of a contagious disease or a natural disaster that may cause us or our third-party providers and/or customers to temporarily suspend our or their respective operations in the affected city or country; and adverse tax burdens and foreign exchange restrictions that could make it difficult to repatriate earnings and cash.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Unfavorable conditions in the economy both in the United States and abroad, including conditions resulting from trade tension and/or the imposition of trade restrictions (including recent U.S. tariffs imposed and/or threatened to be imposed and any retaliatory actions taken by other countries), changes in gross domestic product growth, supply chain disruptions, inflationary pressures, high interest rates, financial and credit market fluctuations, volatility in the capital markets, liquidity concerns at, and failures of, banks and other financial institutions, geopolitical tensions, political turmoil, political instability and transitions of power in regions where we operate, natural catastrophes, outbreaks of contagious diseases, warfare and terrorist attacks on the United States, Europe or elsewhere, including military actions affecting Russia, Ukraine, the Middle East or elsewhere, could cause a decrease in business investments in information technology and negatively affect the growth of our business and our results of operations.",
+          "source_section": "10-Q Page 38"
+        },
+        {
+          "statement": "We are exposed to market risks in the ordinary course of our business. Market risk represents the risk of loss that may impact our financial position due to adverse changes in financial market prices and rates. Our market risk exposure is primarily the result of fluctuations in interest rates and foreign currency exchange rates.",
+          "source_section": "10-K Item 7A"
+        },
+        {
+          "statement": "Our sales are primarily denominated in U.S. dollars, and therefore our revenue is generally not currently subject to significant foreign currency risk. Our operating expenses are denominated in the currencies of the countries in which our operations are located, which are primarily in Australia, Canada, Germany, India, the Netherlands, Pakistan, United Kingdom and the United States. Our consolidated results of operations and cash flows are, therefore, subject to fluctuations due to changes in foreign currency exchange rates and may be adversely affected in the future due to changes in foreign exchange rates. To date, we have not entered into any hedging arrangements with respect to foreign currency risk or other derivative financial instruments, although we may choose to do so in the future. A hypothetical 10% increase or decrease in the relative value of the U.S. dollar to other currencies would not have a material effect on our operating results.",
+          "source_section": "10-K Item 7A"
+        },
+        {
+          "statement": "Our business could be disrupted by catastrophic occurrences and similar events. Our platform and the public cloud infrastructure on which our platform relies are vulnerable to damage or interruption from catastrophic occurrences, such as earthquakes, floods, fires, power loss, telecommunication failures, terrorist attacks, criminal acts, sabotage, other intentional acts of vandalism and misconduct, geopolitical events, disease, and similar events. Despite any precautions we may take, the occurrence of a natural disaster or other unanticipated problems at our facilities or the facilities of our public cloud providers could result in disruptions, outages, and other performance and quality problems. If we are unable to develop adequate plans to ensure that our business functions continue to operate during and after a disaster and to execute successfully on those plans in the event of a disaster or emergency, our business would be seriously harmed.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our business could be affected by the enactment of new governmental regulations regarding the internet or the application of additional or different existing governmental regulation to our business, products, or services. The legal and regulatory environment pertaining to the internet and products and services such as ours, both in the United States and internationally, is uncertain and may change. New laws may be passed, existing but previously inapplicable or unenforced laws may be deemed to apply, legal safe harbors may be narrowed, and courts may issue decisions affecting existing regulations or leading to new ones. Furthermore, legal and regulatory authorities, both in the United States and internationally, may characterize or recharacterize us and our business, products, or services in ways that would apply additional or different regulations to us.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The success of our business depends on our customers’ continued and unimpeded access to our platform on the internet and, as a result, also depends on internet providers and the related regulatory environment. Our customers must have internet access in order to use our platform. Some internet providers may take measures that affect their customers’ ability to use our platform, such as degrading the quality of the content we transmit over their lines, giving that content lower priority, giving other content higher priority than ours, blocking our content entirely, or attempting to charge their customers more for using our platform.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our increased focus on the development and use of artificial intelligence and machine learning may result in reputational harm, liability or other adverse consequences to our business, results of operations or financial results. We continue to invest in our AI/ML product offerings, which may result in new or enhanced governmental or regulatory scrutiny, litigation, confidentiality, privacy or security risks, ethical concerns, or other complications that could adversely affect our business, reputation, or financial results. The increasing focus on the risks and strategic importance of AI/ML technologies has already resulted in regulatory restrictions that target products and services capable of enabling or facilitating AI/ML.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s international scope and planned geographic expansion indicate growth opportunities and potential to capture new markets despite operational challenges.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            4
+          ]
+        },
+        {
+          "interpretation": "The company’s awareness and monitoring of macroeconomic and geopolitical risks demonstrate proactive risk management, which could help mitigate adverse impacts on business operations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            5,
+            11
+          ]
+        },
+        {
+          "interpretation": "The company’s platform resilience planning against catastrophic events and its investment in AI/ML offerings position it to maintain service continuity and innovate in evolving markets.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8,
+            13
+          ]
+        },
+        {
+          "interpretation": "The company’s revenue primarily denominated in U.S. dollars and limited material impact from foreign currency fluctuations suggest relative stability in financial results against currency risks.",
+          "intensity": "Low",
+          "source_fact_index": [
+            7
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company faces significant operational risks from geopolitical tensions, trade tariffs, and military conflicts that could disrupt revenue streams and increase cybersecurity threats.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Macroeconomic uncertainties including inflation, interest rate fluctuations, economic slowdowns, and constrained IT spending could materially and adversely affect customer demand and financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            3,
+            5,
+            11
+          ]
+        },
+        {
+          "interpretation": "International expansion exposes the company to complex regulatory, tax, currency, and operational challenges that could increase costs and hinder growth if not managed effectively.",
+          "intensity": "High",
+          "source_fact_index": [
+            4,
+            10
+          ]
+        },
+        {
+          "interpretation": "Potential changes in internet regulation, net neutrality, and dependency on internet providers could restrict customer access to the platform and increase operational risks.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9,
+            11
+          ]
+        },
+        {
+          "interpretation": "Increased regulatory scrutiny and risks related to AI/ML product offerings could lead to reputational harm, legal liabilities, and operational challenges.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            12
+          ]
+        }
+      ],
+      "dimension": "Market, Macro & Regulatory Exposure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Our success and future growth depend largely upon the continued services of our executive leadership team, members of senior management and other key employees. If we fail to motivate or retain our executive leadership team, members of senior management and other key employees, our success and future growth may be impacted. Our executive officers and other key employees are employed on an at-will basis, which means that these personnel could terminate their employment with us at any time. The loss of one or more of our executive officers, or the failure by our executive team to effectively work with our employees and lead our company, could harm our business.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "In order to execute our growth plan, we must attract and retain highly qualified personnel. Competition for these personnel is intense, especially for engineers experienced in cloud computing, infrastructure solutions, and AI/ML. From time to time, we have experienced, and we expect to continue to experience, difficulty in hiring and retaining employees with appropriate qualifications. Many of the companies with which we compete for experienced personnel have greater resources than we have. If we hire employees from competitors or other companies, their former employers may attempt to assert that these employees or we have breached their legal obligations, resulting in a diversion of our time and resources. In addition, prospective and existing employees often consider the value of the equity awards they receive in connection with their employment. Volatility or lack of performance in our stock price may affect our ability to recruit and retain key employees. If we fail to attract new personnel or fail to retain and motivate our current personnel, our business and future growth prospects would be harmed.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We have in the past and may in the future undertake internal restructuring activities that could result in disruptions to our business or otherwise materially harm our results of operations or financial condition. We have in the past and may in the future undertake internal restructuring activities in an effort to better align our resources with our business strategy. We incur substantial costs to implement restructuring plans, and our restructuring activities may subject us to reputational risks and litigation risks and expenses. There can be no assurance that any restructuring activities that we undertake will achieve the cost savings, operating efficiencies or other benefits that we may initially expect. In addition, restructuring activities may result in loss of institutional knowledge and expertise, attrition beyond our intended reduction-in-force, or a negative impact on employee morale and productivity or our ability to attract highly-skilled employees. Internal restructurings can also require a significant amount of time and focus from management and other employees, which may divert attention from commercial operations. While we take actions to mitigate these risks, there can be no certainty that such efforts to mitigate are effective. If any internal restructuring activities we have undertaken or undertake in the future fail to achieve some or all of the expected benefits therefrom, our business, results of operations and financial condition could be materially and adversely affected.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our corporate culture has contributed to our success and if we cannot maintain this culture as we grow , we could lose the innovation, creativity and entrepreneurial spirit we have worked hard to foster, which could harm our business. We believe our corporate culture has been a key contributor to our success to date. If we do not continue to maintain our corporate culture as we grow or as a result of any reductions in workforce, we may be unable to foster the innovation, creativity and entrepreneurial spirit we believe we need to support our growth.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "In February 2023, the Company initiated the Restructuring Plan to adjust its cost structure and accelerate its timeline to achieve 20% or better adjusted free cash flow margins, which included both the elimination of positions across the Company as well as the shifting of additional positions across a broader geographical footprint. The aggregate restructuring charges in connection with the Restructuring Plan is approximately $21,000, which was substantially completed in 2023.",
+          "source_section": "10-K Note 16. Restructuring"
+        },
+        {
+          "statement": "We intend to continue to invest additional resources in our infrastructure to support our product portfolio and the scalability of our customer base. The level, timing and relative investment in our infrastructure could affect our cost of revenue in the future.",
+          "source_section": "10-K Item 7 Management's Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+          "statement": "Research and development expenses consist primarily of personnel costs including salaries, bonuses, benefits and stock-based compensation. Research and development expenses also include amortization of capitalized internal-use software development costs for research and development activities, which are amortized over three years, professional services, software, as well as costs related to our efforts to add new features to our existing offerings, develop new offerings, and ensure the security, performance, and reliability of our global cloud platform. We expect research and development expenses to increase in absolute dollars as we continue to invest in our platform and product offerings.",
+          "source_section": "10-K Item 7 Management's Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+          "statement": "Sales and marketing expenses consist primarily of personnel costs of our sales and marketing and customer success employees, including salaries, bonuses, benefits, commissions and stock-based compensation. Sales and marketing expenses also include costs for marketing programs, advertising, amortization of acquired customer relationships and professional services. We expect sales and marketing expenses to increase in absolute dollars as we enhance our product offerings and implement new marketing and sales strategies.",
+          "source_section": "10-K Item 7 Management's Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+          "statement": "General and administrative expenses consist primarily of personnel costs of our human resources, legal, finance and other administrative functions, including salaries, bonuses, benefits, and stock-based compensation. General and administrative expenses also include payment processing fees, provision for expected credit losses, professional services, software, business insurance, depreciation and amortization expenses, rent and facilities costs, acquisition-related compensation, and other administrative costs. General and administrative expenses may increase in absolute dollars as we continue to grow our business.",
+          "source_section": "10-K Item 7 Management's Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+          "statement": "We have historically repurchased our common stock pursuant to repurchase programs approved by our Board of Directors. In February 2024, our Board of Directors approved an additional repurchase program of up to an aggregate of $140 million of our common stock through fiscal year 2025. For the year ended December 31, 2024, we repurchased and retired 1,511,909 shares of common stock for an aggregate purchase price of $57.4 million. The program will expire on December 31, 2025.",
+          "source_section": "10-K Item 7 Management's Discussion and Analysis of Financial Condition and Results of Operations"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s emphasis on retaining and motivating its executive leadership and key employees highlights a management strategy focused on stability and leadership continuity, which could support sustained growth and operational success.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The company’s recognition of the importance of attracting highly qualified personnel, especially in competitive fields like cloud computing and AI/ML, indicates a strategic priority to build a strong talent base to drive innovation and growth.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The restructuring plan initiated in 2023 aimed at adjusting cost structure and accelerating free cash flow margins demonstrates proactive management execution to improve financial efficiency and profitability.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Continued investment in infrastructure to support product portfolio and scalability reflects a strategic priority to enhance platform capabilities and customer base expansion, which could drive future revenue growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Planned increases in research and development, sales and marketing, and general and administrative expenses suggest a commitment to innovation, market expansion, and organizational growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "The active share repurchase program approved by the Board indicates a strategy to return value to shareholders and confidence in the company’s financial position.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The at-will employment status of key executives and the risk of losing critical leadership could disrupt business operations and impede achievement of financial and operational goals.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Intense competition for qualified personnel and difficulties in hiring and retaining employees, especially in specialized areas, may hinder the company’s ability to execute its growth plan effectively.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Restructuring activities carry risks of operational disruption, loss of institutional knowledge, negative impacts on employee morale, and potential failure to realize expected cost savings or efficiencies, which could materially harm results.",
+          "intensity": "High",
+          "source_fact_index": [
+            2,
+            4
+          ]
+        },
+        {
+          "interpretation": "The need to increase investments in infrastructure and operating expenses could pressure margins and cash flow, especially if these investments do not yield proportional revenue growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "Share repurchase programs, while returning value to shareholders, could reduce available cash for other strategic initiatives or investments, potentially limiting financial flexibility.",
+          "intensity": "Low",
+          "source_fact_index": [
+            9
+          ]
+        },
+        {
+          "interpretation": "Maintaining corporate culture amid growth and restructuring is challenging; failure to do so could result in loss of innovation and entrepreneurial spirit, adversely affecting business performance.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        }
+      ],
+      "dimension": "Management Strategy & Execution"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+================================================================================
+USAGE METRICS & COST SUMMARY - CEG
+Generated: 2025-12-25T12:10:51.854929
+================================================================================
+
+API CALLS:
+  • LLM Calls (Chat):        11
+  • Embedding Calls:         10
+  • Total API Calls:         21
+
+TOKEN USAGE:
+  • Prompt Tokens:           115,101
+  • Completion Tokens:       20,267
+  • Embedding Tokens:        146,360
+  • Total LLM Tokens:        135,368
+  • Grand Total Tokens:      281,728
+
+EXECUTION TIME:
+  • Total Duration:          3m 32s (212.7s)
+  • Avg per LLM Call:        19.3s
+
+ESTIMATED COST (Azure OpenAI):
+  • LLM Input:               $0.0345
+  • LLM Output:              $0.0243
+  • Embeddings:              $0.0029
+  • TOTAL COST:              $0.0618
+
+EFFICIENCY METRICS:
+  • Embedding Cache Hits:    257 unique texts cached
+  • Tokens per LLM Call:     12306 avg
+  • Cost per LLM Call:       $0.0054 avg
+================================================================================

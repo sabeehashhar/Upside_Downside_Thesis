@@ -1,0 +1,32 @@
+================================================================================
+USAGE METRICS & COST SUMMARY - TRGP
+Generated: 2025-12-25T12:28:51.219315
+================================================================================
+
+API CALLS:
+  • LLM Calls (Chat):        10
+  • Embedding Calls:         10
+  • Total API Calls:         20
+
+TOKEN USAGE:
+  • Prompt Tokens:           114,327
+  • Completion Tokens:       17,950
+  • Embedding Tokens:        129,051
+  • Total LLM Tokens:        132,277
+  • Grand Total Tokens:      261,328
+
+EXECUTION TIME:
+  • Total Duration:          3m 23s (203.7s)
+  • Avg per LLM Call:        20.4s
+
+ESTIMATED COST (Azure OpenAI):
+  • LLM Input:               $0.0343
+  • LLM Output:              $0.0215
+  • Embeddings:              $0.0026
+  • TOTAL COST:              $0.0584
+
+EFFICIENCY METRICS:
+  • Embedding Cache Hits:    765 unique texts cached
+  • Tokens per LLM Call:     13228 avg
+  • Cost per LLM Call:       $0.0056 avg
+================================================================================

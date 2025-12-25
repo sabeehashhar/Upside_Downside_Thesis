@@ -1,0 +1,1265 @@
+{
+  "upside_thesis_summary": "• CSWI’s diversified industrial growth model across three business segments and broad geographic footprint provides a strong foundation for stable and scalable revenue generation.\n• The company’s successful track record of synergistic acquisitions, combined with a focus on both organic and inorganic growth, supports sustained revenue expansion and portfolio enhancement.\n• Recurring revenue streams from maintenance, repair, overhaul, and consumable products, along with custom engineered solutions, provide stable demand and strengthen customer relationships.\n• CSWI demonstrates effective cost management and pricing strategies, achieving increased gross profit despite tariff and material cost pressures, supported by favorable freight costs.\n• The company maintains a strong balance sheet and disciplined capital allocation strategy, providing financial flexibility to invest in growth initiatives, strategic acquisitions, and return capital to shareholders.",
+  "downside_thesis_summary": "• Intense competition from large multinational OEMs and smaller entrepreneurial companies, some with cost advantages, could erode market share and pressure margins.\n• Heavy reliance on acquisitions for revenue growth poses integration risks, valuation challenges, and potential distraction from core operations, which could impact financial performance.\n• Labor shortages and difficulties in attracting qualified talent may increase wage inflation and impede execution of key strategic initiatives, adversely affecting results.\n• Supply chain disruptions, tariff impacts, and inflationary pressures have increased manufacturing and logistics costs, pressuring gross margins and operating expenses.\n• The company’s significant indebtedness and restrictive covenants may constrain financial flexibility, limiting its ability to fund acquisitions, capital expenditures, dividends, and share repurchases under adverse conditions.",
+  "raw_dimensions": [
+    {
+      "facts": [
+        {
+          "statement": "CSWI is a diversified industrial growth company with a strategic focus on providing niche, value-added products in the end markets we serve. We operate in three business segments: Contractor Solutions, Specialized Reliability Solutions and Engineered Building Solutions. Our products include mechanical products for heating, ventilation, air conditioning and refrigeration (\"HVAC/R\"), plumbing products, grilles, registers and diffusers (\"GRD\"), building safety solutions and high-performance specialty lubricants and sealants. End markets that we serve include HVAC/R, architecturally-specified building products, plumbing, general industrial, energy, rail transportation, mining and electrical. Our manufacturing operations are concentrated in the United States (\"U.S.\"), Vietnam and Canada, and we have distribution operations in the U.S., Australia, Canada and the United Kingdom (\"U.K.\"). Our products are sold directly to end-users or through designated channels in over 100 countries around the world, primarily in the U.S., Canada, the U.K. and Australia.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Drawing on our innovative and proven technologies, we seek to deliver solutions primarily to contractors that place a premium on superior performance and reliability. We believe our brands are well known in the specific end markets we serve and have a reputation for high quality. We rely on both organic growth and inorganic growth through acquisitions to provide an increasingly broad portfolio of performance optimizing solutions that meet our customers’ ever-changing needs. We have a successful record of making attractive, synergistic acquisitions in support of this objective, and we remain focused on identifying additional acquisition opportunities in our core end markets.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Many of our products are used to protect the capital assets of our customers that are expensive to repair or replace and are critical to their operations. We have a source of recurring revenue from the maintenance, repair and overhaul and consumable nature of many of our products. We also provide some custom engineered products that strengthen and enhance our customer relationships.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Our Competitive Strengths: Broad Portfolio of Industry Leading Products and Solutions. In our targeted end markets, we have industry-leading positions among our broad portfolio of products. We believe our products and solutions are differentiated from those of our competitors by superior performance, quality and total value delivered to customers. For example, RectorSeal's No. 5® pipe thread sealant is widely regarded as an industry standard for thread sealants for HVAC/R, plumbing and electrical applications. Additionally, we believe Whitmore's Kopr-Kote® anti-seize lubricant is recognized as the anti-seize compound of choice for use in oil and gas drilling operations, where it is requested by name.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Organic Revenue Growth Platform and Optimizing Performance: We focus on developing our presence in end markets with strong growth trends, continuously evaluating the potential uses of existing products to broaden end market penetration. We historically have a loyal customer base that recognizes the performance results and quality of our products and solutions. Further, our customer base is diverse. For the year ended March 31, 2025, no single customer represented 10% or more of our net revenues. These factors have enabled us to generate strong organic revenue growth performance, while remaining focused on strong profitability through optimizing our manufacturing processes. This effort is supported by a culture of continuous improvement, which looks to refine processes in all of our manufacturing facilities to reduce manufacturing costs, increase production capacity and improve product quality. Additionally, we often evaluate strategic investments to drive transformational changes in our manufacturing processes. For example, in all of our reportable segments, we have taken actions to consolidate our manufacturing footprint and distribution centers in order to optimize capacity, improve efficiency and leverage technologies while enhancing product quality.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Diverse Sales and Distribution Channels: Many of our products are sold through full-service distribution networks where product knowledge and customer satisfaction are key success factors. We primarily market through a network of both internal and third-party sales representatives that call on our wholesale distributors, contractors and direct customers. The strong, long-term relationships we have developed with our wholesale distribution partners and exclusive dealers position us to successfully introduce organically developed products and acquired products. In addition, our extensive distribution network allows us to reach and serve niche end markets that provide organic growth opportunities and a source of opportunities for our acquisition strategy.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Inorganic Growth Investment with Proven Track Record: We believe our experience in identifying, completing and integrating acquisitions is one of our core competitive strengths, as evidenced by our portfolio of 17 acquisitions completed since the inception of the Company. Historically, we have pursued product-line acquisitions with relatively low integration risk that have the potential to benefit from our extensive distribution network and manufacturing efficiencies. More recently, we began targeting commercially-proven products and solutions that are attractive in our existing end markets where we can drive revenue growth, improved profitability and increased cash flow.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Culture of Product Enhancement and Customer-Centric Solutions: Our highly-trained and specialized personnel work closely with our customers, industry experts and research partners to continuously improve our existing products to meet evolving customer and end market requirements. We focus on product enhancements and product line extensions that are designed to meet the specific application needs of the professional trades. Customer-centric solutions underpin our strong industrial brands and reputation for high quality products, in turn leading us to realize improved customer retention and loyalty. Further, our ability to meet the needs of high-value, niche end markets with customized solutions that leverage our existing products has enabled us to differentiate ourselves from larger competitors that may not be as willing or able to respond quickly to evolving customer demands.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Competition: Our competition in the Contractor Solutions segment is varied. Competitors range from small entrepreneurial companies with a single product, to large multinational original equipment manufacturers (“OEMs”). In the products serving the HVAC/R end market category, we compete with DiversiTech, DuraVent, Intermatic, Little Giant, NSI Industries, Nu-Calgon, RGF and others. In the products serving the plumbing end market category, we compete with BrassCraft, IPS, J.R. Smith, Mainline, Oatey and others. Most of our products are sold through distribution channels, and we compete in this space by leveraging the breadth of our product lines, customer service and pricing.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "The industries in which we operate are highly competitive, and many of our products are in highly competitive markets. We may lose market share to producers of other products that directly compete with or that can be substituted for our products. The industries in which we operate are highly competitive, and we face significant competition from both large domestic and international competitors and from smaller regional competitors. Our competitors may improve their competitive position in our served markets by successfully introducing new or substitute products, improving their manufacturing processes or expanding their capacity or manufacturing facilities. Further, some of our competitors benefit from advantageous cost positions that could make it increasingly difficult for us to compete in markets for less-differentiated applications. If we are unable to keep pace with our competitors’ products and manufacturing process innovations or cost position, our financial condition and results of operations could be materially adversely affected.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our products are sold through internal sales and installation teams, as well as local building products distributors that also perform installations and service. Architecturally-specified building components and fire stopping solutions are primarily sold through independent sales representatives and building product distributors to general contractors or subcontractors. Engineered Building Solutions' end use customers include multi-family residential buildings, educational facilities and institutions, warehouses, construction companies, plant maintenance companies, building contractors and repair service companies, among others.",
+          "source_section": "10-K Item 1"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "An optimistic investor could view CSWI's diversified industrial growth model across three distinct business segments and broad geographic manufacturing and distribution footprint as a strong foundation for stable and scalable revenue generation.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The company's focus on delivering innovative, high-quality, and performance-optimized solutions primarily to contractors who value reliability supports strong brand recognition and customer loyalty, which can drive sustained organic growth.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            7
+          ]
+        },
+        {
+          "interpretation": "Recurring revenue streams from maintenance, repair, overhaul, and consumable products, along with custom engineered solutions, provide a stable and potentially growing revenue base that strengthens customer relationships.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "CSWI's broad portfolio of industry-leading products with recognized brands such as RectorSeal's No. 5® and Whitmore's Kopr-Kote® demonstrates competitive differentiation through superior performance and quality, which can support pricing power and market leadership.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The company's strategy of focusing on end markets with strong growth trends, combined with a culture of continuous manufacturing improvement and strategic consolidation, supports ongoing organic revenue growth and profitability enhancement.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "A diverse and extensive sales and distribution network, including internal and third-party sales representatives and strong relationships with wholesale distributors, enables CSWI to effectively introduce new and acquired products and penetrate niche markets, supporting growth opportunities.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "CSWI's proven track record of successful acquisitions, focusing on synergistic, low integration risk product lines that leverage its distribution and manufacturing capabilities, provides a pathway for inorganic growth and portfolio expansion.",
+          "intensity": "High",
+          "source_fact_index": [
+            6
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "A cautious investor might view the company's broad diversification and multiple business segments as potentially diluting focus and complicating operational management, which could impact execution and profitability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Reliance on contractors who prioritize superior performance and reliability may limit market expansion if competitors offer comparable or lower-cost alternatives, challenging CSWI's ability to maintain premium positioning.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            7
+          ]
+        },
+        {
+          "interpretation": "While recurring revenue from maintenance and consumables is a strength, dependence on these streams may expose the company to risks if customer capital expenditures decline or if product obsolescence occurs.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Despite recognized brands and product differentiation, intense competition from both large multinational OEMs and smaller entrepreneurial companies, some with cost advantages, could erode market share and pressure margins.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            8,
+            9
+          ]
+        },
+        {
+          "interpretation": "The company's growth strategy relying on continuous manufacturing optimization and consolidation may face operational risks, including disruption during transitions and challenges in realizing expected efficiencies.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Dependence on a complex sales and distribution network, including third-party representatives, may expose CSWI to risks related to loss of control over customer relationships, product delivery, and quality assurance.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The acquisition strategy, while a growth driver, carries risks of integration challenges, potential overpayment, and distraction from core operations, which could adversely affect financial performance.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        }
+      ],
+      "dimension": "Business Model & Competitive Position"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We rely on both organic growth and inorganic growth through acquisitions to provide an increasingly broad portfolio of performance optimizing solutions that meet our customers’ ever-changing needs. We have a successful record of making attractive, synergistic acquisitions in support of this objective, and we remain focused on identifying additional acquisition opportunities in our core end markets.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Many of our products are used to protect the capital assets of our customers that are expensive to repair or replace and are critical to their operations. We have a source of recurring revenue from the maintenance, repair and overhaul and consumable nature of many of our products. We also provide some custom engineered products that strengthen and enhance our customer relationships.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "We focus on developing our presence in end markets with strong growth trends, continuously evaluating the potential uses of existing products to broaden end market penetration. We historically have a loyal customer base that recognizes the performance results and quality of our products and solutions. Further, our customer base is diverse.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "We often evaluate strategic investments to drive transformational changes in our manufacturing processes. For example, in all of our reportable segments, we have taken actions to consolidate our manufacturing footprint and distribution centers in order to optimize capacity, improve efficiency and leverage technologies while enhancing product quality.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "We believe our experience in identifying, completing and integrating acquisitions is one of our core competitive strengths, as evidenced by our portfolio of 17 acquisitions completed since the inception of the Company. Historically, we have pursued product-line acquisitions with relatively low integration risk that have the potential to benefit from our extensive distribution network and manufacturing efficiencies.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "On May 1, 2025, we acquired 100% of the outstanding equity of Aspen Manufacturing, LLC, based in Humble, Texas, whose current product suite includes a vast range of high-quality residential and light commercial evaporator coils, blowers, and air handling units for single-family, multi-family, and manufactured homes. In the third quarter of fiscal year ended March 31, 2025, we acquired the assets of PF WaterWorks, L.P., based in Houston, Texas, which offers drain management solutions that expand and complement our existing plumbing products portfolio. In the second quarter of fiscal year ended March 31, 2025, we acquired the assets of PSP Products, Inc., based in Manassas, Virginia, which offers surge protection and load management products to supplement our existing HVAC/R product offerings.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Net revenues for the three months ended September 30, 2025 increased $49.0 million, or 21.5%, as compared with the three months ended September 30, 2024. The increase was primarily due to the acquisitions of Aspen Manufacturing, PSP Products, and PF WaterWorks ($61.9 million or 27.2%). Organic revenue decreased $12.9 million, or 5.6%, due to lower unit volumes partially offset by pricing actions.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "Net revenues for the six months ended September 30, 2025 increased $86.5 million, or 19.0%, as compared with the six months ended September 30, 2024. The increase was primarily due to the acquisitions of Aspen Manufacturing, PSP Products, and PF WaterWorks ($105.6 million or 23.3%). Organic revenue decreased $19.1 million, or 4.2%, due to lower unit volumes partially offset by pricing actions.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "Net revenue increased in the HVAC/R, electrical, plumbing, general industrial, and mining end markets and decreased in the energy, architecturally-specified building product and rail transportation end markets.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "Net revenues for the year ended March 31, 2025 increased $6.4 million, or 5.6%, as compared with the year ended March 31, 2024. The increase was primarily due to the continued conversion of strong project bookings into revenue and market expansion.",
+          "source_section": "10-K Item 7"
+        },
+        {
+          "statement": "We expect to maintain a strong balance sheet in fiscal year 2026, which provides us with access to capital through our cash on hand, internally-generated cash flow, and availability under our Revolving Credit Facility. Our capital allocation strategy continues to guide our investing decisions, with a priority to direct capital to the highest risk adjusted return opportunities, within the categories of organic growth, strategic acquisitions and the return of cash to shareholders through our share repurchase and dividend programs.",
+          "source_section": "10-Q Item 2"
+        },
+        {
+          "statement": "We remain disciplined in our approach to acquisitions, particularly as it relates to our assessment of valuation, prospective synergies, diligence, cultural fit and ease of integration, especially in light of economic conditions.",
+          "source_section": "10-Q Item 2"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "An optimistic investor could view the company's successful track record of synergistic acquisitions and focus on both organic and inorganic growth as strong drivers for expanding the product portfolio and meeting evolving customer needs, supporting sustained revenue growth.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            5,
+            11
+          ]
+        },
+        {
+          "interpretation": "The presence of recurring revenue streams from maintenance, repair, and consumable products, along with custom engineered solutions, provides stable demand and strengthens customer relationships, which could support consistent revenue generation.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The company's strategic investments in manufacturing optimization and consolidation efforts to improve capacity, efficiency, and product quality could enhance operational performance and profitability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The increase in net revenues driven primarily by recent acquisitions, alongside growth in key end markets such as HVAC/R, electrical, plumbing, general industrial, and mining, indicates successful market expansion and demand capture.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "The company's strong balance sheet and disciplined capital allocation strategy focused on high risk-adjusted return opportunities, including organic growth and strategic acquisitions, provide financial flexibility to support growth initiatives.",
+          "intensity": "High",
+          "source_fact_index": [
+            10,
+            11
+          ]
+        },
+        {
+          "interpretation": "Continued conversion of strong project bookings into revenue and market expansion in the Engineered Building Solutions segment suggests positive demand trends and backlog conversion.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "A cautious investor might note that organic revenue declined due to lower unit volumes despite pricing actions, indicating potential weakness in underlying demand that could pressure future revenue growth.",
+          "intensity": "High",
+          "source_fact_index": [
+            6,
+            7
+          ]
+        },
+        {
+          "interpretation": "Heavy reliance on acquisitions for revenue growth could pose integration risks, and the need for disciplined assessment of valuation, synergies, and cultural fit highlights potential challenges that could impact financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            11
+          ]
+        },
+        {
+          "interpretation": "Decreases in net revenue in certain end markets such as energy, architecturally-specified building products, and rail transportation may reflect market headwinds or reduced demand visibility in these segments.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8
+          ]
+        },
+        {
+          "interpretation": "The dynamic and uncertain macroeconomic environment, including geopolitical tensions and tariffs affecting manufacturing inputs and costs, could adversely impact revenue and profitability despite mitigation efforts.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            6
+          ]
+        },
+        {
+          "interpretation": "The need to raise prices to offset tariff impacts and the associated increased shipping expenses could pressure margins and customer demand.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            6
+          ]
+        }
+      ],
+      "dimension": "Revenue Growth Drivers & Demand Outlook"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We may be unable to pass along price increases to our customers, which could have a material adverse effect on our business and results of operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We rely on independent distributors as a channel to market for many of our products. Termination of a substantial number of our distributor relationships or an increase in a distributor's sales of our competitors’ products could have a material adverse effect on our business, financial condition, results of operations or cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Many of the distributors with whom we transact business also offer competitors’ products and services to our customers. An increase in the distributors’ sales of our competitors’ products to our customers, or a decrease in the number of our products the distributor makes available for purchase, could have a material adverse effect on our business, financial condition, results of operations or cash flows.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Net revenues for the three months ended September 30, 2025 increased $49.6 million, or 31.2%, as compared with the three months ended September 30, 2024. The increase was primarily due to the acquisitions of Aspen Manufacturing, PSP Products, and PF WaterWorks ($61.9 million or 39.0%). Organic revenue decreased $12.3 million, or 7.7%, due to lower unit volumes partially offset by pricing actions.",
+          "source_section": "10-Q Page 47"
+        },
+        {
+          "statement": "Net revenues for the six months ended September 30, 2025 increased $86.0 million, or 26.9%, as compared with the six months ended September 30, 2024. The increase was primarily due to the acquisitions of Aspen Manufacturing, PSP Products, and PF WaterWorks ($105.6 million or 33.1%). Organic revenue decreased $19.6 million, or 6.2%, due to lower unit volumes partially offset by pricing actions.",
+          "source_section": "10-Q Page 47"
+        },
+        {
+          "statement": "Operating income margin of 25.6% for the three months ended September 30, 2025 decreased as compared to 29.1% for the three months ended September 30, 2024. This decrease was due to the inclusion of recent acquisitions and the increase in tariffs, partially offset by pricing actions and lower ocean freight costs.",
+          "source_section": "10-Q Page 47"
+        },
+        {
+          "statement": "Gross profit margin of 43.0% for the three months ended September 30, 2025 decreased as compared to 45.6% for the three months ended September 30, 2024. The decrease was driven by the inclusion of recent acquisitions and increases in tariffs and material costs, partially offset by pricing actions and favorable ocean freight costs.",
+          "source_section": "10-Q Page 43"
+        },
+        {
+          "statement": "We have responded by negotiating cost reductions with certain suppliers, transitioning certain sources of supply, and by raising prices to our customers on certain products across our three segments to partially offset the impact.",
+          "source_section": "10-K Item 1"
+        },
+        {
+          "statement": "Many of our products are used to protect the capital assets of our customers that are expensive to repair or replace and are critical to their operations. We have a source of recurring revenue from the maintenance, repair and overhaul and consumable nature of many of our products. We also provide some custom engineered products that strengthen and enhance our customer relationships.",
+          "source_section": "10-Q Page 40"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company demonstrates pricing power by implementing pricing actions that partially offset the negative impact of lower unit volumes and increased tariffs, as evidenced by increased net revenues despite organic volume declines and improved operating margins in some periods.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            4,
+            6,
+            8
+          ]
+        },
+        {
+          "interpretation": "The company’s diversified customer mix and distribution channels, including independent distributors, expand its market reach and provide recurring revenue streams through maintenance and consumable products, which supports revenue durability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            2,
+            8
+          ]
+        },
+        {
+          "interpretation": "The company actively manages supply chain challenges by negotiating cost reductions and transitioning sources of supply, which helps mitigate tariff impacts and supports gross profit margins.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company faces challenges in passing along price increases to customers, which could materially adversely affect its business and results of operations, indicating limited pricing power under certain conditions.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Dependence on independent distributors who also sell competitors’ products poses a risk to revenue durability, as loss of distributor relationships or increased competitor sales through these channels could materially adversely affect the business.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            2
+          ]
+        },
+        {
+          "interpretation": "Despite pricing actions, the inclusion of recent acquisitions and increased tariffs have led to decreased operating income margins and gross profit margins, indicating pressure on profitability and potential challenges in sustaining revenue quality.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5,
+            6
+          ]
+        }
+      ],
+      "dimension": "Pricing Power & Revenue Quality"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Macroeconomic conditions have caused supply chains for many companies to be interrupted, slowed or temporarily rendered inoperable. In addition, supply chain shortages and cost increases due to new or increased tariffs have negatively impacted, and could continue to negatively impact, our manufacturing costs and logistics costs and, in turn, our gross margins. We may also be required to pay higher prices for raw materials due to inflationary trends regardless of supply.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Gross profit for the three months ended September 30, 2025 increased $15.3 million, or 14.7%, as compared with the three months ended September 30, 2024. The increase was primarily a result of increased revenue and favorable ocean freight costs, partially offset by increases in tariffs and material costs directly and indirectly driven by tariffs. Gross profit margin of 43.0% for the three months ended September 30, 2025 decreased as compared to 45.6% for the three months ended September 30, 2024. The decrease was driven by the inclusion of recent acquisitions and increases in tariffs and material costs, partially offset by pricing actions and favorable ocean freight costs.",
+          "source_section": "10-Q Page 43"
+        },
+        {
+          "statement": "Gross profit for the six months ended September 30, 2025 increased $23.3 million, or 11.0%, as compared with the six months ended September 30, 2024. The increase was primarily a result of the increase in revenue and favorable ocean freight costs, partially offset by increases in tariffs and material costs directly and indirectly driven by tariffs. Gross profit margin of 43.4% for the six months ended September 30, 2025 decreased as compared to 46.5% for the three months ended September 30, 2024. The decrease was driven by the inclusion of recent acquisitions, increases in aforementioned tariffs and material costs and unfavorable revenue mix, partially offset by pricing actions and favorable ocean freight costs.",
+          "source_section": "10-Q Page 43"
+        },
+        {
+          "statement": "Operating expenses for the three months ended September 30, 2025 increased $10.1 million, or 19.2%, as compared with the three months ended September 30, 2024. The increase was primarily due to added expenses related to the inclusion of Aspen Manufacturing, PSP Products, and PF WaterWorks in the current period, including amortization of intangible assets, as well as the transaction expenses related to completed and contemplated acquisitions. The decrease in operating expenses as a percentage of revenues was attributable to revenue increasing by a greater percentage than the increase in operating expenses.",
+          "source_section": "10-Q Page 43"
+        },
+        {
+          "statement": "Operating expenses for the six months ended September 30, 2025 increased $18.3 million, or 17.4%, as compared with the six months ended September 30, 2024. The increase was primarily due to added expenses related to the inclusion of Aspen Manufacturing, PSP Products, and PF WaterWorks in the current period, including amortization of intangible assets, as well as the transaction expenses related to completed and contemplated acquisitions. The decrease in operating expenses as a percentage of revenues was attributable to revenue increasing by a greater percentage than the increase in operating expenses.",
+          "source_section": "10-Q Page 43"
+        },
+        {
+          "statement": "Gross profit for the year ended March 31, 2025 increased $42.6 million, or 12.1%, as compared with the year ended March 31, 2024. The increase was primarily a result of the increased net revenue, including the recent acquisitions of Dust Free, PSP, and PF WaterWorks. Gross profit margin for the year ended March 31, 2025 of 44.8% increased from 44.2% for the year ended March 31, 2024. The increase was primarily the result of the Contractor Solutions segment experiencing a more rapid growth rate in comparison to the other segments.",
+          "source_section": "10-K Page 56"
+        },
+        {
+          "statement": "Operating expenses for the year ended March 31, 2025 increased $20.4 million, or 10.7%, as compared with the year ended March 31, 2024. The increase was primarily due to added expenses related to the inclusion of Dust Free, PSP, and PF WaterWorks in the current period, including amortization of intangible assets, and increased expenses related to completed and pending acquisitions (including a $2.1 million increase in the fair value of contingent consideration liability for PSP), business integrations, strategic development activities, and increased employee compensation to support business growth. The increase was partially offset by a prior year trademark impairment that did not recur. The operating expenses as a percentage of sales in the current year was comparable to the prior year.",
+          "source_section": "10-K Page 56"
+        },
+        {
+          "statement": "Operating income for the year ended March 31, 2025 increased by $22.1 million, or 13.9%, as compared with the year ended March 31, 2024. The increase was a result of the $42.6 million increase in gross profit, partially offset by the $20.4 million increase in selling, general and administrative expense as discussed above. Operating margin 20.6 % for the year ended March 31, 2025 increased from 20.1 % for the year ended March 31, 2024.",
+          "source_section": "10-K Page 56"
+        },
+        {
+          "statement": "Operating income for the three months ended September 30, 2025 increased $5.2 million, or 10.1%, as compared with the three months ended September 30, 2024, as a result of the increase in gross profit, partially offset by the increase in operating expenses, as discussed above. Operating margin 20.5 % for the three months ended September 30, 2025 decreased as compared to 22.6 % for the three months ended September 30, 2024.",
+          "source_section": "10-Q Page 45"
+        },
+        {
+          "statement": "Operating income for the six months ended September 30, 2025 increased $5.0 million, or 4.7%, as compared with the six months ended September 30, 2024, as a result of the increase in gross profit, partially offset by the increase in operating expenses, as discussed above. Operating margin 20.7 % for the six months ended September 30, 2025 decreased as compared to 23.5 % for the six months ended September 30, 2024.",
+          "source_section": "10-Q Page 45"
+        },
+        {
+          "statement": "The Contractor Solutions segment operating income margin of 25.6% for the three months ended September 30, 2025 decreased as compared to 29.1% for the three months ended September 30, 2024. This decrease was due to the inclusion of recent acquisitions and the increase in tariffs, partially offset by pricing actions and lower ocean freight costs.",
+          "source_section": "10-Q Page 47"
+        },
+        {
+          "statement": "The Contractor Solutions segment operating income for the three months ended September 30, 2025 increased $7.1 million, or 15.4%, as compared with the three months ended September 30, 2024. The increase was primarily due to the increased revenue and favorable ocean freight costs, partially offset by increased tariffs.",
+          "source_section": "10-Q Page 47"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "Despite cost pressures from tariffs and material costs, the company achieved increased gross profit in both the three and six months ended September 30, 2025 due to increased revenue and favorable ocean freight costs, indicating effective management of cost drivers and pricing strategies.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            2
+          ]
+        },
+        {
+          "interpretation": "Operating expenses increased primarily due to acquisitions and related amortization, but operating expenses as a percentage of revenues decreased, showing operating leverage and efficient cost control relative to revenue growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            4
+          ]
+        },
+        {
+          "interpretation": "For the year ended March 31, 2025, gross profit margin improved to 44.8% from 44.2%, driven by faster growth in the Contractor Solutions segment, suggesting sustainable margin improvement in key business areas.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Operating income and operating margin increased for the year ended March 31, 2025, reflecting the positive impact of gross profit growth outpacing increases in operating expenses, indicating margin sustainability.",
+          "intensity": "High",
+          "source_fact_index": [
+            7
+          ]
+        },
+        {
+          "interpretation": "The Contractor Solutions segment showed increased operating income for the three months ended September 30, 2025, driven by higher revenue and favorable freight costs, demonstrating segment-level margin growth despite tariff headwinds.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            11
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Gross profit margins declined in the three and six months ended September 30, 2025 compared to the prior year periods, driven by tariff increases, material cost inflation, and the inclusion of recent acquisitions, indicating margin pressure from cost inflation and integration challenges.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            2
+          ]
+        },
+        {
+          "interpretation": "Operating expenses increased significantly due to acquisitions and transaction-related costs, which could pressure operating margins despite revenue growth, as seen in the decreased operating margins in recent quarters.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            4,
+            8,
+            9
+          ]
+        },
+        {
+          "interpretation": "Operating margins decreased in the three and six months ended September 30, 2025 compared to the prior year periods, reflecting challenges in maintaining margin levels amid cost inflation and acquisition-related expenses.",
+          "intensity": "High",
+          "source_fact_index": [
+            8,
+            9
+          ]
+        },
+        {
+          "interpretation": "The Contractor Solutions segment operating margin declined notably in the three months ended September 30, 2025 compared to the prior year, due to tariff increases and acquisition impacts, suggesting potential sustainability risks for segment margins.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            10
+          ]
+        }
+      ],
+      "dimension": "Margins & Cost Structure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Our ability to consistently generate strong cash flow from our operations is one of our most significant financial strengths: it enables us to invest in our people and our brands, make capital investments and strategic acquisitions, provide a cash dividend program, and from time-to-time, repurchase shares of our common stock.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "Existing cash on hand, cash generated by operations and borrowings available under our Revolving Credit Facility (“Revolver Borrowings”) are our primary sources of short-term liquidity.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "We seek to maintain adequate liquidity to meet working capital requirements, fund capital expenditures, make scheduled interest payments on debt and meet our contingent consideration obligations.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "Absent a material deterioration of market conditions, we believe that cash flows from operating activities and financing activities (which would primarily consist of Revolver Borrowings), will provide adequate resources to satisfy our working capital, scheduled interest payments on debt, anticipated dividend payments, periodic share repurchases, contingent consideration obligations and anticipated capital expenditure requirements for both our short-term and long-term needs.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "For the year ended March 31, 2025, our cash provided by operating activities was $168.4 million, as compared with $164.3 million and $121.5 million for the years ended March 31, 2024 and 2023, respectively.",
+          "source_section": "10-K - Page 63"
+        },
+        {
+          "statement": "Working capital used cash for the year ended March 31, 2025 due to higher inventories ($35.7 million), higher accounts receivable ($9.1 million) and higher prepaid expenses and other current assets ($1.4 million), partially offset by higher accounts payable and other current liabilities ($21.7 million).",
+          "source_section": "10-K - Page 63"
+        },
+        {
+          "statement": "Working capital provided cash for the six months ended September 30, 2025 due to lower accounts receivable ($11.7 million) and higher accounts payable and other current liabilities ($7.3 million), partially offset by higher inventories ($10.1 million) and higher prepaid expenses and other current assets ($5.7 million).",
+          "source_section": "10-Q - Page 52"
+        },
+        {
+          "statement": "Cash flows used in investing activities during the year ended March 31, 2025 were $102.2 million as compared with $42.5 million and $69.7 million for the years ended March 31, 2024 and 2023, respectively.",
+          "source_section": "10-K - Page 65"
+        },
+        {
+          "statement": "Capital expenditures during the years ended March 31, 2025, 2024 and 2023 were $16.3 million, $16.6 million and $14.0 million, respectively. Our capital expenditures have been focused on continuous improvement and automation, safety, capacity expansion, enterprise resource planning systems and new product introductions.",
+          "source_section": "10-K - Page 65"
+        },
+        {
+          "statement": "During the six months ended September 30, 2025, we acquired Aspen Manufacturing for an aggregate purchase price, net of cash received, of $325.3 million, including $313.5 million in cash consideration and working capital adjustment of $11.8 million.",
+          "source_section": "10-Q - Page 52"
+        },
+        {
+          "statement": "Our cash balance at March 31, 2025 was $225.8 million, as compared with $22.2 million at March 31, 2024.",
+          "source_section": "10-K - Page 63"
+        },
+        {
+          "statement": "Our cash balance (including cash and cash equivalents) at September 30, 2025 was $31.5 million, as compared with $225.8 million at March 31, 2025.",
+          "source_section": "10-Q - Page 52"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company demonstrates a strong ability to generate operating cash flow consistently, which supports investments in growth, dividends, and share repurchases, indicating robust cash conversion characteristics.",
+          "intensity": "High",
+          "source_fact_index": [
+            0,
+            4
+          ]
+        },
+        {
+          "interpretation": "Adequate liquidity is maintained through a combination of cash on hand, operating cash flow, and revolving credit facilities, providing financial flexibility to meet working capital, capital expenditures, and debt obligations.",
+          "intensity": "High",
+          "source_fact_index": [
+            1,
+            2,
+            3,
+            10
+          ]
+        },
+        {
+          "interpretation": "Capital expenditures are focused on strategic areas such as automation, capacity expansion, and new product introductions, reflecting a targeted approach to capital intensity that supports operational efficiency and growth.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            8
+          ]
+        },
+        {
+          "interpretation": "Working capital movements have provided cash in recent periods, such as lower accounts receivable and higher accounts payable, which can enhance cash flow generation and liquidity.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Working capital used cash in the year ended March 31, 2025 due to higher inventories and accounts receivable, which could indicate potential cash flow constraints or inefficiencies in managing current assets.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Significant cash outflows in investing activities, including large acquisitions such as Aspen Manufacturing and other purchases, result in high capital intensity and may pressure liquidity despite operating cash flow generation.",
+          "intensity": "High",
+          "source_fact_index": [
+            7,
+            9
+          ]
+        },
+        {
+          "interpretation": "The cash balance decreased substantially from $225.8 million at March 31, 2025 to $31.5 million at September 30, 2025, which may reflect cash consumption from investing activities or other uses, potentially impacting short-term liquidity.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            11,
+            10
+          ]
+        }
+      ],
+      "dimension": "Cash Flow Generation"
+    },
+    {
+      "facts": [
+        {
+          "statement": "Our ability to consistently generate strong cash flow from our operations is one of our most significant financial strengths: it enables us to invest in our people and our brands, make capital investments and strategic acquisitions, provide a cash dividend program, and from time-to-time, repurchase shares of our common stock. Additionally, we use our Revolver Borrowings to support our working capital requirements, capital expenditures and strategic acquisitions. We seek to maintain adequate liquidity to meet working capital requirements, fund capital expenditures, make scheduled interest payments on debt and meet our contingent consideration obligations. Absent a material deterioration of market conditions, we believe that cash flows from operating activities and financing activities (which would primarily consist of Revolver Borrowings), will provide adequate resources to satisfy our working capital, scheduled interest payments on debt, anticipated dividend payments, periodic share repurchases, contingent consideration obligations and anticipated capital expenditure requirements for both our short-term and long-term needs.",
+          "source_section": "10-Q - Page 50"
+        },
+        {
+          "statement": "We regularly evaluate acquisition opportunities of various sizes. The cost and terms of any financing to be raised in conjunction with any acquisition, including our ability to raise capital, is a critical consideration in any such evaluation.",
+          "source_section": "10-Q - Page 54"
+        },
+        {
+          "statement": "During the year ended March 31, 2025, we acquired PF WaterWorks, based in Houston, Texas, for an aggregate purchase price of $45.6 million and PSP Products, based in Manassas, Virginia, for an aggregate purchase price of $51.3 million. These acquisitions were funded through a combination of cash on hand, borrowings under our Revolving Credit Facility and stock consideration.",
+          "source_section": "10-K - Page 66"
+        },
+        {
+          "statement": "On December 16, 2022, we announced that our Board of Directors authorized a program to repurchase up to $100.0 million of our common stock over a two-year period. On November 18, 2024, we announced that our Board of Directors authorized a new $200.0 million share repurchase program, which replaced the previously announced $100.0 million program. Under the current $200.0 million repurchase program, a total of 20,045 shares were repurchased during the year ended March 31, 2025 for $6.8 million. Our Board of Directors has established an expiration of December 31, 2026 for the current $200.0 million repurchase program and we currently expect to continue to repurchase shares in the near future, but such repurchases are dependent upon our financial condition, results of operations, capital requirements, and other factors, including those set forth under Item 1A. \"Risk Factors\" of this Annual Report.",
+          "source_section": "10-K - Page 66"
+        },
+        {
+          "statement": "Total dividends of $14.6 million were paid during the year ended March 31, 2025. On April 11, 2025, we declared a quarterly dividend and announced a 12.5% quarterly dividend increase to $0.27 per share, which was paid on May 9, 2025 to shareholders of record as of April 25, 2025. We currently expect to continue to pay a regular quarterly dividend to shareholders in the future, but such payments are subject to approval of our Board of Directors and are dependent upon our financial conditions, results of operations, capital requirements, and other factors, including those set forth under Item 1A. \"Risk Factors\" of this Annual Report.",
+          "source_section": "10-K - Page 66"
+        },
+        {
+          "statement": "During the year ended March 31, 2025, we invested $16.3 million in capital expenditures related to continuous improvement and automation, safety, capacity expansion, enterprise resource planning systems and new product introductions. We plan to continue investing in capital expenditures in the future to improve manufacturing productivity, enhance operational safety, upgrade information technology infrastructure and security and implement advanced technologies for our existing facilities.",
+          "source_section": "10-K - Page 66"
+        },
+        {
+          "statement": "Our outstanding indebtedness and the restrictive covenants in the agreements governing our indebtedness limit our operating and financial flexibility. We are required to make scheduled repayments and, under certain events of default, accelerated repayments on our outstanding indebtedness, which may require us to dedicate a substantial portion of our cash flows from operations to payments on our indebtedness. Such repayment requirements could reduce the availability of our cash flows to fund working capital acquisitions, capital expenditures, R&D efforts and other general corporate purposes, and could generally limit our flexibility in planning for, or reacting to, changes in our business and industry. In addition, the agreements governing our indebtedness impose certain operating and financial restrictions on us and somewhat limit management’s discretion in operating our businesses. These agreements limit or restrict our ability, among other things, to: incur additional debt; pay dividends and make other distributions; make investments and other restricted payments; create liens; sell assets; and enter into transactions with affiliates.",
+          "source_section": "10-K - Page 32"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s strong cash flow generation supports its ability to invest in growth initiatives, including strategic acquisitions and capital expenditures, while also returning capital to shareholders through dividends and share repurchases, indicating disciplined and balanced capital allocation.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Regular evaluation and execution of acquisitions, funded through a mix of cash, borrowings, and stock, demonstrate proactive growth strategies and financial flexibility to pursue value-adding opportunities.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            2
+          ]
+        },
+        {
+          "interpretation": "The Board’s authorization of substantial share repurchase programs and dividend increases reflects confidence in the company’s financial condition and commitment to returning value to shareholders.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            4
+          ]
+        },
+        {
+          "interpretation": "Ongoing capital expenditures focused on operational improvements and technology upgrades suggest a commitment to maintaining and enhancing competitive capabilities and long-term value creation.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The company’s significant indebtedness and restrictive covenants may constrain its financial flexibility, potentially limiting its ability to fund acquisitions, capital expenditures, dividends, and share repurchases, especially under adverse conditions.",
+          "intensity": "High",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "Dependence on borrowings to finance acquisitions and capital needs could increase leverage and interest expenses, which might reduce available funds for other capital allocation priorities and increase financial risk.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2,
+            6
+          ]
+        },
+        {
+          "interpretation": "Dividend payments and share repurchases are subject to Board approval and dependent on financial conditions and other factors, indicating that these returns to shareholders are not guaranteed and could be reduced if conditions deteriorate.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            4
+          ]
+        }
+      ],
+      "dimension": "Capital Allocation & Investment Discipline"
+    },
+    {
+      "facts": [
+        {
+          "statement": "As of September 30, 2025 and March 31, 2025, we had $60.0 million and $0.0 million, respectively, in our outstanding balance, which resulted in borrowing capacity under the Revolving Credit Facility of $638.7 million and $498.7 million, respectively, net of credit utilization.",
+          "source_section": "10-Q - Page 24"
+        },
+        {
+          "statement": "On May 2, 2025, we entered into a Third Amended and Restated Credit Agreement (the “Third Credit Agreement\") with JPMorgan Chase Bank, N.A., as administrative agent and collateral agent, and the lenders, issuing banks and swingline lender party thereto. The Third Credit Agreement provides for a $700.0 million revolving credit facility that contains a $30.0 million sublimit for the issuance of letters of credit, a $15.0 million sublimit for swingline loans and an additional accordion feature of $250 million. The Third Credit Agreement is scheduled to mature on May 2, 2030.",
+          "source_section": "10-Q - Page 24"
+        },
+        {
+          "statement": "Borrowings under the Third Credit Agreement bear interest at either base rate plus between 0.25% to 1.5% or the adjusted term SOFR rate plus between 1.25% to 2.5%, based on the Company’s leverage ratio calculated on a quarterly basis.",
+          "source_section": "10-Q - Page 24"
+        },
+        {
+          "statement": "The financial covenants contained in the Third Credit Agreement require the maintenance of a maximum leverage ratio of 3.00 to 1.00, subject to a temporary increase to 3.75 to 1.00 for 18 months following the consummation of permitted acquisitions with consideration in excess of certain threshold amounts set forth in the Third Credit Agreement. The Third Credit Agreement also requires the maintenance of a minimum interest coverage ratio of 3.00 to 1.00, the calculations and terms of which are defined in the Third Credit Agreement. Covenant compliance is tested quarterly, and we were in compliance with all covenants as of September 30, 2025.",
+          "source_section": "10-Q - Page 26"
+        },
+        {
+          "statement": "During the six months ended September 30, 2025, we borrowed $138.4 million and repaid $78.4 million under the Revolving Credit Facility.",
+          "source_section": "10-Q - Page 24"
+        },
+        {
+          "statement": "The Third Credit Agreement is secured by a first priority lien on substantially all tangible and intangible assets and stock issued by the Company and its material domestic subsidiaries, subject to specified exceptions, and 65% of the voting equity interests in its first-tier foreign subsidiaries.",
+          "source_section": "10-Q - Page 24"
+        },
+        {
+          "statement": "We were in compliance with all covenants as of September 30, 2025.",
+          "source_section": "10-Q - Page 54"
+        },
+        {
+          "statement": "As of September 30, 2025 and March 31, 2025, the contingent consideration liabilities, reported in our consolidated balance sheets in accrued and other current liabilities and other long-term liabilities, were $19.7 million and $24.4 million, respectively.",
+          "source_section": "10-Q - Page 31"
+        },
+        {
+          "statement": "The letter of credit collateralizing a $1.3 million surety bond was issued under our Revolving Credit Facility and reduces the available borrowing capacity. The letter of credit will expire on November 11, 2025 and we have no plan to extend it.",
+          "source_section": "10-Q - Page 31"
+        },
+        {
+          "statement": "Interest payments on the first $100.0 million borrowing under the Revolving Credit Facility were hedged under an interest rate swap agreement until September 2024, when the balance of the Revolving Credit Facility was paid off using a portion of the proceeds from the equity offering and the hedge was terminated.",
+          "source_section": "10-Q - Page 26"
+        },
+        {
+          "statement": "We pay a commitment fee between 0.15% to 0.4% based on the Company's leverage ratio for the unutilized portion of this facility. Interest and commitment fees are payable monthly and quarterly, respectively, and the outstanding principal balance is due at the maturity date.",
+          "source_section": "10-Q - Page 24"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The Company has a substantial borrowing capacity of $638.7 million under its revolving credit facility as of September 30, 2025, providing strong liquidity and flexibility to fund operations or acquisitions.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The recent entry into a Third Amended and Restated Credit Agreement with a $700 million revolving credit facility extending to 2030 demonstrates the Company's ability to secure long-term financing with favorable terms, supporting financial stability.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The interest rates on borrowings under the credit facility are variable but tied to benchmark rates plus a margin based on leverage, allowing the Company to benefit from potentially lower interest costs when leverage is reduced.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The Company was in compliance with all financial covenants as of September 30, 2025, indicating sound financial discipline and management of leverage and interest coverage ratios.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            6
+          ]
+        },
+        {
+          "interpretation": "The Company actively manages its debt levels, as evidenced by borrowing $138.4 million and repaying $78.4 million during the six months ended September 30, 2025, reflecting proactive liquidity management.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The credit facility is secured by a first priority lien on substantially all tangible and intangible assets, which may provide lenders with security and potentially favorable borrowing terms for the Company.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The Company uses interest rate swaps to hedge interest payments, which historically helped manage interest rate risk on borrowings, although the hedge was terminated after repayment of the prior facility balance.",
+          "intensity": "Low",
+          "source_fact_index": [
+            9
+          ]
+        },
+        {
+          "interpretation": "Commitment fees on the unutilized portion of the credit facility are relatively low (0.15% to 0.4%), which reduces the cost of maintaining borrowing capacity.",
+          "intensity": "Low",
+          "source_fact_index": [
+            10
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Despite having borrowing capacity, the Company had an outstanding balance of $60 million as of September 30, 2025, indicating existing leverage that requires servicing and repayment.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The revolving credit facility contains financial covenants including a maximum leverage ratio and minimum interest coverage ratio, which if breached could trigger defaults and restrict financial flexibility.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The Company has contingent consideration liabilities related to acquisitions amounting to $19.7 million as of September 30, 2025, which represent uncertain future cash outflows and potential financial obligations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7
+          ]
+        },
+        {
+          "interpretation": "The letter of credit collateralizing a $1.3 million surety bond reduces available borrowing capacity and will expire soon without plans for extension, potentially impacting liquidity or requiring alternative arrangements.",
+          "intensity": "Low",
+          "source_fact_index": [
+            8
+          ]
+        },
+        {
+          "interpretation": "The termination of the interest rate swap hedge in September 2024 means the Company is currently exposed to variability in interest payments on floating rate debt, which could increase interest expense if rates rise.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        },
+        {
+          "interpretation": "The Company pays commitment fees on the unused portion of the credit facility, which represents a recurring cost even when borrowings are not drawn, potentially impacting overall liquidity.",
+          "intensity": "Low",
+          "source_fact_index": [
+            10
+          ]
+        }
+      ],
+      "dimension": "Balance Sheet Strength & Liquidity"
+    },
+    {
+      "facts": [
+        {
+          "statement": "The challenge to attract and retain qualified talent in the current competitive labor market could lead to increased wage inflation or impede our ability to execute certain key strategic initiatives as we respond to labor shortages. Failure to successfully attract and retain an appropriately qualified workforce could materially adversely affect our business, financial condition, and results of operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "The process of integrating acquired operations may create operating difficulties and may require significant financial and managerial resources that would otherwise be available for existing operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Adverse effects from strategy-driven organizational change could interfere with our realization of anticipated synergies, customer service improvements and cost savings from these strategic initiatives. Additionally, our ability to fully realize the benefits and implement strategic initiatives may be limited by certain contractual commitments. Moreover, we may incur substantial expenses in connection with the execution of strategic plans in excess of what is forecasted. Further, strategic initiatives can be a complex and time-consuming process that can place substantial demands on management, which could divert attention from other business priorities or disrupt our daily operations. Any of these failures could materially adversely affect our business, financial condition, results of operations and cash flows, which could constrain our liquidity.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "To the extent that we rely on independent third parties to perform sales and manufacturing functions, we do not directly control their activity, including product delivery schedules and quality assurance, which may result in product shortages or quality assurance problems that could delay shipments of products, increase manufacturing, assembly, testing or other costs, or tarnishing the value of our brand or relationships with our customers. If a third party sales representative or manufacturer experiences capacity constraints or financial difficulties, suffers damage to its facilities, experiences power outages, natural disasters, labor shortages or labor strikes, or any other disruption, we may not be able to obtain alternative resources in a timely manner or on commercially acceptable terms. Any of these factors could negatively affect our business, results of operations and financial condition.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Loss of key suppliers, the inability to secure raw materials on a timely basis, the potential impacts of global inflation, or our inability to pass commodity price increases on to customers could have an adverse effect on our business.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Macroeconomic conditions have caused supply chains for many companies to be interrupted, slowed or temporarily rendered inoperable. In addition, supply chain shortages and cost increases due to new or increased tariffs have negatively impacted, and could continue to negatively impact, our manufacturing costs and logistics costs and, in turn, our gross margins. We may also be required to pay higher prices for raw materials due to inflationary trends regardless of supply.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "While we believe many challenges are temporary and can be managed in the near-term, our business and results of operations could be materially adversely affected by prolonged or increasing supply chain disruptions. Availability and cost of raw materials could be affected by a number of factors, including the cost of reliable energy; commodity prices; inflation; tariffs and duties on imported materials; foreign currency exchange rates; and phases of the general business cycle and global demand. We may be unable to pass along price increases to our customers, which could have a material adverse effect on our business and results of operations.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company recognizes labor market challenges and is actively responding to labor shortages, which could lead to improved workforce strategies and potentially more efficient execution of strategic initiatives.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The integration of acquired operations, while resource-intensive, reflects the company's commitment to growth through acquisitions, which may ultimately enhance operational capabilities and financial performance.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Strategic initiatives, despite their complexity and demands on management, are expected to yield meaningful financial benefits and improvements in customer service and cost savings once fully realized.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "The reliance on third-party manufacturers and sales representatives allows the company to leverage external expertise and capacity, potentially enabling scalability and flexibility in operations.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "The company sources raw materials from multiple suppliers and is aware of supply chain risks, which may encourage diversification and risk management strategies to mitigate adverse effects.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The company acknowledges supply chain disruptions and cost pressures, which may drive operational efficiencies and innovation to manage manufacturing and logistics costs effectively.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "The company believes many supply chain challenges are temporary and manageable in the near term, indicating confidence in its ability to adapt to changing market conditions and maintain operational stability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "Labor shortages and difficulties in attracting and retaining qualified talent could lead to increased wage inflation and impede execution of key strategic initiatives, materially adversely affecting business and financial results.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The integration of acquired operations may create significant operating difficulties and divert financial and managerial resources from existing operations, potentially harming overall business performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "Strategic initiatives may fail to realize anticipated synergies, customer service improvements, and cost savings within expected time frames, and may incur substantial unforecasted expenses, disrupting daily operations and constraining liquidity.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Dependence on third-party manufacturers and sales representatives, over which the company has limited control, exposes the company to risks of product shortages, quality issues, capacity constraints, and disruptions that could negatively impact business and financial condition.",
+          "intensity": "High",
+          "source_fact_index": [
+            3
+          ]
+        },
+        {
+          "interpretation": "Loss of key suppliers or inability to secure raw materials timely, combined with global inflation and inability to pass on commodity price increases, could materially adversely affect the business and results of operations.",
+          "intensity": "High",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Supply chain interruptions, shortages, and cost increases due to tariffs and inflation have already negatively impacted manufacturing and logistics costs and gross margins, with potential for continued adverse effects.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Prolonged or increasing supply chain disruptions and inability to pass price increases to customers could materially adversely affect business and results of operations.",
+          "intensity": "High",
+          "source_fact_index": [
+            6
+          ]
+        }
+      ],
+      "dimension": "Operational & Supply Chain Risks"
+    },
+    {
+      "facts": [
+        {
+          "statement": "There continues to be uncertainty regarding overall macroeconomic conditions, including increased geopolitical tensions, risk of recessions, and the effects of potential trade policies including tariffs. Since February 2025, the current United States presidential administration has imposed or threatened to impose tariffs in various jurisdictions. In April 2025, the President of the United States issued an executive order to regulate imports by imposing reciprocal country specific tariffs on multiple nations around the world, including Vietnam and China. A further executive order issued in April 2025 paused the implementation of the country specific tariffs on Vietnam and many other countries for 90 days, maintaining a 10% global baseline tariff, while the United States works with its trade partners to negotiate new trade agreements. Significant tariffs remain in effect between the U.S. and China. The current situation is dynamic, and it is unknown if the United States and its trade partners will reach an agreement to further pause, reduce or eliminate the pending tariffs. Should these tariffs be enacted they could have a material impact on our future net sales, cost of goods sold in the United States, profit and cash flow. The ultimate effect will be dependent on the magnitude and duration of the tariffs and the countries implicated, as well as our ability to mitigate their impact, where we continue to actively assess and implement mitigation options.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "We are exposed to market risk from changes in interest rates and foreign currency exchange rates, which may adversely affect our consolidated financial position and results of operations. We seek to minimize these risks through regular operating and financing activities, and when deemed appropriate, through the use of interest rate swaps. It is our policy to enter into interest rate swaps only to the extent considered necessary to meet our risk management objectives. We do not purchase, hold or sell derivative financial instruments for trading or speculative purposes.",
+          "source_section": "10-K Item 7A"
+        },
+        {
+          "statement": "Variable Rate Indebtedness: We are subject to interest rate risk on our variable rate indebtedness. Fluctuations in interest rates have a direct effect on the interest expense associated with our outstanding indebtedness. We manage, or hedge, interest rate risks related to our borrowings by means of interest rate swap agreements. As discussed in Note 10, the Whitmore Term Loan interest rate swap was terminated on January 9, 2023. On February 7, 2023, we entered into an interest rate swap to hedge our exposure to variability in cash flows from interest payments on the first $100.0 million borrowing under our Revolving Credit Facility (defined in Note 8). In September 2024, the hedge was terminated as described in Note 8. At March 31, 2025, we had $0.0 million in unhedged variable rate indebtedness as the outstanding balance of the Revolving Credit Facility was paid off in September 2024.",
+          "source_section": "10-K Item 7A"
+        },
+        {
+          "statement": "Foreign Currency Exchange Rate Risk: We conduct a portion of our operations outside of the U.S. in currencies other than the U.S. dollar. Our non-U.S. operations are conducted primarily in their local currencies, which are also their functional currencies, and include the Australian dollar, British pound, Canadian dollar and Vietnamese dong. Foreign currency exposures arise from translation of foreign-denominated assets and liabilities into U.S. dollars and from transactions denominated in a currency other than a non-U.S. operation’s functional currency. We realized net (losses) gains associated with foreign currency translation of $(1.9) million, $(1.9) million and $(3.8) million for the years ended March 31, 2025, 2024 or 2023, respectively, which are included in accumulated other comprehensive income (loss). We recognized foreign currency transaction net gains (losses) of $0.0 million, $1.1 million and $0.1 million for the years ended March 31, 2025, 2024 or 2023, respectively, which are included in other income (expense), net on our consolidated statements of operations. Based on a sensitivity analysis as of March 31, 2025, a 10% change in the foreign currency exchange rates for the year ended March 31, 2025 would have impacted our net income by 3%. This calculation assumes that all currencies change in the same direction and proportion relative to the U.S. dollar and that there are no indirect effects, such as changes in non-U.S. dollar sales volumes or prices.",
+          "source_section": "10-K Item 7A"
+        },
+        {
+          "statement": "International Markets Risk: Our manufacturing operations are concentrated in the U.S., Vietnam and Canada, and we have distribution operations in the U.S., Australia, Canada and the U.K. Rapidly changing global trade policies, such as tariffs, may increase operating costs and uncertainty. We continue to monitor domestic and international regulatory developments relevant to our manufacturing and distribution operations.",
+          "source_section": "10-K Item 7A"
+        },
+        {
+          "statement": "Adverse developments affecting the financial services industry, including events or concerns involving liquidity, defaults or non-performance by financial institutions or transactional counterparties, could adversely affect our business, financial condition or results of operations. Events involving limited liquidity, defaults, non-performance or other adverse developments that affect financial institutions, transactional counterparties or other companies in the financial services industry or the financial services industry generally, or concerns or rumors about any events of these kinds or other similar risks, have in the past and may in the future lead to market-wide liquidity problems. Although we assess our banking and customer relationships as we believe necessary or appropriate, our access to funding sources and other credit arrangements in amounts adequate to finance or capitalize our current and projected future business operations could be significantly impaired by factors that affect us, the financial services industry, or the economy in general. These factors could include, among others, events such as liquidity constraints or failures, the ability to perform obligations under various types of financial, credit or liquidity agreements or arrangements, disruptions or instability in the financial services industry or financial markets, or concerns or negative expectations about the prospects for companies in the financial services industry. In addition, investor concerns regarding the U.S. or international financial systems could result in less favorable commercial financing terms, including higher interest rates or costs and more restrictive financial and operating covenants, or systemic limitations on access to credit and liquidity sources, thereby making it more difficult for us to acquire financing on acceptable terms or at all. Any decline in available funding or access to our cash and liquidity resources could, among other risks, adversely impact our ability to meet our operating expenses, financial obligations, or fulfill our other obligations. Any of these impacts, or any other impacts resulting from the factors described above or other related or similar factors not described above, could have material adverse impacts on our liquidity and our business, financial condition, or results of operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Macroeconomic conditions have caused supply chains for many companies to be interrupted, slowed or temporarily rendered inoperable. In addition, supply chain shortages and cost increases due to new or increased tariffs have negatively impacted, and could continue to negatively impact, our manufacturing costs and logistics costs and, in turn, our gross margins. We may also be required to pay higher prices for raw materials due to inflationary trends regardless of supply. In addition, changing interest rates could materially adversely affect our business. In response to increasing inflation, the U.S. Federal Reserve began to raise interest rates in March 2022. Although the Federal Reserve began reducing the federal funds rate in late 2024 as a response to weakening inflation, there is no guarantee that the Federal Reserve will continue to reduce rates or that further changes in inflationary conditions will not occur. We are unable to predict changes in the Federal Reserve’s policies, the macroeconomic factors that influence those policies nor the impact that future changes will have on the economy and our business. Current or future efforts by the government to manage inflationary pressures or stimulate the economy may result in unintended economic consequences, which could have a direct and indirect adverse impact on our business and results of operations. While we believe many challenges are temporary and can be managed in the near-term, our business and results of operations could be materially adversely affected by prolonged or increasing supply chain disruptions. Availability and cost of raw materials could be affected by a number of factors, including the cost of reliable energy; commodity prices; inflation; tariffs and duties on imported materials; foreign currency exchange rates; and phases of the general business cycle and global demand. We may be unable to pass along price increases to our customers, which could have a material adverse effect on our business and results of operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our operations are conducted in many countries. The results of the operations and the financial position of these subsidiaries are reported in the relevant foreign currencies and then translated into U.S. dollars at the applicable exchange rates for inclusion in our consolidated financial statements. The main currencies to which we are exposed, besides the U.S. dollar, are primarily the Australian dollar, the British pound, the Canadian dollar and the Vietnamese dong. The exchange rates between these currencies and the U.S. dollar in recent years have fluctuated significantly and may continue to do so in the future for a variety of reasons, including general economic conditions and event-driven circumstances. A depreciation of these currencies against the U.S. dollar will decrease the U.S. dollar equivalent of the amounts derived from these operations reported in our consolidated financial statements, and an appreciation of these currencies will result in a corresponding increase in such amounts. Because many of our raw material costs are determined with respect to the U.S. dollar rather than these currencies, depreciation of these currencies may have an adverse effect on our profit margins or our reported results of operations. Conversely, to the extent that we are required to pay for goods or services in foreign currencies, the appreciation of such currencies against the U.S. dollar will tend to negatively impact our results of operations. In addition, currency fluctuations may affect the comparability of our results of operations between financial periods. We incur currency transaction risk whenever we enter into either a purchase or sale transaction using a currency other than the local currency of the transacting entity. Given the volatility of exchange rates, there can be no assurance that we will be able to effectively manage our currency transaction risks, that our hedging activities will be effective or that any volatility in currency exchange rates will not have a material adverse effect on our financial condition or results of operations.",
+          "source_section": "10-K Item 1A"
+        },
+        {
+          "statement": "Our operations are subject to certain foreign, federal, state and local regulatory requirements relating to environmental, waste management, labor and health and safety matters. Management believes that our business is operated in material compliance with all such regulations. To date, the cost of such compliance has not had a material impact on our capital expenditures, earnings or competitive position or that of our operating subsidiaries. While we have implemented policies, practices and procedures to prevent and mitigate risks, violations may occur in the future as a result of human error, equipment failure or other causes. Further, we cannot predict the nature, scope or effect of future environmental legislation or regulatory requirements that could be imposed, or how existing or future laws or regulations will be administered or interpreted.",
+          "source_section": "10-K Item 1A"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company actively monitors and implements mitigation strategies for tariff risks and trade policy uncertainties, demonstrating proactive management of macroeconomic and geopolitical risks which could help stabilize future net sales and profitability despite external trade tensions.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "The use of interest rate swaps and other risk management tools to hedge variable rate indebtedness indicates a disciplined approach to managing interest rate exposure, potentially reducing volatility in interest expenses and supporting financial stability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            2
+          ]
+        },
+        {
+          "interpretation": "The company’s diversified international operations and sensitivity analysis on foreign currency exchange rates show an awareness and management of currency risks, which could allow the company to better anticipate and respond to currency fluctuations impacting net income.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            8
+          ]
+        },
+        {
+          "interpretation": "Concentration of manufacturing and distribution in multiple countries with ongoing monitoring of regulatory developments suggests the company is positioned to adapt to changing international market conditions and regulatory environments.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4,
+            9
+          ]
+        },
+        {
+          "interpretation": "The company’s assessment and management of financial services industry risks, including liquidity and credit risks, may help maintain access to funding and operational continuity even in adverse market conditions.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The uncertainty and potential material impact of tariffs and trade policies, including dynamic and unresolved trade negotiations, pose significant risks to future net sales, cost of goods sold, profit, and cash flow.",
+          "intensity": "High",
+          "source_fact_index": [
+            0
+          ]
+        },
+        {
+          "interpretation": "Exposure to interest rate fluctuations on variable rate indebtedness, especially with terminated hedges and unhedged borrowings, could increase interest expense and negatively affect financial results.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            1,
+            2
+          ]
+        },
+        {
+          "interpretation": "Foreign currency exchange rate volatility, including depreciation of foreign currencies against the U.S. dollar, may adversely affect profit margins, reported results, and comparability between financial periods, with no assurance that hedging will be effective.",
+          "intensity": "High",
+          "source_fact_index": [
+            3,
+            8
+          ]
+        },
+        {
+          "interpretation": "Rapidly changing global trade policies and tariffs may increase operating costs and uncertainty, potentially disrupting manufacturing and distribution operations and impacting profitability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "Adverse developments in the financial services industry, including liquidity constraints and credit risks, could impair access to funding and credit arrangements, materially impacting liquidity, business operations, and financial condition.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        },
+        {
+          "interpretation": "Macroeconomic conditions causing supply chain disruptions, inflationary pressures, and interest rate changes may materially adversely affect manufacturing costs, gross margins, and overall business results, with uncertainty about the duration and severity of these challenges.",
+          "intensity": "High",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "Exposure to currency transaction risks and fluctuations in exchange rates, combined with the inability to fully manage these risks, could materially adversely affect financial condition and results of operations.",
+          "intensity": "High",
+          "source_fact_index": [
+            8
+          ]
+        },
+        {
+          "interpretation": "Potential future violations or changes in environmental, labor, health and safety regulations could impose unforeseen costs or operational restrictions, with uncertain regulatory developments posing ongoing compliance risks.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            9
+          ]
+        }
+      ],
+      "dimension": "Market, Macro & Regulatory Exposure"
+    },
+    {
+      "facts": [
+        {
+          "statement": "We regularly evaluate acquisition opportunities of various sizes. The cost and terms of any financing to be raised in conjunction with any acquisition, including our ability to raise capital, is a critical consideration in any such evaluation.",
+          "source_section": "10-Q - Page 54"
+        },
+        {
+          "statement": "We expect to maintain a strong balance sheet in fiscal year 2026, which provides us with access to capital through our cash on hand, internally-generated cash flow and availability under our Revolving Credit Facility.",
+          "source_section": "10-K - Page 54"
+        },
+        {
+          "statement": "Our capital allocation strategy continues to guide our investing decisions, with a priority to direct capital to the highest risk adjusted return opportunities, within the categories of organic growth, strategic acquisitions and the return of cash to shareholders through our share repurchase and dividend programs.",
+          "source_section": "10-K - Page 54"
+        },
+        {
+          "statement": "With the strength of our financial position, we will continue to invest in financially and strategically attractive expanded product offerings, key elements of our long-term strategy of targeting long-term profitable growth.",
+          "source_section": "10-K - Page 54"
+        },
+        {
+          "statement": "We will continue to invest our capital in maintaining our facilities and in continuous improvement initiatives.",
+          "source_section": "10-K - Page 54"
+        },
+        {
+          "statement": "We recognize the importance of, and remain committed to, continuing to drive organic growth, as well as investing additional capital in opportunities with attractive risk-adjusted returns, driving increased penetration in the end markets we serve.",
+          "source_section": "10-K - Page 54"
+        },
+        {
+          "statement": "We remain disciplined in our approach to acquisitions, particularly as it relates to our assessment of valuation, prospective synergies, diligence, cultural fit and ease of integration, especially in light of economic conditions.",
+          "source_section": "10-K - Page 54"
+        },
+        {
+          "statement": "Forward-looking statements include expected restructuring charges and the results of the restructuring, financial projections, statements of plans and objectives for future operations, statements of future economic performance, and statements of assumptions relating thereto.",
+          "source_section": "10-Q - Page 54"
+        },
+        {
+          "statement": "The success or timing of completion of ongoing or anticipated capital, restructuring or maintenance projects;",
+          "source_section": "10-K - Page 40"
+        }
+      ],
+      "upside_thesis": [
+        {
+          "interpretation": "The company’s disciplined acquisition strategy, focusing on valuation, synergies, diligence, cultural fit, and integration, suggests a thoughtful approach to growth that could enhance long-term profitability.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "Maintaining a strong balance sheet with access to capital through cash on hand, internally-generated cash flow, and credit facilities provides financial flexibility to pursue strategic investments and acquisitions.",
+          "intensity": "High",
+          "source_fact_index": [
+            1
+          ]
+        },
+        {
+          "interpretation": "The capital allocation strategy prioritizes investments in organic growth, strategic acquisitions, and returning cash to shareholders, indicating a balanced approach to growth and shareholder value creation.",
+          "intensity": "High",
+          "source_fact_index": [
+            2
+          ]
+        },
+        {
+          "interpretation": "Continued investment in expanded product offerings and facility maintenance supports the company’s long-term strategy targeting profitable growth and operational efficiency.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            3,
+            4
+          ]
+        },
+        {
+          "interpretation": "Commitment to driving organic growth and investing in opportunities with attractive risk-adjusted returns could lead to increased market penetration and revenue growth.",
+          "intensity": "High",
+          "source_fact_index": [
+            5
+          ]
+        }
+      ],
+      "downside_thesis": [
+        {
+          "interpretation": "The reliance on acquisitions as a key growth strategy may expose the company to integration risks, including challenges related to valuation, cultural fit, and synergy realization, especially under uncertain economic conditions.",
+          "intensity": "High",
+          "source_fact_index": [
+            6
+          ]
+        },
+        {
+          "interpretation": "Although the company maintains a strong balance sheet, potential restructuring charges and the uncertainty around the timing and success of capital and restructuring projects could negatively impact financial performance.",
+          "intensity": "High",
+          "source_fact_index": [
+            7,
+            8
+          ]
+        },
+        {
+          "interpretation": "The need to continuously invest capital in maintaining facilities and improvement initiatives may strain resources and affect profitability if returns on these investments are not realized as expected.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            4
+          ]
+        },
+        {
+          "interpretation": "The company’s forward-looking statements highlight various risks and uncertainties, including those related to business strategy execution and market conditions, which could adversely affect results.",
+          "intensity": "Medium",
+          "source_fact_index": [
+            7
+          ]
+        }
+      ],
+      "dimension": "Management Strategy & Execution"
+    }
+  ]
+}

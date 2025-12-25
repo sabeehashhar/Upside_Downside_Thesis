@@ -1,0 +1,32 @@
+================================================================================
+USAGE METRICS & COST SUMMARY - FTAI
+Generated: 2025-12-25T12:22:09.773949
+================================================================================
+
+API CALLS:
+  • LLM Calls (Chat):        9
+  • Embedding Calls:         8
+  • Total API Calls:         17
+
+TOKEN USAGE:
+  • Prompt Tokens:           126,041
+  • Completion Tokens:       17,433
+  • Embedding Tokens:        120,728
+  • Total LLM Tokens:        143,474
+  • Grand Total Tokens:      264,202
+
+EXECUTION TIME:
+  • Total Duration:          3m 4s (184.1s)
+  • Avg per LLM Call:        20.5s
+
+ESTIMATED COST (Azure OpenAI):
+  • LLM Input:               $0.0378
+  • LLM Output:              $0.0209
+  • Embeddings:              $0.0024
+  • TOTAL COST:              $0.0611
+
+EFFICIENCY METRICS:
+  • Embedding Cache Hits:    573 unique texts cached
+  • Tokens per LLM Call:     15942 avg
+  • Cost per LLM Call:       $0.0065 avg
+================================================================================
